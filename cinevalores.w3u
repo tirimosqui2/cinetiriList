@@ -22,7 +22,7 @@
 {
 "name" : "Como Dios manda 2023",
 "image" : "https://pics.filmaffinity.com/como_dios_manda-396503421-mmed.jpg",
-"info" : " ⌛️ Drama/Discapacidad/Matemáticas
+"info" : " ⌛️ comedia/igualdadad/machismo
 
 🌐: un estricto funcionario del Ministerio de Hacienda,Tras un desafortunado enfrentamiento con una compañera de trabajo, es sancionado y trasladado a Igualdad",
 "url" : "https://upstream.to/y2hpgbuk5r78",
@@ -442,12 +442,30 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "stations" : 
 	[
 {
-"name" : "Human 2015 LOS VALORES ÉTICOS",
-"info" : " ⌛️ Documental/Drama/Enseñanza/Infancia
+"name" : "Human 2015 LOS VALORES ÉTICOS partI",
+"info" : " ⌛️ Documental/Drama/Enseñanza/valores
 				
 🌐:  retrata la humanidad de hoy en día. Rodada en 60 paises durante más de 2 años, las 2.000 personas",	
 "image" : "https://pics.filmaffinity.com/human-397519235-mmed.jpg",
 "url" : "https://youtu.be/N1WdfVWo1pQ",
+"isHost" : true
+},
+{
+"name" : "Human 2015 partII",
+"info" : " ⌛️ Documental/Drama/Enseñanza/valores
+				
+🌐:  retrata la humanidad de hoy en día. Rodada en 60 paises durante más de 2 años, las 2.000 personas",	
+"image" : "https://pics.filmaffinity.com/human-397519235-mmed.jpg",
+"url" : "https://youtu.be/9eWu6l8vnuc",
+"isHost" : true
+},
+{
+"name" : "Human 2015 partIII",
+"info" : " ⌛️ Documental/Drama/Enseñanza/valores
+				
+🌐:  retrata la humanidad de hoy en día. Rodada en 60 paises durante más de 2 años, las 2.000 personas",	
+"image" : "https://pics.filmaffinity.com/human-397519235-mmed.jpg",
+"url" : "https://youtu.be/gh7MfEey4J8",
 "isHost" : true
 },
 {
