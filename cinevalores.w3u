@@ -660,6 +660,33 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "stations" : 
 	[
 {
+"name" : "Mejor Pronto Que Tarde",
+"image" : "https://e-cdn-images.dzcdn.net/images/cover/9afd14002223fa88bd2207f319451e65/500x500-000000-80-0-0.jpg",
+"info" : " ⌛️ prevencion/adicciones/Educativo/consumo
+
+🌐: Proyecto Hombre lanza un mensaje para sensibilizar a los jóvenes y prevenirles de futuras adicciones en clave de rap",
+"url" : "https://www.youtube.com/watch?v=CjBYC-eqFXg",
+"isHost" : true
+},
+{
+"name" : "Consumo cero de alcohol en menores",
+"image" : "https://www.alcoholysociedad.org/FILES/imagenes/Noticias/curso-escolar-prevencion.jpg",
+"info" : " ⌛️ consumo/Educativo/Enseñanza/
+
+🌐: Entrevistas sobre los efectos del alcohol en menores y explicación sobre la necesidad del consumo",
+"url" : "https://www.youtube.com/watch?app=desktop&v=kTxDC5i-Gy4",
+"isHost" : true
+},
+{
+"name" : "Campaña #FakeNurses #EsaNoSoyYo",
+"image" : "https://static.wikia.nocookie.net/logopedia/images/0/0c/Esa_no_soy_yo.jpg/revision/latest/scale-to-width-down/125?cb=20230118032409&path-prefix=es",
+"info" : " ⌛️ /Educativo/Campaña/Feminismo
+
+🌐: Queremos ser reconocidas de una manera justa. Queremos dejar a un lado esas terribles narrativas que nos persiguen",
+"url" : "https://www.youtube.com/watch?v=BfbsFcPH9ZM",
+"isHost" : true
+},
+{
 "name" : "Binta Y La Gran Idea",
 "image" : "https://pics.filmaffinity.com/binta_y_la_gran_idea-340670097-mmed.jpg",
 "info" : " ⌛️ Drama |/Educativo/África/Enseñanza/Feminismo
