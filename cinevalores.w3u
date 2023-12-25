@@ -11,23 +11,63 @@
 "stations" : 
 	[
 {
-"name" : "Súper bailarina 2022",
-"image" : "https://pics.filmaffinity.com/neneh_superstar-735663276-mmed.jpg",
-"info" : " ⌛️ Drama/Comedia/Baile/racismo/superacion
-
-💬 Sinopsis:
-Nacida para la danza, Neneh es una niña negra de 12 años que sueña con ingresar en la Escuela de Ballet de Opera de París",
-"url" : "https://highstream.tv/m3rl36f6ecp4/Neneh_Superstar-.mp4.html",
-"isHost" : true
-},
-{
-"name" : "Súper bailarina 2022 op2 hd",
+"name" : "Súper bailarina 2022 ",
 "image" : "https://pics.filmaffinity.com/neneh_superstar-735663276-mmed.jpg",
 "info" : " ⌛️ Drama/Comedia/Baile/racismo/superacion
 
 💬 Sinopsis:
 Nacida para la danza, Neneh es una niña negra de 12 años que sueña con ingresar en la Escuela de Ballet de Opera de París",
 "url" : "https://streamwish.to/e/auifz9t0805p",
+"isHost" : true
+},
+{
+"name" : "Las niñas 2020",
+"image" : "https://pics.filmaffinity.com/las_ninas-622349595-mmed.jpg",
+"info" : " ⌛️ Drama/Infancia/Adolescencia/Cole&Uni
+
+💬 Sinopsis:
+   Celia, una niña de 11 años, vive con su madre y estudia en un colegio de monjas en Zaragoza. Brisa, una nueva compañera recién llegada de Barcelona, la empuja hacia una nueva etapa en su vida",
+"url" : "https://www.tokyvideo.com/es/video/las-ninas-2020",
+"isHost" : true
+},
+{
+"name" : "Quiero ser como Beckham 2002",
+"image" : "https://pics.filmaffinity.com/bend_it_like_beckham-369107003-mmed.jpg",
+"info" : " ⌛️ Comedia/Romance/Fútbol/Adolescencia
+
+💬 Sinopsis:
+ Los padres de Jess quieren que sea una convencional chica india, pero ella sólo quiere jugar al fútbol",
+"url" : "https://www.tokyvideo.com/es/video/quiero-ser-como-beckham",
+"isHost" : true
+}, 
+{
+"name" : "El Método Williams 2021",
+"image" : "https://pics.filmaffinity.com/king_richard-212327278-mmed.jpg",
+"info" : " ⌛️ Drama/Biográfico/Deporte/Tenis/Familia
+
+💬 Sinopsis:
+ Richard Williams, un padre inasequible que ayudó a formar a dos de las deportistas más extraordinarias de todos los tiempos",
+"url" : "https://www.tokyvideo.com/es/video/el-metodo-williams-2022-seriescuellar",
+"isHost" : true
+},
+{
+"name" : "Siempre a tu lado, Hachiko 2009",
+"image" : "https://pics.filmaffinity.com/hachi_a_dog_s_tale_hachiko_a_dog_s_story-386676685-mmed.jpg",
+"info" : " ⌛️ Melodrama/familiar/Amistad/Animales/hechos reales
+
+💬 Sinopsis:
+ un profesor universitario que da clases de música, recoge un día a un perro de origen japonés y raza Akita, al que encuentra abandonado en una estación",
+"url" : "https://www.tokyvideo.com/es/video/siempre-a-tu-lado",
+"isHost" : true
+}, 
+{
+"name" : "Erin Brockovich 2000",
+"image" : "https://pics.filmaffinity.com/erin_brockovich-332274406-mmed.jpg",
+"info" : " ⌛️ Drama / hechos reales/judicial/Abogados/as
+
+💬 Sinopsis:
+ una madre soltera que consigue un puesto de trabajo en un pequeño despacho de abogados. Su personalidad poco convencional hará que sus comienzos no sean demasiado alentadores",
+"url" : "https://www.tokyvideo.com/es/video/erin-brockovich",
 "isHost" : true
 },
 {
@@ -75,7 +115,8 @@ Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse 
 "image" : "https://pics.filmaffinity.com/the_swimmers-319132424-mmed.jpg",
 "info" : " ⌛️ Drama/Natación/superacion/Inmigración/Guerra/olímpicos/hechos reales
 
-🌐: Una historia del viaje milagroso realizado por las hermanas nadadoras Yusra y Sarah Mardini que huyeron como refugiadas de la Siria",
+💬 Sinopsis:
+Una historia del viaje milagroso realizado por las hermanas nadadoras Yusra y Sarah Mardini que huyeron como refugiadas de la Siria",
 "url" : "https://upstream.to/yyq8g9dzr848",
 "isHost" : true
 },
@@ -84,7 +125,8 @@ Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse 
 "image" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l4clsLFTodLinpcLtAxwHTF1zn1.jpg",
 "info" : " ⌛️ Drama/Skateboarding/superacion/machismo
 
-🌐: una adolescente de la India rural, alcanza la mayoría de edad cuando se inicia en el skateboard",
+💬 Sinopsis:
+una adolescente de la India rural, alcanza la mayoría de edad cuando se inicia en el skateboard",
 "url" : "https://ok.ru/videoembed/2218729540157",
 "isHost" : true
 },
@@ -93,7 +135,8 @@ Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse 
 "image" : "https://pics.filmaffinity.com/como_dios_manda-396503421-mmed.jpg",
 "info" : " ⌛️ comedia/igualdadad/machismo
 
-🌐: un estricto funcionario del Ministerio de Hacienda,Tras un desafortunado enfrentamiento con una compañera de trabajo, es sancionado y trasladado a Igualdad",
+💬 Sinopsis:
+un estricto funcionario del Ministerio de Hacienda,Tras un desafortunado enfrentamiento con una compañera de trabajo, es sancionado y trasladado a Igualdad",
 "url" : "https://upstream.to/y2hpgbuk5r78",
 "isHost" : true
 },
@@ -102,7 +145,8 @@ Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse 
 "image" : "https://pics.filmaffinity.com/campeones-981723931-mmed.jpg",
 "info" : " ⌛️ Comedia/Discapacidad/Deporte/Baloncesto
 
-🌐: un entrenador profesional de baloncesto, se encuentra un día, en medio de una crisis personal, entrenando a un equipo compuesto por personas con discapacidad intelectual",
+💬 Sinopsis:
+un entrenador profesional de baloncesto, se encuentra un día, en medio de una crisis personal, entrenando a un equipo compuesto por personas con discapacidad intelectual",
 "url" : "https://upstream.to/e4thbyjbaln8",
 "isHost" : true
 },
@@ -111,7 +155,8 @@ Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse 
 "image" : "https://pics.filmaffinity.com/campeonex-966482082-mmed.jpg",
 "info" : " ⌛️ Comedia/Discapacidad/Deporte/Baloncesto
 
-🌐: equipo de campeones abandona el baloncesto para adentrarse por error en el fascinante mundo del atletismo de la mano de una entrenadora novata",
+💬 Sinopsis:
+equipo de campeones abandona el baloncesto para adentrarse por error en el fascinante mundo del atletismo de la mano de una entrenadora novata",
 "url" : "https://highstream.tv/uvry2gh8k3j6/3xfn7kg1r3la.mp4.html",
 "isHost" : true
 },
@@ -120,7 +165,8 @@ Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse 
 "image" : "https://pics.filmaffinity.com/12_years_a_slave_twelve_years_a_slave-305655779-mmed.jpg",
 "info" : " ⌛️ Drama/hechos reales/Esclavitud/Racismo/Histórico
 
-🌐: la historia de Solomon Northup, un culto músico negro que vivía con su familia en Nueva York. Tras tomar una copa con dos hombres, Solomon descubre que ha sido drogado y secuestrado para ser vendido",
+💬 Sinopsis:
+la historia de Solomon Northup, un culto músico negro que vivía con su familia en Nueva York. Tras tomar una copa con dos hombres, Solomon descubre que ha sido drogado y secuestrado para ser vendido",
 "url" : "https://archive.org/download/12-anos-de-esclavitud-2013/12%20a%C3%B1os%20de%20esclavitud%20%282013%29.avi",
 "isHost" : true
 },
@@ -129,7 +175,8 @@ Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse 
 "image" : "https://imgs1.e-droid.net/srv/imgs/cards/o858778_10011572.png",
 "info" : " ⌛️ superación/Comedia/Baloncesto/perseverancia
 
-🌐: un cazatalentos de baloncestistas en horas bajas que, estando en el extranjero, descubre un jugador con enorme talento pero con un pasado difícil",
+💬 Sinopsis:
+un cazatalentos de baloncestistas en horas bajas que, estando en el extranjero, descubre un jugador con enorme talento pero con un pasado difícil",
 "url" : "https://www.tokyvideo.com/es/video/garra-2022-hd",
 "isHost" : true
 },
@@ -138,7 +185,8 @@ Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse 
 "image" : "https://pics.filmaffinity.com/die_welle-831812097-mmed.jpg",
 "info" : " ⌛️ Drama/hechos reales/Enseñanza/Cole&Uni/Adolescencia/Sectas
 
-🌐: un profesor de instituto en Alemania que plantea a su clase un experimento para que entiendan cómo funcionan los gobiernos totalitarios",
+💬 Sinopsis:
+un profesor de instituto en Alemania que plantea a su clase un experimento para que entiendan cómo funcionan los gobiernos totalitarios",
 "url" : "https://www.tokyvideo.com/es/video/la-ola-3",
 "isHost" : true
 },
@@ -147,7 +195,8 @@ Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse 
 "image" : "https://pics.filmaffinity.com/mississippi_burning-915266764-mmed.jpg",
 "info" : " ⌛️ Intriga/Crimen/Racismo/Policíaco/Drama social/hechos reales
 
-🌐: En 1964, en un pueblo sureño, donde el racismo está profundamente arraigado y el Ku Klux Klan reivindica violentamente la supremacía blanca",
+💬 Sinopsis:
+En 1964, en un pueblo sureño, donde el racismo está profundamente arraigado y el Ku Klux Klan reivindica violentamente la supremacía blanca",
 "url" : "https://www.tokyvideo.com/es/video/arde-mississippi",
 "isHost" : true
 },
@@ -156,7 +205,8 @@ Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse 
 "image" : "https://pics.filmaffinity.com/ya_soy_mujer-757656632-mmed.jpg",
 "info" : " ⌛️ Comedia/Drama/Adolescencia/miedos
 
-🌐: La protagonista es Celia, una niña que está a punto de convertirse en mujer",
+💬 Sinopsis:
+La protagonista es Celia, una niña que está a punto de convertirse en mujer",
 "url" : "https://ok.ru/videoembed/5213405710974",
 "isHost" : true
 },
@@ -165,7 +215,8 @@ Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse 
 "image" : "https://pics.filmaffinity.com/planta_4a-877143595-mmed.jpg",
 "info" : " ⌛️ Comediadramática/Discapacidad/Enfermedad/Adolescencia/lucha
 
-🌐: Miguel Ángel, Izan, Dani y Jorge, son un grupo de chicos que logran con su alegría desafiar el desprecio del destino y hacer soportable su convalecencia en la planta de traumatología de un hospital",
+💬 Sinopsis:
+Miguel Ángel, Izan, Dani y Jorge, son un grupo de chicos que logran con su alegría desafiar el desprecio del destino y hacer soportable su convalecencia en la planta de traumatología de un hospital",
 "url" : "https://ok.ru/videoembed/5167201913470",
 "isHost" : true
 },
@@ -174,7 +225,8 @@ Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse 
 "image" : "https://pics.filmaffinity.com/adios_ciguena_adios-586408393-mmed.jpg",
 "info" : " ⌛️ Adolescencia/Comedia dramática
 
-🌐: Durante una excursión que hacen juntos los dos colegios, los dos chicos pueden verse a solas, y ella se queda embarazada",
+💬 Sinopsis:
+Durante una excursión que hacen juntos los dos colegios, los dos chicos pueden verse a solas, y ella se queda embarazada",
 "url" : "https://ok.ru/videoembed/1663167957656",
 "isHost" : true
 },
@@ -183,7 +235,8 @@ Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse 
 "image" : "https://pics.filmaffinity.com/el_nino_es_nuestro-629300425-mmed.jpg",
 "info" : " ⌛️ Comedia/Adolescencia/Secuela
 
-🌐: Secuela de Adiós cigüeña adiós como la chica no puede mantener a su hijo, se lo quitan y le envían a un orfanato regido por monjas",
+💬 Sinopsis:
+Secuela de Adiós cigüeña adiós como la chica no puede mantener a su hijo, se lo quitan y le envían a un orfanato regido por monjas",
 "url" : "https://ok.ru/videoembed/1662792501912",
 "isHost" : true
 },
@@ -192,7 +245,8 @@ Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse 
 "image" : "https://pics.filmaffinity.com/tesis-722806709-mmed.jpg",
 "info" : " ⌛️ Thriller/Cole&Uni/Asesinos Secuestros /Desapariciones
 
-🌐: Ángela,estudiante de Imagen,está preparando una tesis sobre la violencia audiovisual",
+💬 Sinopsis:
+Ángela,estudiante de Imagen,está preparando una tesis sobre la violencia audiovisual",
 "url" : "https://ok.ru/videoembed/4324025436798",
 "isHost" : true
 },
@@ -201,7 +255,8 @@ Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse 
 "image" : "https://pics.filmaffinity.com/cambio_de_sexo-194603467-mmed.jpg",
 "info" : " ⌛️ Drama/hechos reales/Adolescencia/transgénero
 
-🌐: Basada en una historia real, cuenta la vida de José María, un joven de 16 años que se siente mujer en un cuerpo de hombre",
+💬 Sinopsis:
+Basada en una historia real, cuenta la vida de José María, un joven de 16 años que se siente mujer en un cuerpo de hombre",
 "url" : "https://ok.ru/videoembed/5223732087422",
 "isHost" : true
 },
@@ -210,7 +265,8 @@ Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse 
 "image" : "https://pics.filmaffinity.com/marsella-269244202-mmed.jpg",
 "info" : " ⌛️ Drama/Road Movie/Adopción/Maternidad
 
-🌐: Una madre biológica, Sara, y una madre de acogida, Virginia, comparten a una niña de nueve años",
+💬 Sinopsis:
+Una madre biológica, Sara, y una madre de acogida, Virginia, comparten a una niña de nueve años",
 "url" : "https://ok.ru/videoembed/6182492703358",
 "isHost" : true
 },
@@ -219,7 +275,8 @@ Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse 
 "image" : "https://pics.filmaffinity.com/princesas-480393116-mmed.jpg",
 "info" : " ⌛️ Drama social/Prostitución/Amistad/Inmigración
 
-🌐: Ésta es la historia de dos prostitutas: Caye, madrileña de casi treinta años y con un atractivo más bien barriobajero",
+💬 Sinopsis:
+Ésta es la historia de dos prostitutas: Caye, madrileña de casi treinta años y con un atractivo más bien barriobajero",
 "url" : "https://ok.ru/videoembed/6172810807934",
 "isHost" : true
 },
@@ -228,7 +285,8 @@ Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse 
 "image" : "https://pics.filmaffinity.com/la_teta_i_la_lluna-888889574-mmed.jpg",
 "info" : " ⌛️ Comedia/Drama/Infancia/Celos
 
-🌐: Tete es un niño enigmático que se siente desplazado con la llegada de su hermano y no puede ver como el bebé se alimenta de la leche de su madre",
+💬 Sinopsis:
+Tete es un niño enigmático que se siente desplazado con la llegada de su hermano y no puede ver como el bebé se alimenta de la leche de su madre",
 "url" : "https://ok.ru/videoembed/6184570849918",
 "isHost" : true
 },
@@ -237,16 +295,18 @@ Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse 
 "image" : "https://pics.filmaffinity.com/gordos-550477232-mmed.jpg",
 "info" : " ⌛️ Comedia dramática/Homosexualidad/miedos
 
-🌐: Comedia dramática sobre los excesos y las carencias de la vida. Los complejos",
+💬 Sinopsis:
+Comedia dramática sobre los excesos y las carencias de la vida. Los complejos",
 "url" : "https://ok.ru/videoembed/6192744893054",
 "isHost" : true
 },
 {
 "name" : "Katmandú, un espejo en el cielo 2011",
-"image" : "https://pics.filmaffinity.com/katmandu_un_espejo_en_el_cielo594597333-mmed.jpg",
+"image" : "https://pics.filmaffinity.com/katmandu_un_espejo_en_el_cielo-594597333-mmed.jpg",
 "info" : " ⌛️ Drama/Romance/hechos reales/ Enseñanza
 
-🌐: Laia, una joven maestra catalana, se traslada a Katmandú para trabajar en una escuela",
+💬 Sinopsis:
+Laia, una joven maestra catalana, se traslada a Katmandú para trabajar en una escuela",
 "url" : "https://ok.ru/videoembed/6208535857790",
 "isHost" : true
 },
@@ -255,7 +315,8 @@ Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse 
 "image" : "https://pics.filmaffinity.com/ama-699071113-mmed.jpg",
 "info" : " ⌛️ Drama/ Maternidad/Drama social
 
-🌐: Cuenta la historia de muchas mujeres expuestas en soledad a la mitificada maternidad",
+💬 Sinopsis:
+Cuenta la historia de muchas mujeres expuestas en soledad a la mitificada maternidad",
 "url" : "https://ok.ru/videoembed/6226400250494",
 "isHost" : true
 },
@@ -264,7 +325,8 @@ Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse 
 "image" : "https://pics.filmaffinity.com/en_la_puta_calle-400310091-mmed.jpg",
 "info" : " ⌛️ Drama social/Trabajo/empleo/Inmigración
 
-🌐: Juan es un electricista que, tras quedarse en paro, abandona a su familia y pone rumbo a Madrid en busca de alguna oportunidad",
+💬 Sinopsis:
+Juan es un electricista que, tras quedarse en paro, abandona a su familia y pone rumbo a Madrid en busca de alguna oportunidad",
 "url" : "https://ok.ru/videoembed/6201734138494",
 "isHost" : true
 },
@@ -273,7 +335,8 @@ Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse 
 "image" : "https://pics.filmaffinity.com/monica-313668763-mmed.jpg",
 "info" : " ⌛️ Drama/Familia/Transexualidad/Transgénero
 
-🌐: Monica es una mujer trans que se encuentra en una encrucijada vital",
+💬 Sinopsis:
+Monica es una mujer trans que se encuentra en una encrucijada vital",
 "url" : "https://nuuuppp.pro/watch/iGNmDYMG3RSrQCraU0kwtAzWj0Us3M2fAHm3SDnD0rg?h=",
 "isHost" : true
 },
@@ -282,7 +345,8 @@ Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse 
 "image" : "https://i0.wp.com/netmusicvideo.com/wp-content/uploads/2021/03/Pink-Floyd-The-Wall-D.jpg",
 "info" : " ⌛️ Musical/Drama/Fantástico/surrealismo/Documental
 
-🌐: Pink, el cantante de un grupo musical, arrastra desde su infancia una serie de traumas debido a la dura educación que recibió",
+💬 Sinopsis:
+Pink, el cantante de un grupo musical, arrastra desde su infancia una serie de traumas debido a la dura educación que recibió",
 "url" : "https://player.vimeo.com/video/281984569",
 "isHost" : true
 },
@@ -291,7 +355,8 @@ Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse 
 "image" : "https://pics.filmaffinity.com/la_lengua_de_las_mariposas-220234225-mmed.jpg",
 "info" : " ⌛️ Drama/Años 30/Infancia/Enseñanza/Cole&Uni
 
-🌐: Don Gregorio enseñará a Moncho con dedicación y paciencia toda su sabiduría en cuanto a los conocimientos, la literatura, la naturaleza, y hasta las mujeres",
+💬 Sinopsis:
+Don Gregorio enseñará a Moncho con dedicación y paciencia toda su sabiduría en cuanto a los conocimientos, la literatura, la naturaleza, y hasta las mujeres",
 "url" : "https://www.tokyvideo.com/es/video/la-lengua-de-las-mariposas-1999",
 "isHost" : true
 },
@@ -300,7 +365,8 @@ Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse 
 "image" : "https://pics.filmaffinity.com/el_bola-706926535-mmed.jpg",
 "info" : " ⌛️ Drama social/Adolescencia/Amistad/Familia
 
-🌐: El Bola es un chaval de 12 años que vive en una atmósfera violenta y sórdida. Su situación familiar, que oculta avergonzado",
+💬 Sinopsis:
+El Bola es un chaval de 12 años que vive en una atmósfera violenta y sórdida. Su situación familiar, que oculta avergonzado",
 "url" : "https://ok.ru/videoembed/1510933793385",
 "isHost" : true
 },
@@ -309,7 +375,8 @@ Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse 
 "image" : "https://pics.filmaffinity.com/las_bicicletas_son_para_el_verano-456958937-mmed.jpg",
 "info" : " ⌛️ Drama/Guerra Civil Española/Años 30
 
-🌐: una familia formada por un matrimonio y dos hijos comparte los avatares de la guerra con la criada y los vecinos",
+💬 Sinopsis:
+una familia formada por un matrimonio y dos hijos comparte los avatares de la guerra con la criada y los vecinos",
 "url" : "https://ok.ru/videoembed/1643602709098",
 "isHost" : true
 },
@@ -318,7 +385,8 @@ Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse 
 "image" : "https://pics.filmaffinity.com/mean_girls-442432205-mmed.jpg",
 "info" : " ⌛️ Adolescencia/Cole&Uni/Comedia juvenil/Acoso escolar/Bullying
 
-🌐: una adolescente entabla amistad con tres populares, pero también manipuladoras estudiantes",
+💬 Sinopsis:
+una adolescente entabla amistad con tres populares, pero también manipuladoras estudiantes",
 "url" : "https://www.tokyvideo.com/es/video/chicas-malas-mean-girls-2004-seriescuellar",
 "isHost" : true
 },
@@ -327,7 +395,8 @@ Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse 
 "image" : "https://pics.filmaffinity.com/chavalas-268818966-mmed.jpg",
 "info" : " ⌛️ Fotografía/Amistad/Comedia/
 
-🌐: amigas inseparables en la adolescencia, vuelven a encontrarse en el barrio para revivir una auténtica y tragicómica amistad",
+💬 Sinopsis:
+amigas inseparables en la adolescencia, vuelven a encontrarse en el barrio para revivir una auténtica y tragicómica amistad",
 "url" : "https://ok.ru/videoembed/7221129054802",
 "isHost" : true
 },
@@ -336,7 +405,8 @@ Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse 
 "image" : "https://pics.filmaffinity.com/le_fabuleux_destin_d_amelie_poulain-848337470-mmed.jpg",
 "info" : " ⌛️ Comedia dramática/Realismo mágico
 
-🌐: Amelie no es una chica como las demás.Ha visto a su pez de colores deslizarse hacia las alcantarillas municipales",
+💬 Sinopsis:
+Amelie no es una chica como las demás.Ha visto a su pez de colores deslizarse hacia las alcantarillas municipales",
 "url" : "https://www.tokyvideo.com/es/video/amelie-2",
 "isHost" : true
 },
@@ -346,7 +416,8 @@ Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse 
 "image" : "https://pics.filmaffinity.com/yes_day-234577345-mmed.jpg",
 "info" : " ⌛️ Comedia/Adolescencia/union familiar/valores
 
-🌐: siempre dicen NO a sus hijos y compañeros de trabajo, deciden dar a sus tres hijos un YES DAY,en el que durante 24 horas los niños mandarán",
+💬 Sinopsis:
+siempre dicen NO a sus hijos y compañeros de trabajo, deciden dar a sus tres hijos un YES DAY,en el que durante 24 horas los niños mandarán",
 "url" : "https://nuuuppp.pro/watch/30WekBIbWt7goBUyhqZOweu7kz72OkQ8KzQP96dnZFyckw?h=",
 "isHost" : true
 },
@@ -355,7 +426,8 @@ Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse 
 "image" : "https://pics.filmaffinity.com/despues_de_lucia-255178360-mmed.jpg",
 "info" : " ⌛️ Drama/Familia/Acoso escolar/Bullying/Cole
 
-🌐: Tras perder a su madre Lucía, la joven Alejandra se muda junto con su padre Roberto
+💬 Sinopsis:
+Tras perder a su madre Lucía, la joven Alejandra se muda junto con su padre Roberto
 Una película centrada en el problema del bullying para mostrar a los menores la importancia de contar a padres",
 "url" : "https://opvid.org/rtccjn6v777v",
 "isHost" : true
@@ -365,7 +437,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "image" : "https://pics.filmaffinity.com/the_pursuit_of_happyness-660040804-mmed.jpg",
 "info" : " ⌛️ Drama/hechos reales/Negocios/empleo
 
-🌐: Chris Gardner es un vendedor brillante y con talento, pero su empleo no le permite cubrir sus necesidades más básicas",
+💬 Sinopsis:
+Chris Gardner es un vendedor brillante y con talento, pero su empleo no le permite cubrir sus necesidades más básicas",
 "url" : "https://www.tokyvideo.com/es/video/en-busca-de-la-felicidad-completa-en-espanol",
 "isHost" : true
 },
@@ -374,7 +447,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "image" : "https://pics.filmaffinity.com/patch_adams-522377257-mmed.jpg",
 "info" : " ⌛️ Comedia/hechos reales/Medicina
 
-🌐: Un héroe con bata blanca, se gana el apodo de ‘Patch’ por ayudar al resto de pacientes del hospital a no perder nunca el ánimo",
+💬 Sinopsis:
+Un héroe con bata blanca, se gana el apodo de ‘Patch’ por ayudar al resto de pacientes del hospital a no perder nunca el ánimo",
 "url" : "https://upstream.to/2a76lae1ucpd",
 "isHost" : true
 },
@@ -383,7 +457,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "image" : "https://pics.filmaffinity.com/seven_pounds-470111904-mmed.jpg",
 "info" : " ⌛️ Drama romántico/Enfermedad/Thriller psicológico
 
-🌐: un inspector de Hacienda de Los Ángeles, se pone en contacto con algunas personas para ayudarlas, pero las razones que lo mueven a actuar así son un misterio",
+💬 Sinopsis:
+un inspector de Hacienda de Los Ángeles, se pone en contacto con algunas personas para ayudarlas, pero las razones que lo mueven a actuar así son un misterio",
 "url" : "https://ok.ru/videoembed/6581770914544",
 "isHost" : true
 },
@@ -392,7 +467,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "image" : "https://pics.filmaffinity.com/city_of_joy-412848895-mmed.jpg",
 "info" : " ⌛️ Pobreza/Drama/miedos
 
-🌐: historia de un cirujano norteamericano que decide viajar hasta India, en busca de la paz espiritual que tanto necesita tras perder a un paciente",
+💬 Sinopsis:
+historia de un cirujano norteamericano que decide viajar hasta India, en busca de la paz espiritual que tanto necesita tras perder a un paciente",
 "url" : "https://www.tokyvideo.com/es/video/ciudad-de-la-alegria-1992",
 "isHost" : true
 },
@@ -401,7 +477,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "image" : "https://pics.filmaffinity.com/wonder-294892482-mmed.jpg",
 "info" : " ⌛️ Drama/Comedia/Amistad/Familia/Acoso escolar/Bullying
 
-🌐: un niño con una deformación facial, teme ir al colegio por miedo a las burlas de sus compañeros",
+💬 Sinopsis:
+un niño con una deformación facial, teme ir al colegio por miedo a las burlas de sus compañeros",
 "url" : "https://seedeu6939.gloria.tv/4Bf1zD2NzHKcBN82QTj9WCVFq/dgqgka42makypecsm7axy4akboackvrrro3s2jt.mp4/index-v1-a1.m3u8"
 }, 
 {
@@ -409,7 +486,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "image" : "https://pics.filmaffinity.com/the_boy_who_harnessed_the_wind-913526359-mmed.jpg",
 "info" : " ⌛️ Drama social/África/Adolescencia/Basado en hechos reales
 
-🌐: Un chico de la República de Malaui decide ayudar a las personas de su pueblo construyendo una turbina después de leer un libro",
+💬 Sinopsis:
+Un chico de la República de Malaui decide ayudar a las personas de su pueblo construyendo una turbina después de leer un libro",
 "url" : "https://www.tokyvideo.com/es/video/el-nino-que-domo-al-viento",
 "isHost" : true
 },
@@ -418,7 +496,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "image" : "https://pics.filmaffinity.com/pay_it_forward-693981184-mmed.jpg",
 "info" : " ⌛️ Comedia/Amistad/Familia/
 
-🌐: Un niño imagina un curioso sistema para mejorar el mundo; hacer favores desinteresadamente",
+💬 Sinopsis:
+Un niño imagina un curioso sistema para mejorar el mundo; hacer favores desinteresadamente",
 "url" : "https://www.tokyvideo.com/es/video/cadena-de-favores-2000",
 "isHost" : true
 },	
@@ -427,14 +506,16 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "image" : "https://pics.filmaffinity.com/a_beautiful_mind-636974393-mmed.jpg",
 "info" : " ⌛️ Drama/Discapacidad/Matemáticas
 
-🌐:La historia del genial matemático John Forbes Nash Jr., que a pesar de sufrir esquizofrenia, logró desarrollar su carrera y obtener el Premio Nobel.",
+💬 Sinopsis:
+La historia del genial matemático John Forbes Nash Jr., que a pesar de sufrir esquizofrenia, logró desarrollar su carrera y obtener el Premio Nobel.",
 "url" : "http://pilarika.no-ip.org/Cine/Cine_08/095_-_Una_mente_maravillosa.mp4"
 },			
 {
 "name" : "El club de los cinco 1985",
 "info" : " ⌛️ Comedia/Drama/Adolescencia/Amistad/Cole
 
-🌐:Cinco adolescentes aprenden sobre respeto y entendimiento mutuo cuando tienen que pasar un sábado en detención",	   	  
+💬 Sinopsis:
+Cinco adolescentes aprenden sobre respeto y entendimiento mutuo cuando tienen que pasar un sábado en detención",	   	  
 "image" : "https://kinefilia.files.wordpress.com/2018/09/el-club-de-los-cinco-1.jpg",
 "url" : "https://archive.org/download/br34kf457.club.Cast/br34kf457.club.Cast.mp4"
 },						
@@ -442,7 +523,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "El primer grado 2010 vose",
 "info" : " ⌛️ Drama/Enseñanza/Vejez/Madurez 
 
-🌐: la historia real de un anciano de 84 años que,quiere tener la oportunidad de ir a la escuela y recibir una educación a la que nunca pudo acceder",
+💬 Sinopsis:
+la historia real de un anciano de 84 años que,quiere tener la oportunidad de ir a la escuela y recibir una educación a la que nunca pudo acceder",
 "image" : "https://www.movieposters.com/cdn/shop/products/433ecb6e5e7be998fe0b466bb5784d5d_aeb8af4d-620e-4e26-bfd1-7dc309869938_480x.progressive.jpg",
 "url" : "https://archive.org/download/the.-first.-grader.-2010.1080-p.-bluray-1/The.First.Grader.2010.1080P.Bluray-1.mp4"
 },		
@@ -450,7 +532,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "Bendita ignorancia 2017",
 "info" : " ⌛️ Comedia/Informática/Enseñanza/Cole&Uni
 
-🌐: Rivalidad entre dos profesores que son polos opuestos: un instructor estricto y anticuado por un lado, y su alegre y joven compañera interesada en las redes sociales por el otro",		
+💬 Sinopsis:
+Rivalidad entre dos profesores que son polos opuestos: un instructor estricto y anticuado por un lado, y su alegre y joven compañera interesada en las redes sociales por el otro",		
  "image" : "https://pics.filmaffinity.com/beata_ignoranza-823786151-mmed.jpg",	
 "url" : "https://ok.ru/videoembed/1130341862003",
 "isHost" : true
@@ -459,7 +542,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "Veinticuatro ojos 1954",
 "info" : " ⌛️ Drama/Enseñanza/Infancia
 
-🌐: 	Un maestro se acerca a una docena de niños que viven en una pequeña isla durante la guerra",	
+💬 Sinopsis:
+Un maestro se acerca a una docena de niños que viven en una pequeña isla durante la guerra",	
 "image" : "https://pics.filmaffinity.com/nijushi_no_hitomi_twenty_four_eyes-973003366-mmed.jpg",
 "url" : "https://ok.ru/videoembed/2307341027921",
 "isHost" : true
@@ -468,7 +552,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "Detrás de la Pizarra 2011",
 "info" : " ⌛️ Drama/Pobreza/Infancia/Matemáticas
 
-🌐: la historia de una maestra de primaria que se enfrenta a su primer trabajo  en una escuela sin nombre, un proyecto para las  personas indigentes, sin hogar,socio económicos",
+💬 Sinopsis:
+la historia de una maestra de primaria que se enfrenta a su primer trabajo  en una escuela sin nombre, un proyecto para las  personas indigentes, sin hogar,socio económicos",
 "image" : "https://pics.filmaffinity.com/hallmark_hall_of_fame_beyond_the_blackboard-463606525-mmed.jpg",
 "url" : "https://ds2play.com/d/a18s1cbu9mem",
 "isHost" : true
@@ -477,7 +562,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
  "name" : "La Pizarra  2000 Vose",
 "info" : " ⌛️ Drama/Pobreza/Infancia/Matemáticas
 
-🌐: Durante la guerra entre Irán e Irak, un grupo de maestros kurdos itinerantes viajan a través de las montañas",
+💬 Sinopsis:
+Durante la guerra entre Irán e Irak, un grupo de maestros kurdos itinerantes viajan a través de las montañas",
 "image" : "https://pics.filmaffinity.com/La_pizarra-228294571-large.jpg",
 "url" : "https://archive.org/download/Samira.Makhmalbaf.PizarraAngeeParaZoowoman.website/Samira.Makhmalbaf.-pizarra_angee_para%20zoowoman.website.avi"
 },					
@@ -485,7 +571,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "El canto de los gorriones 2008",
 "info" : " ⌛️ Drama/Comedia
 
-🌐: Karim trabaja en una granja de avestruces en las afueras de Teherán. Lleva una vida sencilla y feliz junto a su familia en su modesta casa, hasta que un día una de las avestruces se escapa y Karim es despedido",
+💬 Sinopsis:
+Karim trabaja en una granja de avestruces en las afueras de Teherán. Lleva una vida sencilla y feliz junto a su familia en su modesta casa, hasta que un día una de las avestruces se escapa y Karim es despedido",
 "image" : "http://4.bp.blogspot.com/-KcEKe3g8XPY/U06vXayhB5I/AAAAAAAAM68/w973KuMlOV8/s1600/La+canci%C3%B3n+de+los+gorriones.jpg",
 "url" : "https://www.dailymotion.com/video/xwsdsq",
 "isHost" : true
@@ -494,7 +581,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "Titanes, hicieron historia 2000",
 "info" : " ⌛️ Drama/Fútbol americano/Racismo
 
-🌐: 	en la ciudad de Alexandria, Virginia, se tomó la polémica decisión de integrar en el Secundario T.C. Williams a los estudiantes de raza negra con los de raza blanca",	
+💬 Sinopsis:
+en la ciudad de Alexandria, Virginia, se tomó la polémica decisión de integrar en el Secundario T.C. Williams a los estudiantes de raza negra con los de raza blanca",	
 "image" : "https://r1.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Fpeliculas%2F000%2F003%2F686%2Ftitanes-hicieron-historia-2.jpg&nuevoancho=620&medio=abc",
 "url" : "https://uqload.io/embed-54jwi4ym7ulm.html",
 "isHost" : true
@@ -503,7 +591,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "El club de los poetas muertos 1989",
 "info" : " ⌛️  Drama/Adolescencia/Cole&Unive
 
-🌐: En un elitista y estricto colegio privado de Nueva Inglaterra, un grupo de alumnos descubrirá la poesía, el significado del carpe diem",
+💬 Sinopsis:
+En un elitista y estricto colegio privado de Nueva Inglaterra, un grupo de alumnos descubrirá la poesía, el significado del carpe diem",
 "image" : "https://kinefilia.files.wordpress.com/2014/08/el-club-de-los-poetas-muertos-00.jpg",
 "url" : "https://rocdn.org:2096/ba0_U5v4zQ2/f/playlist.m3u8"
 },														
@@ -511,7 +600,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "Hijos de un dios menor 1986",
 "info" : " ⌛️  Melodrama/Discapacidad auditiva/Cole&Uni
 
-🌐: En un colegio para sordos, los problemas habituales de cualquier centro docente",		
+💬 Sinopsis:
+En un colegio para sordos, los problemas habituales de cualquier centro docente",		
 "image" : "https://pics.filmaffinity.com/children_of_a_lesser_god-516650797-mmed.jpg",
 "url" : "https://ok.ru/videoembed/1060945791492",
 "isHost" : true
@@ -520,7 +610,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "La ladrona de libros 2013",
 "info" : " ⌛️ Drama/Nazis/G Mundial/Infancia/Literatura
 		
-🌐: Narra la historia de una animosa y valerosa jovencita llamada Liesel, que transforma las vidas de todas las personas de su entorno",
+💬 Sinopsis:
+Narra la historia de una animosa y valerosa jovencita llamada Liesel, que transforma las vidas de todas las personas de su entorno",
 "image" : "https://pics.filmaffinity.com/the_book_thief-555218046-mmed.jpg",
 "url" : "http://ok.ru/videoembed/357673601670",
 "isHost" : true
@@ -529,7 +620,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "La profesora de historia 2014 ",
 "info" : " ⌛️ Drama/Cole&Uni/Adolescencia/Holocausto	
 
-🌐: 	Anne es una profesora de instituto que este año se enfrenta a una clase difícil",
+💬 Sinopsis:
+Anne es una profesora de instituto que este año se enfrenta a una clase difícil",
 "image" : "https://pics.filmaffinity.com/les_heritiers-800100367-mmed.jpg",
 "url" : "https://opvid.online/kqhm2ctebrlx",
 "isHost" : true
@@ -538,7 +630,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
  "name" : "Al frente de la clase 2008",
 "info" : " ⌛️ Drama/Comedia/Superacion
 
-🌐: Brad Cohen (Jimmy Wolk) se sobrepone al reto de sufrir el síndrome de Tourette para convertirse en un maestro modelo.",
+💬 Sinopsis:
+Brad Cohen (Jimmy Wolk) se sobrepone al reto de sufrir el síndrome de Tourette para convertirse en un maestro modelo.",
 "image" : "https://www.ciaramolina.com/wp-content/uploads/2018/04/1.jpg",
 "url" : "https://www.tokyvideo.com/es/video/al-frente-de-la-clase-2008-ee-uu",
 "isHost" : true
@@ -547,7 +640,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "Rebelión en las aulas 1967 ",
 "info" : " ⌛️ Drama/Cole&Uni/Enseñanza
 
-🌐: 	un ingeniero negro sin trabajo, acepta un empleo como profesor de un grupo de estudiantes bastante conflictivos en una escuela de la periferia de Londres",		
+💬 Sinopsis:
+un ingeniero negro sin trabajo, acepta un empleo como profesor de un grupo de estudiantes bastante conflictivos en una escuela de la periferia de Londres",		
 "image" : "https://i.pinimg.com/originals/ef/06/cd/ef06cd6890b4a5d0a736036faf04ff52.jpg",
 "url" : "https://www.tokyvideo.com/es/video/rebelion-en-las-aulas-1967",
 "isHost" : true
@@ -556,7 +650,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "Rebelión en las aulas 2 1996 ",
 "info" : " ⌛️ Drama/Cole&Uni/Enseñanza
 
-🌐: Mark Thackeray regresa a Chicago, tras pasar 30 años en Londres dando clases en uno de los colegios británicos de mayor prestigio",			
+💬 Sinopsis:
+Mark Thackeray regresa a Chicago, tras pasar 30 años en Londres dando clases en uno de los colegios británicos de mayor prestigio",			
 "image" : "https://pics.filmaffinity.com/to_sir_with_love_2_tv-424396509-mmed.jpg",
 "url" : "https://ok.ru/videoembed/1442205796962",
 "isHost" : true
@@ -565,7 +660,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "Curso 1984  (1982)",
 "info" : " ⌛️  Acción/Cole&Uni/Bandas/pandillas
 
-🌐: Un profesor en la escuela secundaria tiene que salvar a su esposa de un a banda de estudiantes sadícos",
+💬 Sinopsis:
+Un profesor en la escuela secundaria tiene que salvar a su esposa de un a banda de estudiantes sadícos",
 "image" : "https://pics.filmaffinity.com/class_of_1984-700059259-mmed.jpg",
 "url" : "https://ok.ru/videoembed/1583703394889",
 "isHost" : true
@@ -574,7 +670,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "Curso 1999  (1990)",
 "info" : " ⌛️  Sci-fi/Acción/Cyberpunk/Distopía/Robots Asesinos
 
-🌐: En el año 1999, las bandas se han convertido en un problema tan grave que algunas ciudades viven en la anarquía, sin control",
+💬 Sinopsis:
+En el año 1999, las bandas se han convertido en un problema tan grave que algunas ciudades viven en la anarquía, sin control",
 "image" : "https://pics.filmaffinity.com/class_of_1999-578156829-mmed.jpg",
 "url" : "https://opvid.online/zsswxgobessb",
 "isHost" : true
@@ -583,7 +680,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "Curso 1999 II El sustituto(1994)",
 "info" : " ⌛️  Sci-fi/Acción/Cyberpunk/Robots Asesinos
 
-🌐: Un robot escapado de la destrucción 2 años atrás, usurpa el lugar de un profesor sustituto y comienza a poner su propia ley en un instituto",
+💬 Sinopsis:
+Un robot escapado de la destrucción 2 años atrás, usurpa el lugar de un profesor sustituto y comienza a poner su propia ley en un instituto",
 "image" : "https://pics.filmaffinity.com/class_of_1999_ii_the_substitute-445039073-mmed.jpg",
 "url" : "https://opvid.online/7cf6yedob6iz",
 "isHost" : true
@@ -593,7 +691,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "image" : "https://pics.filmaffinity.com/todos_los_incendios-998938794-mmed.jpg",
 "info" : " ⌛️ Drama/Adolescencia/Homosexualidad
 
-🌐: un pirómano adolescente que atraviesa una época complicada, abandona la ciudad en busca de una chica a la que conoció a través de Internet",
+💬 Sinopsis:
+un pirómano adolescente que atraviesa una época complicada, abandona la ciudad en busca de una chica a la que conoció a través de Internet",
 "url" : "https://www.terabox.app/spanish/sharing/link?surl=pfNubzjZI9wzJlaG1Va0PA",
 "isHost" : true
 },
@@ -602,7 +701,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "image" : "https://pics.filmaffinity.com/yaaba-626337002-mmed.jpg",
 "info" : " ⌛️ Drama/superacion/
 
-🌐: Yaaba (que significa abuela) es una historia que examina el aspecto de la relación entre ancianos, jóvenes y la sociedad",
+💬 Sinopsis:
+Yaaba (que significa abuela) es una historia que examina el aspecto de la relación entre ancianos, jóvenes y la sociedad",
 "url" : "https://archive.org/download/Yaaba1989AngeeParaZoowoman.website/Yaaba%20%281989_angee_para%20zoowoman.website.avi",
 "isHost" : true
 },
@@ -610,7 +710,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "El profesor 2011",
 "info" : " ⌛️ Drama/Cole&Uni/Adolescencia/Prostitución
 
-🌐: A un instituto lleno de alumnos problemáticos y con unos resultados académicos muy bajos, llega Henry Bathes, un profesor sustituto que posee un auténtico don para conectar con los alumnos",
+💬 Sinopsis:
+A un instituto lleno de alumnos problemáticos y con unos resultados académicos muy bajos, llega Henry Bathes, un profesor sustituto que posee un auténtico don para conectar con los alumnos",
 "image" : "https://1.bp.blogspot.com/-qflPvHwT2d4/XOGjjfZI5xI/AAAAAAAAIAM/iIqgAnPHFM8Lx77kG9I4uJQjBnWoSKAwwCEwYBhgL/s1600/El_Profesor_%25282011%2529-Caratula.jpg",
 "url" : "https://gounlimited.to/embed-lst5gj0zdhoq.html",
 "isHost" : true
@@ -619,7 +720,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "Entrenador Carter 2005",
 "info" : " ⌛️  Drama/Deporte/Baloncesto/Enseñanza
 
-🌐: Biografía del entrenador de baloncesto Ken Carter. En 1999, era entrenador en el Instituto Richmond de California",
+💬 Sinopsis:
+Biografía del entrenador de baloncesto Ken Carter. En 1999, era entrenador en el Instituto Richmond de California",
 "image" : "https://unsoloclic.info/wp-content/uploads/2017/01/Coach-Carter-2005-BluRay.jpg",
 "url" : "https://www.tokyvideo.com/es/video/entrenador-carter-2005",
 "isHost" : true
@@ -628,7 +730,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "Mentes Peligrosas 1995",
 "info" : " ⌛️ Drama/Adolescencia/Cole&Uni/Enseñanza
  		
-🌐: Una profesora sin experiencia consigue un puesto de trabajo en una escuela en la que los jóvenes sufren muchos problemas sociales",			
+💬 Sinopsis:
+Una profesora sin experiencia consigue un puesto de trabajo en una escuela en la que los jóvenes sufren muchos problemas sociales",			
 "image" : "https://www.dvd-covers.org/d/71918-3/1322Dangerous_Minds.jpg",
 "url" : "https://ok.ru/videoembed/242824186502",
 "isHost" : true
@@ -637,7 +740,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "187,Muchas mentes peligrosas 1997",
 "info" : " ⌛️ Drama/Cole&Uni/Enseñar/Bandas/pandillas 
 
-🌐: Trevor regresa a las aulas con la misión de educar a un grupo de jóvenes de un barrio marginal e intentar que tengan un futuro alejado de la violencia que les rodea",
+💬 Sinopsis:
+Trevor regresa a las aulas con la misión de educar a un grupo de jóvenes de un barrio marginal e intentar que tengan un futuro alejado de la violencia que les rodea",
 "image" : "https://i.imgur.com/phRH7U2.jpg",
 "url" : "https://s26.gamovideo.com:444/frap4tgncjnv3h2yugonv6qmooguxwl4japg2y443tv2gxvvnqkspi2q7o5q/v.mp4"
 },
@@ -645,7 +749,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "El gran debate 2007",
 "info" : " ⌛️ Drama/Cole&Uni/Enseñanza
 
-🌐: Mel Tolson inspira a los estudiantes de una universidad predominantemente de negros a formar parte de un equipo de debate y competir por el campeonato nacional",
+💬 Sinopsis:
+Mel Tolson inspira a los estudiantes de una universidad predominantemente de negros a formar parte de un equipo de debate y competir por el campeonato nacional",
 "image" : "https://4.bp.blogspot.com/-6eFefTl9oaE/U2HwqhAwbJI/AAAAAAAAAAw/I7dCoG6n5yA/s1600/FOTO-PELICULA-EL-GRAN-DEBATE-1752436c820a9fa204c53fcf56b2b802.jpg",
 "url" : "https://ok.ru/videoembed/1539432122979",
 "isHost" : true
@@ -654,7 +759,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "La clase 2008",
 "info" : " ⌛️ Drama/Enseñanza/Cole&Uni/Adolescencia
 
-🌐: profesor de lengua francesa en un instituto conflictivo, situado en un barrio marginal. Sus alumnos tienen entre 14 y 15 años",
+💬 Sinopsis:
+profesor de lengua francesa en un instituto conflictivo, situado en un barrio marginal. Sus alumnos tienen entre 14 y 15 años",
 "image" : "https://pics.filmaffinity.com/entre_les_murs-759671507-mmed.jpg",
 "url" : "https://ok.ru/videoembed/3328383453871",
 "isHost" : true
@@ -663,7 +769,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "La Vida Escolar 2019",
 "info" : " ⌛️ Comedia dramática/Adolescencia/Enseñanza/Cole&Uni
 
-🌐: una joven treintañera que llega a una escuela de complicada reputación en un suburbio de París para ser la directora",
+💬 Sinopsis:
+una joven treintañera que llega a una escuela de complicada reputación en un suburbio de París para ser la directora",
 "image" : "https://pics.filmaffinity.com/la_vie_scolaire-380496487-mmed.jpg",
 "url" : "https://ok.ru/videoembed/3327771937455",
 "isHost" : true
@@ -672,7 +779,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "Todo es posible (2022)",
 "info" : " ⌛️ Adolescencia/Romance/transgénero
 
-🌐: Una historia para la Generación Z que nos presenta a Kelsa, una chica trans segura de sí misma en su último curso de instituto",
+💬 Sinopsis:
+Una historia para la Generación Z que nos presenta a Kelsa, una chica trans segura de sí misma en su último curso de instituto",
 "image" : "https://tbmdcnd.xyz/p/v2/w1/zIbaejBtN50Td0NlwkPrufUJJ.webp",
 "url" : "https://ok.ru/videoembed/3408888466144",
 "isHost" : true
@@ -681,7 +789,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "Mi Vida en Rosa 1997",
 "info" : " ⌛️ Infancia/Familia/transgénero/Comediadrama
 
-🌐: el hijo menor de una familia de clase media,el cual Su máxima ilusión es ser una niña",
+💬 Sinopsis:
+el hijo menor de una familia de clase media,el cual Su máxima ilusión es ser una niña",
 "image" : "https://pics.filmaffinity.com/ma_vie_en_rose-409899760-mmed.jpg",
 "url" : "https://ok.ru/videoembed/1162613623497",
 "isHost" : true
@@ -690,7 +799,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "Billy Elliot (Quiero bailar) 2000",
 "info" : " ⌛️  Drama/Comedia/Ballet/Homosexualidad
 
-🌐: En el gimnasio,Billy observa la clase de ballet, una mujer de carácter severo que lo anima a participar. A partir de ese momento, Billy se dedicará apasionadamente a la danza",
+💬 Sinopsis:
+En el gimnasio,Billy observa la clase de ballet, una mujer de carácter severo que lo anima a participar. A partir de ese momento, Billy se dedicará apasionadamente a la danza",
 "image" : "http://1.bp.blogspot.com/-83FBg4vHQ0M/VTFHTYWdlQI/AAAAAAAATwU/UdzwRPmgtC4/s1600/Quiero%2Bbailar%2B(Billy%2BElliot)%2B(2000)%2Bonline.jpg",
 "url" : "https://www.tokyvideo.com/es/video/billy-elliot-completa-en-espanol",
 "isHost" : true
@@ -699,7 +809,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "La guerra de los botones 2011",
 "info" : " ⌛️ Aventuras/Comedia/Drama/Infancia
 
-🌐: Mientras tiene lugar la Segunda Guerra Mundia,dos bandas de chicos de dos aldeas próximas luchan por el dominio de su territorio",
+💬 Sinopsis:
+Mientras tiene lugar la Segunda Guerra Mundia,dos bandas de chicos de dos aldeas próximas luchan por el dominio de su territorio",
 "image" : "https://pics.filmaffinity.com/La_guerre_des_boutons-485005567-large.jpg",
 "url" : "https://www.tokyvideo.com/es/video/la-guerra-de-los-botones",
 "isHost" : true
@@ -708,7 +819,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "El Indomable Will Hunting 1997",
 "info" : " ⌛️ Drama/Romance/Enseñanza/Amistad/Matemáticas
 
-🌐: Will es un joven rebelde con una inteligencia asombrosa, especialmente para las matemáticas. El descubrimiento de su talento por parte",
+💬 Sinopsis:
+Will es un joven rebelde con una inteligencia asombrosa, especialmente para las matemáticas. El descubrimiento de su talento por parte",
 "image" : "https://i.pinimg.com/736x/5e/af/5f/5eaf5fc88f7122dc539844406fd39d6d.jpg",
 "url" : "https://www.tokyvideo.com/es/video/el-indomable-will-hunting-1997",
 "isHost" : true
@@ -717,7 +829,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "La ola 2008",
 "info" : " ⌛️ Drama/reales/Cole&Univ/Adolescencia/Sectas/Nazis
 
-🌐: En Alemania, durante la semana de proyectos, al profesor de instituto Rainer Wenger (Jürgen Vogel) se le ocurre hacer un experimento",
+💬 Sinopsis:
+En Alemania, durante la semana de proyectos, al profesor de instituto Rainer Wenger (Jürgen Vogel) se le ocurre hacer un experimento",
 "image" : "https://historiadoracristinacastro.files.wordpress.com/2014/04/la-ola-logo.jpg",
 "url" : "https://archive.org/download/L4.0l4c/l4.0l4%28c%29.mp4"
 },
@@ -725,7 +838,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "John Q 2002",
 "info" : " ⌛️ Drama/hechos reales/Enfermedad/
 
-🌐: Un padre recurre a medidas desesperadas en pos de obtener un corazón para su hijo después de que el seguro médico se lo niegue",
+💬 Sinopsis:
+Un padre recurre a medidas desesperadas en pos de obtener un corazón para su hijo después de que el seguro médico se lo niegue",
 "image" : "https://pics.filmaffinity.com/john_q-976001140-mmed.jpg",
 "url" : "https://ok.ru/videoembed/6234857540178",
 "isHost" : true
@@ -734,7 +848,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "Elefante 2003",
 "info" : " ⌛️  Drama/Uni/Adolescencia/cruzadas/psicológico
 
-🌐: Recreación de la matanza perpetrada por dos adolescentes en el instituto Columbine",
+💬 Sinopsis:
+Recreación de la matanza perpetrada por dos adolescentes en el instituto Columbine",
 "image" : "https://pics.filmaffinity.com/Elephant-547064910-large.jpg",
 "url" : "https://ds2play.com/d/fz38hbfem5fs",
 "isHost" : true
@@ -743,7 +858,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "El club de los emperadores 2002",
 "info" : " ⌛️  Drama/Cole&Uni/Enseñanza
 
-🌐: En 1976, la apacible vida de William Hundert, profesor en el elitista colegio masculino de St. Benedict",
+💬 Sinopsis:
+En 1976, la apacible vida de William Hundert, profesor en el elitista colegio masculino de St. Benedict",
 "image" : "https://pics.filmaffinity.com/El_club_de_los_emperadores-792834624-large.jpg",
 "url" : "https://uqload.com/embed-jqas8vi1r879.html",
 "isHost" : true
@@ -752,7 +868,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "Full Monty 1997",
 "info" : " ⌛️  Comedia dramática/Trabajo/empleo
 	
-🌐: 	El cierre de la fábrica de acero de Yorkshire deja sin trabajo a casi toda la población masculina",	
+💬 Sinopsis:
+El cierre de la fábrica de acero de Yorkshire deja sin trabajo a casi toda la población masculina",	
 "image" : "https://pics.filmaffinity.com/Full_Monty-189603391-large.jpg",
 "url" : "https://ok.ru/videoembed/716198972038",
 "isHost" : true
@@ -761,7 +878,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "El hombre sin rostro 1993",
 "info" : " ⌛️ Drama/Infancia/Familia
 		
-🌐: 	Un hombre desfigurado es el tutor de un joven muchacho que aspira a entrar en la misma academia militar que su padre",		
+💬 Sinopsis:
+Un hombre desfigurado es el tutor de un joven muchacho que aspira a entrar en la misma academia militar que su padre",		
 "image" : "https://pics.filmaffinity.com/El_hombre_sin_rostro-995895334-large.jpg",
 "url" : "https://www.vidcorn2.com/2021/03/el-hombre-sin-rostro-1993.html",
 "isHost" : true
@@ -770,7 +888,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "Enseñanza de vida 2009",
 "info" : " ⌛️ Drama/Enseñanza/Romance
 				
-🌐: A pesar de su educación en un albergue, Jenny es una adolescente con un futuro brillante",		
+💬 Sinopsis:
+A pesar de su educación en un albergue, Jenny es una adolescente con un futuro brillante",		
 "image" : "https://pics.filmaffinity.com/An_Education-326518848-large.jpg",
 "url" : "https://ok.ru/videoembed/1427140971097",
 "isHost" : true
@@ -779,7 +898,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "Amor y letras	2012",
 "info" : " ⌛️ Drama/Enseñanza/Comedia/Cole&Uni
 				
-🌐: 	Cuando el joven profesor Jesse vuelve a la universidad, no puede evitar enamorarse de Zibby",		
+💬 Sinopsis:
+Cuando el joven profesor Jesse vuelve a la universidad, no puede evitar enamorarse de Zibby",		
 "image" : "https://pics.filmaffinity.com/liberal_arts-101598295-mmed.jpg",
 "url" : "https://www.tokyvideo.com/es/video/amor-y-letras-2012",
 "isHost" : true
@@ -796,7 +916,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "image" : "https://e-cdn-images.dzcdn.net/images/cover/9afd14002223fa88bd2207f319451e65/500x500-000000-80-0-0.jpg",
 "info" : " ⌛️ prevencion/adicciones/Educativo/consumo
 
-🌐: Proyecto Hombre lanza un mensaje para sensibilizar a los jóvenes y prevenirles de futuras adicciones en clave de rap",
+💬 Sinopsis:
+Proyecto Hombre lanza un mensaje para sensibilizar a los jóvenes y prevenirles de futuras adicciones en clave de rap",
 "url" : "https://www.youtube.com/watch?v=CjBYC-eqFXg",
 "isHost" : true
 },
@@ -805,7 +926,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "image" : "https://www.alcoholysociedad.org/FILES/imagenes/Noticias/curso-escolar-prevencion.jpg",
 "info" : " ⌛️ consumo/Educativo/Enseñanza/
 
-🌐: Entrevistas sobre los efectos del alcohol en menores y explicación sobre la necesidad del consumo",
+💬 Sinopsis:
+Entrevistas sobre los efectos del alcohol en menores y explicación sobre la necesidad del consumo",
 "url" : "https://www.youtube.com/watch?app=desktop&v=kTxDC5i-Gy4",
 "isHost" : true
 },
@@ -814,7 +936,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "image" : "https://static.wikia.nocookie.net/logopedia/images/0/0c/Esa_no_soy_yo.jpg/revision/latest/scale-to-width-down/125?cb=20230118032409&path-prefix=es",
 "info" : " ⌛️ /Educativo/Campaña/Feminismo
 
-🌐: Queremos ser reconocidas de una manera justa. Queremos dejar a un lado esas terribles narrativas que nos persiguen",
+💬 Sinopsis:
+Queremos ser reconocidas de una manera justa. Queremos dejar a un lado esas terribles narrativas que nos persiguen",
 "url" : "https://www.youtube.com/watch?v=BfbsFcPH9ZM",
 "isHost" : true
 },
@@ -823,7 +946,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "image" : "https://cortosdemetraje.com/wp-content/uploads/2023/08/Lo-que-somos.webp",
 "info" : " ⌛️ /Educativo/cortosdemetraje/drama-social
 
-🌐: Blanca, Marcos y Nico se reúnen una vez al mes para ver a su madre, semidependiente desde hace un año y de quien cuida Blanca",
+💬 Sinopsis:
+Blanca, Marcos y Nico se reúnen una vez al mes para ver a su madre, semidependiente desde hace un año y de quien cuida Blanca",
 "url" : "https://youtu.be/sLvKfFKXxW8",
 "isHost" : true
 },
@@ -832,7 +956,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "image" : "https://pics.filmaffinity.com/moolaade-553452472-large.jpg",
 "info" : " ⌛️ Drama | Drama social
 
-🌐: Collé Ardo vive en un pueblo africano. Hace siete años no permitió que su hija fuera sometida a la ablación, una práctica que le parece una barbarie",
+💬 Sinopsis:
+Collé Ardo vive en un pueblo africano. Hace siete años no permitió que su hija fuera sometida a la ablación, una práctica que le parece una barbarie",
 "url" : "https://archive.org/download/MOOLAADE/MOOLAADE.avi",
 "isHost" : true
 },
@@ -841,7 +966,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "image" : "https://pics.filmaffinity.com/binta_y_la_gran_idea-340670097-mmed.jpg",
 "info" : " ⌛️ Drama |/Educativo/África/Enseñanza/Feminismo
 
-🌐: un humilde pescador que, preocupado por el progreso de la humanidad, está empeñado en llevar a cabo algo que se le ha ocurrido",
+💬 Sinopsis:
+un humilde pescador que, preocupado por el progreso de la humanidad, está empeñado en llevar a cabo algo que se le ha ocurrido",
 "url" : "https://ok.ru/videoembed/2882104199806",
 "isHost" : true
 },
@@ -850,7 +976,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "image" : "https://pics.filmaffinity.com/quien_lo_impide-525096254-mmed.jpg",
 "info" : " ⌛️ Documental/Adolescencia
 
-🌐: Quién lo impide es una llamada a transformar la percepción que tenemos sobre la adolescencia y la juventud",
+💬 Sinopsis:
+Quién lo impide es una llamada a transformar la percepción que tenemos sobre la adolescencia y la juventud",
 "url" : "https://ok.ru/videoembed/6220350294654",
 "isHost" : true
 },
@@ -859,7 +986,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "image" : "https://pics.filmaffinity.com/diamantes_negros-196123385-mmed.jpg",
 "info" : " ⌛️ Documental/Drama social/África/Fútbol
 
-🌐: Tras ser captados en Mali por un ojeador de fútbol, los jóvenes Amadou y Moussa abandonan su país, escapando de la pobreza",
+💬 Sinopsis:
+Tras ser captados en Mali por un ojeador de fútbol, los jóvenes Amadou y Moussa abandonan su país, escapando de la pobreza",
 "url" : "https://ok.ru/videoembed/6276685564542",
 "isHost" : true
 },
@@ -868,7 +996,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "image" : "https://pics.filmaffinity.com/14_kilometros-552568902-large.jpg",
 "info" : " ⌛️ Drama/Inmigración
 
-🌐: Catorce kilómetros, es la distancia que separa África de Europa por el Estrecho de Gibraltar",
+💬 Sinopsis:
+Catorce kilómetros, es la distancia que separa África de Europa por el Estrecho de Gibraltar",
 "url" : "https://ok.ru/videoembed/6203608271486",
 "isHost" : true
 },
@@ -876,7 +1005,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "Human 2015 LOS VALORES ÉTICOS part I",
 "info" : " ⌛️ Documental/Drama/Enseñanza/valores
 				
-🌐:  retrata la humanidad de hoy en día. Rodada en 60 paises durante más de 2 años, las 2.000 personas",	
+💬 Sinopsis:
+retrata la humanidad de hoy en día. Rodada en 60 paises durante más de 2 años, las 2.000 personas",	
 "image" : "https://pics.filmaffinity.com/human-397519235-mmed.jpg",
 "url" : "https://youtu.be/N1WdfVWo1pQ",
 "isHost" : true
@@ -885,7 +1015,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "Human 2015 part II",
 "info" : " ⌛️ Documental/Drama/Enseñanza/valores
 				
-🌐:  retrata la humanidad de hoy en día. Rodada en 60 paises durante más de 2 años, las 2.000 personas",	
+💬 Sinopsis:
+retrata la humanidad de hoy en día. Rodada en 60 paises durante más de 2 años, las 2.000 personas",	
 "image" : "https://pics.filmaffinity.com/human-397519235-mmed.jpg",
 "url" : "https://youtu.be/9eWu6l8vnuc",
 "isHost" : true
@@ -894,7 +1025,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "Human 2015 part III",
 "info" : " ⌛️ Documental/Drama/Enseñanza/valores
 				
-🌐:  retrata la humanidad de hoy en día. Rodada en 60 paises durante más de 2 años, las 2.000 personas",	
+💬 Sinopsis:
+retrata la humanidad de hoy en día. Rodada en 60 paises durante más de 2 años, las 2.000 personas",	
 "image" : "https://pics.filmaffinity.com/human-397519235-mmed.jpg",
 "url" : "https://youtu.be/gh7MfEey4J8",
 "isHost" : true
@@ -904,7 +1036,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "image" : "https://www.researchgate.net/profile/Julide-Etem/publication/342458131/figure/fig2/AS:906485299150848@1593134345962/UNICEF-Malak-at-the-end-of-the-animation-Screenshot-May-10-2019-UNICEF-Malak-at_Q320.jpg",
 "info" : " ⌛️ refugiados/Siria/UNICEF
 
-🌐: Malak,una niña siria de 7 años,relata su viaje desde Siria a Grecia",
+💬 Sinopsis:
+Malak,una niña siria de 7 años,relata su viaje desde Siria a Grecia",
 "url" : "https://www.youtube.com/watch?v=zu8ECo-yGVA",
 "isHost" : true
 },
@@ -913,7 +1046,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "image" : "https://desinformemonos.org/wp-content/uploads/2016/04/maxresdefault.jpg",
 "info" : " ⌛️ refugiados/Siria/UNICEF
 
-🌐: una niña de corta edad que emprende un viaje en barco con destino a Grecia",
+💬 Sinopsis:
+una niña de corta edad que emprende un viaje en barco con destino a Grecia",
 "url" : "https://www.youtube.com/watch?v=N4jdS8FUeIs",
 "isHost" : true
 },
@@ -922,7 +1056,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "image" : "https://pics.filmaffinity.com/piper-545075640-mmed.jpg",
 "info" : " ⌛️ Animación/Documentalcorto/comedia/miedos
 
-🌐: Este cortometraje nos educa en  la importancia de ir buscando estrategias para superar nuestros miedos para seguir creciendo",
+💬 Sinopsis:
+Este cortometraje nos educa en  la importancia de ir buscando estrategias para superar nuestros miedos para seguir creciendo",
 "url" : "https://www.dailymotion.com/embed/video/x594994",
 "isHost" : true
 },
@@ -930,7 +1065,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "El pequeño salvaje 1970",
 "info" : " ⌛️ Documental/Drama/Enseñanza/Infancia
 				
-🌐: Un niño incapaz de hablar, caminar, leer o escribir se encuentra desnudo en un bosque de Francia	",	
+💬 Sinopsis:
+Un niño incapaz de hablar, caminar, leer o escribir se encuentra desnudo en un bosque de Francia	",	
 "image" : "https://1.bp.blogspot.com/-Tgsz7FcbZEo/T3s75oEZ-UI/AAAAAAAABlg/vTdCGjvEIqM/s320/El_Pequeno_Salvaje-Caratula.jpg",
 "url" : "https://ok.ru/videoembed/2521010801223",
 "isHost" : true
@@ -939,7 +1075,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "Cuerdas 2013",
 "info" : " ⌛️ Animación Drama/Discapacidad/Amistad Infancia/Cole/Corto
 
-🌐: 	La rutina en el colegio se verá alterada por la llegada de un niño muy especial.se convertirán en amigos inseparables",
+💬 Sinopsis:
+La rutina en el colegio se verá alterada por la llegada de un niño muy especial.se convertirán en amigos inseparables",
 "image" : "https://pics.filmaffinity.com/cuerdas_s-770796540-mmed.jpg",
 "url" : "https://www.youtube.com/watch?v=4INwx_tmTKw",
 "isHost" : true
@@ -948,7 +1085,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "Maria y yo 2007",
 "info" : " ⌛️ Documental/Biografía/DramaFamiliar
 		
-🌐: Documental sobre el autismo",		
+💬 Sinopsis:
+Documental sobre el autismo",		
 "image" : "http://payload303.cargocollective.com/1/16/533492/8365663/Captura-de-pantalla-2014-08-08-a-las-14.05.46.png",
 "url" : "https://youtu.be/FvM6xvfINEI"
 },	
@@ -956,7 +1094,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "Camino a la escuela 2013",
 "info" : " ⌛️ Documental/Infancia/Enseñanza
 
-🌐:  Documental que narra la historia real y extraordinaria de cuatro niños",
+💬 Sinopsis:
+Documental que narra la historia real y extraordinaria de cuatro niños",
 "image" : "https://i.imgur.com/nmckstY.png",
 "url" : "https://www.youtube.com/watch?v=DvMt2bNRaB4",
 "isHost" : true
@@ -965,7 +1104,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "Enseñame pero bonito 2015",
 "info" : " ⌛️ Documental/Mediometraje/Enseñanza
 
-🌐: documental que muestra diferentes experiencias educativas alternativas al modelo tradicional de aprendizaje",
+💬 Sinopsis:
+documental que muestra diferentes experiencias educativas alternativas al modelo tradicional de aprendizaje",
 "image" : "https://pics.filmaffinity.com/ensename_pero_bonito-411167387-mmed.jpg",
 "url" : "https://youtu.be/bYZJD-aUN0A"
 },		
@@ -973,7 +1113,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "La escuela olvidada 2010",
 "info" : " ⌛️ Documental/Mediometraje/Enseñanza/Cole
 
-🌐: El Instituto Escuela y la modernización educativa en España. Este documental recoge el testimonio oral de pedagogos,historiadores y ex alumno",
+💬 Sinopsis:
+El Instituto Escuela y la modernización educativa en España. Este documental recoge el testimonio oral de pedagogos,historiadores y ex alumno",
 "image" : "https://www.valdeverdejanuestropueblo.es/sites/default/files/styles/medium/public/laescuelaolvidada1.jpg",
 "url" : "https://www.rtve.es/play/videos/somos-documentales/la-escuela-olvidada/6224141/",
 "isHost" : true
@@ -982,7 +1123,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "Las maestras de la República 2013",
 "info" : " ⌛️ Documental/Enseñanza/Feminismo
  
-🌐: mujeres que participaron en la conquista de los derechos de las mujeres y en la modernización de la educación",
+💬 Sinopsis:
+mujeres que participaron en la conquista de los derechos de las mujeres y en la modernización de la educación",
 "image" : "https://m.media-amazon.com/images/I/71ppYPZnFKL._SL1209_.jpg",
 "url" : "https://archive.org/download/LasMaestrasDeLaRepublicaPilarPerezSolano2013/Las%20Maestras%20de%20la%20Rep%C3%BAblica%20%20%20Pilar%20P%C3%A9rez%20Solano%20%20%202013.mp4"
 },	
@@ -991,7 +1133,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "Entre maestros 2012",
 "info" : " ⌛️ Documental/Enseñanza/Cole&Uni
 
-🌐: Un grupo de adolescentes, desmotivados por la educación que han recibido en la escuela, asisten durante doce días a unas clases especiales",
+💬 Sinopsis:
+Un grupo de adolescentes, desmotivados por la educación que han recibido en la escuela, asisten durante doce días a unas clases especiales",
 "image" : "https://pics.filmaffinity.com/entre_maestros-305216235-mmed.jpg",
 "url" : "https://www.youtube.com/watch?v=BtH0HwWA6Yc"
 },
@@ -999,7 +1142,8 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 "name" : "La educación prohibida 2012",
 "info" : " ⌛️ Documental/Enseñanza/estudiantes
 
-🌐: Documental realizado por estudiantes que cuestiona las formas de educación moderna",
+💬 Sinopsis:
+Documental realizado por estudiantes que cuestiona las formas de educación moderna",
 "image" : "https://hastalanuna.files.wordpress.com/2016/09/tapa-dvd-sub.png",
 "url" : "https://www.youtube.com/watch?v=-1Y9OqSJKCc&t=2s",
 "isHost" : true
