@@ -1494,7 +1494,78 @@ Cuando el joven profesor Jesse vuelve a la universidad, no puede evitar enamorar
 "image" : "https://img2.rtve.es/a/5545915?w=400&preview=1585212994812.jpg",
 "url" : "https://listeamed.net/v/qM1VOPNRDjMxo4k",
 "isHost" : true},
-]},	
+]},
+{
+"name" : "cortos derechos-humanos",
+"image" : "https://www.educaciontrespuntocero.com/wp-content/uploads/2019/12/colorida-ilustracion-manos-llegando-mapa-mundial.jpg",
+"stations" : 
+	[
+{
+"name" : "HUMAN 2015 I",
+"info" : " ⌛️ Documental/humanidad de hoy en día
+vol 1: amor, mujeres, trabajo y pobreza.",	
+"image" : "https://pics.filmaffinity.com/human-397519235-mmed.jpg",
+"url" : "https://www.youtube.com/watch?v=N1WdfVWo1pQ",
+"isHost" : true
+},
+{
+"name" : "HUMAN 2015 II",
+"info" : " ⌛️ Documental/humanidad de hoy en día
+vol 2: guerra, perdón, homosexualidad, familia y vida después de la muerte.",	
+"image" : "https://pics.filmaffinity.com/human-397519235-mmed.jpg",
+"url" : "https://www.youtube.com/watch?v=9eWu6l8vnuc",
+"isHost" : true
+},
+{
+"name" : "HUMAN 2015 III",
+"info" : " ⌛️ Documental/humanidad de hoy en día
+vol 3: felicidad| educación| discapacidad| inmigración| corrupción y significado de la vida.",	
+"image" : "https://pics.filmaffinity.com/human-397519235-mmed.jpg",
+"url" : "https://www.youtube.com/watch?v=gh7MfEey4J8",
+"isHost" : true
+},	
+{
+"name" : "ADA Short film ",
+"image" : "https://fasic.cl/wp/wp-content/uploads/2016/12/DD.-HH.jpg",
+"url" : "https://listeamed.net/v/LQm9OXNy91px1lg",
+"isHost" : true
+},
+{
+"name" : "Don´t forget, voces más allá del olvido ",
+"image" : "https://fasic.cl/wp/wp-content/uploads/2016/12/DD.-HH.jpg",
+"url" : "https://listeamed.net/v/wP2050epXgBxdmy",
+"isHost" : true
+},
+{
+"name" : " Ciudadanos",
+"image" : "https://fasic.cl/wp/wp-content/uploads/2016/12/DD.-HH.jpg",
+"url" : "https://listeamed.net/v/e028E6RwD1yEYAv",
+"isHost" : true
+},
+{
+"name" : "CACEROLADA ",
+"image" : "https://fasic.cl/wp/wp-content/uploads/2016/12/DD.-HH.jpg",
+"url" : "https://listeamed.net/v/JzkPxzn7JLaxbyd",
+"isHost" : true
+},
+{
+"name" : " Carta a Sasha",
+"image" : "https://fasic.cl/wp/wp-content/uploads/2016/12/DD.-HH.jpg",
+"url" : "https://listeamed.net/v/8ozgENLvWrL5mjA",
+"isHost" : true
+},
+{
+"name" : " Arena Fértil",
+"image" : "https://fasic.cl/wp/wp-content/uploads/2016/12/DD.-HH.jpg",
+"url" : "https://listeamed.net/v/NMRLEprw71Q5XaG",
+"isHost" : true
+},
+{
+"name" : " BANGO el documental",
+"image" : "https://fasic.cl/wp/wp-content/uploads/2016/12/DD.-HH.jpg",
+"url" : "https://listeamed.net/v/eL2157dak0mxrw4",
+"isHost" : true},
+]},
 {
 "name" : "cortos varios",
 "image" : "https://bioeticaparatodos.com/wp-content/uploads/2021/01/bioetica-para-todos-declaracion-universal-de-los-derechos-humanos.jpg",
@@ -1588,36 +1659,6 @@ Tras ser captados en Mali por un ojeador de fútbol, los jóvenes Amadou y Mouss
 💬 Sinopsis:
 Catorce kilómetros, es la distancia que separa África de Europa por el Estrecho de Gibraltar",
 "url" : "https://ok.ru/videoembed/6203608271486",
-"isHost" : true
-},
-{
-"name" : "Human 2015 LOS VALORES ÉTICOS part I",
-"info" : " ⌛️ Documental/Drama/Enseñanza/valores
-				
-💬 Sinopsis:
-retrata la humanidad de hoy en día. Rodada en 60 paises durante más de 2 años, las 2.000 personas",	
-"image" : "https://pics.filmaffinity.com/human-397519235-mmed.jpg",
-"url" : "https://www.youtube.com/embed/N1WdfVWo1pQ",
-"isHost" : true
-},
-{
-"name" : "Human 2015 part II",
-"info" : " ⌛️ Documental/Drama/Enseñanza/valores
-				
-💬 Sinopsis:
-retrata la humanidad de hoy en día. Rodada en 60 paises durante más de 2 años, las 2.000 personas",	
-"image" : "https://pics.filmaffinity.com/human-397519235-mmed.jpg",
-"url" : "https://www.youtube.com/embed/9eWu6l8vnuc",
-"isHost" : true
-},
-{
-"name" : "Human 2015 part III",
-"info" : " ⌛️ Documental/Drama/Enseñanza/valores
-				
-💬 Sinopsis:
-retrata la humanidad de hoy en día. Rodada en 60 paises durante más de 2 años, las 2.000 personas",	
-"image" : "https://pics.filmaffinity.com/human-397519235-mmed.jpg",
-"url" : "https://www.youtube.com/embed/gh7MfEey4J8",
 "isHost" : true
 },
 {
