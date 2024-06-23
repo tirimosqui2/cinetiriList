@@ -1,12 +1,12 @@
 {
-"name": "👪 EL CINE CON VALORES 👪",
+"name": "👪 CON VALORES 👪",
 "author": "ʙʏ Tiri©️",
 "image": "https://edea.juntadeandalucia.es/bancorecursos/file/1b4085aa-65f0-4de6-8934-a32dafe81f06/1/es-an_2021061812_9124836.zip/transmision-actitudes-valores.jpg",
 "info": "peliculas y cortos para la enseñanza/educacion con muchos valores",
-"url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cinevalores.w3u",
+"url": "",
 "groups": [
-{
-"name" : "📽️peliculas",
+
+{"name": "CINE- peliculas con valor",
 "image" : "https://es.tiching.com/uploads/contents/2013/11/05/111172_1383666274_m.png",
 "stations" : 
 	[
@@ -1194,12 +1194,309 @@ A pesar de su educación en un albergue, Jenny es una adolescente con un futuro 
 Cuando el joven profesor Jesse vuelve a la universidad, no puede evitar enamorarse de Zibby",		
 "image" : "https://pics.filmaffinity.com/liberal_arts-101598295-mmed.jpg",
 "url" : "https://www.tokyvideo.com/es/video/amor-y-letras-2012",
-"isHost" : true
-   }
- ]
-},
+"isHost" : true},
+]},		
 {
-"name" : "📺️ Documental y cortos",
+"name" : "cortos bullying",
+"image" : "https://www.gaceta.unam.mx/wp-content/uploads/2024/05/240502-aca8-des-f1-bullying.jpg",
+"stations" : 
+	[
+{
+"name" : " 'No Juegues Conmigo'  Bullying y acoso en las aulas ",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/4bQVOj7po3o5wKm",
+"isHost" : true
+},						
+{
+"name" : " ME LLAMO LAURA - Cortometraje LGTBI",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/P0poO10vJBdEz17",
+"isHost" : true
+},						
+{
+"name" : " Opaco",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/b4ZJx21bWPA52P3",
+"isHost" : true
+},						
+{
+"name" : "CABRONAZI 'el origen' ",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/7QWN5eyMQaB59oR",
+"isHost" : true
+},						
+{
+"name" : " Arconada - Fundación Dédalo",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/NMRLEprwLNe5XaG",
+"isHost" : true
+},						
+{
+"name" : "El silencio de Marta",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/pVa4E8MJDoBOkzM",
+"isHost" : true
+},					
+{
+"name" : "Ellas (Cortometraje costarricense) ",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/ZMVoEr8JWBq59Pa",
+"isHost" : true
+},								
+{
+"name" : "Acrobatas en el iglu ",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/ZMVoEr8J2bw59Pa",
+"isHost" : true
+},						
+{
+"name" : "Super ",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/wP2050epa2axdmy",
+"isHost" : true
+},						
+{
+"name" : "demonic aquarius",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/qL0YEyP764JxDRX",
+"isHost" : true
+},						
+{
+"name" : " fadedyIan",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/pVa4E8MJDlmOkzM",
+"isHost" : true
+},						
+{
+"name" : "MikeyMurphy ",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/dNjgOl4b9WKO9Wn",
+"isHost" : true
+},												
+{
+"name" : "allieanimation",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/eL2157dag8oxrw4",
+"isHost" : true
+},						
+{
+"name" : " citygirItown",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/8ozgENLvJGY5mjA",
+"isHost" : true
+},						
+
+{
+"name" : " No entiendo ¿Por qué¿",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/nyg9EKDLJ3BObk4",
+"isHost" : true
+},						
+{
+"name" : " Herida - Wound",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/KNWlEDN3jqz5kbp",
+"isHost" : true
+},						
+{
+"name" : "Ronan's Escape Subtitulado ",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/8lKQxYV8l2XEDGY",
+"isHost" : true
+},						
+{
+"name" : "PADRE MODELO ",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/KrdZ5kdvLkpxmX4",
+"isHost" : true
+},						
+{
+"name" : "STRAIN corto anti-bullying (subtitulado)  ",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/Ro7kOVVXgbBOZWB",
+"isHost" : true
+},						
+{
+"name" : " MEONA cortometraje ",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/rabVOQQo8egOKdW",
+"isHost" : true
+},						
+{
+"name" : " Revancha",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/njJYOd3GLgvEe9o",
+"isHost" : true
+},						
+{
+"name" : " 'ANDY' - SHORT",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/4bQVOj7pLYv5wKm",
+"isHost" : true
+},						
+{
+"name" : " CAMIONERO",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/3Q0lxBWBdkLEj1J",
+"isHost" : true
+},						
+{
+"name" : " BULLYING - Cómplices Silenciosos",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/VqbX53gRlJd5Qzp",
+"isHost" : true
+},						
+{
+"name" : "Girl struggles to fit in with the other children",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/edVqE4royX85YWm",
+"isHost" : true
+},						
+{
+"name" : "CUT COPY ⁄⁄ TAKE ME OVER ",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/njJYOd3GLg7Ee9o",
+"isHost" : true
+},						
+{
+"name" : "'El Sándwich de Mariana' ",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/PlBVEZ0l6ww5Dv9",
+"isHost" : true
+},						
+{
+"name" : "KAIE and The Guardians of Phantasus Short Animated ",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/4bQVOj7pLY85wKm",
+"isHost" : true
+},						
+{
+"name" : " ERA YO (It's me) Cortometraje",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/P0poO10vgweEz17",
+"isHost" : true
+},						
+{
+"name" : "Una Noche Cualquiera ",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/3Q0lxBWBd68Ej1J",
+"isHost" : true
+},						
+{
+"name" : "Puto Cortometraje ",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/VqbX53gRl9B5Qzp",
+"isHost" : true
+},						
+{
+"name" : "VIOLENCE BEGETS VIOLENCE ",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/0DogOGMGrnexKjM",
+"isHost" : true
+},						
+{
+"name" : " GARRA CHARRÚA",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/MAlwEMYpJq8EJ39",
+"isHost" : true
+},							
+{
+"name" : " Cortometraje Marías Sin .Sub",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/pVa4E8MJDyBOkzM",
+"isHost" : true
+},						
+{
+"name" : "Horror Short Film 'Piggy' ¦ ALTER",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/4bQVOj7pLq85wKm",
+"isHost" : true},
+]},	
+{
+"name" : "cortos de genero",
+"image" : "https://img2.rtve.es/a/5545915?w=400&preview=1585212994812.jpg",
+"stations" : 
+	[
+{
+"name" : " Te Quiero, Madre",
+"image" : "https://img2.rtve.es/a/5545915?w=400&preview=1585212994812.jpg",
+"url" : "https://listeamed.net/v/eL2157dakMbxrw4",
+"isHost" : true
+},	
+{
+"name" : " IMPULSO",
+"image" : "https://img2.rtve.es/a/5545915?w=400&preview=1585212994812.jpg",
+"url" : "https://listeamed.net/v/27BaOn1opMpEMDX",
+"isHost" : true
+},	
+{
+"name" : " Entre la vida y la culpa",
+"image" : "https://img2.rtve.es/a/5545915?w=400&preview=1585212994812.jpg",
+"url" : "https://listeamed.net/v/KNWlEDN3QWR5kbp",
+"isHost" : true
+},	
+{
+"name" : " Ajo Lúcido",
+"image" : "https://img2.rtve.es/a/5545915?w=400&preview=1585212994812.jpg",
+"url" : "https://listeamed.net/v/8lKQxYV8JjgEDGY",
+"isHost" : true
+},	
+{
+"name" : "Diez razones para dejarte ",
+"image" : "https://img2.rtve.es/a/5545915?w=400&preview=1585212994812.jpg",
+"url" : "https://listeamed.net/v/04rQxWW0KdZxb2N",
+"isHost" : true
+},	
+{
+"name" : " Interconectado",
+"image" : "https://img2.rtve.es/a/5545915?w=400&preview=1585212994812.jpg",
+"url" : "https://listeamed.net/v/k3gG5q3a2LyE1N2",
+"isHost" : true
+},	
+{
+"name" : " Números",
+"image" : "https://img2.rtve.es/a/5545915?w=400&preview=1585212994812.jpg",
+"url" : "https://listeamed.net/v/mMq75L8946Y5XPB",
+"isHost" : true
+},	
+{
+"name" : "GOLONDRINA ",
+"image" : "https://img2.rtve.es/a/5545915?w=400&preview=1585212994812.jpg",
+"url" : "https://listeamed.net/v/QNB7xA21B64E0WG",
+"isHost" : true
+},	
+{
+"name" : " GOLONDRINA",
+"image" : "https://img2.rtve.es/a/5545915?w=400&preview=1585212994812.jpg",
+"url" : "https://listeamed.net/v/g9Vd5JWeLGpxqQj",
+"isHost" : true
+},	
+{
+"name" : " TU MADRE ES UNA FLOR",
+"image" : "https://img2.rtve.es/a/5545915?w=400&preview=1585212994812.jpg",
+"url" : "https://listeamed.net/v/qL0YEyP7JYKxDRX",
+"isHost" : true
+},	
+{
+"name" : " El Libro Rojo; El Tiempo",
+"image" : "https://img2.rtve.es/a/5545915?w=400&preview=1585212994812.jpg",
+"url" : "https://listeamed.net/v/KNWlEDN3Qov5kbp",
+"isHost" : true
+},	
+{
+"name" : " EL NOVIO DE TINA La unión hace la fuerza",
+"image" : "https://img2.rtve.es/a/5545915?w=400&preview=1585212994812.jpg",
+"url" : "https://listeamed.net/v/pVa4E8MJ2k7OkzM",
+"isHost" : true
+},	
+{
+"name" : "ABRAZOS QUE DUELEN ",
+"image" : "https://img2.rtve.es/a/5545915?w=400&preview=1585212994812.jpg",
+"url" : "https://listeamed.net/v/qM1VOPNRDjMxo4k",
+"isHost" : true},
+]},	
+{
+"name" : "cortos varios",
 "image" : "https://bioeticaparatodos.com/wp-content/uploads/2021/01/bioetica-para-todos-declaracion-universal-de-los-derechos-humanos.jpg",
 "stations" : 
 	[
@@ -1438,21 +1735,7 @@ Un grupo de adolescentes, desmotivados por la educación que han recibido en la 
 Documental realizado por estudiantes que cuestiona las formas de educación moderna",
 "image" : "https://hastalanuna.files.wordpress.com/2016/09/tapa-dvd-sub.png",
 "url" : "https://www.youtube.com/embed/1Y9OqSJKCc&t=2s",
-"isHost" : true
-     },
-   ]
-},
-        
-        
-        
-       
-        
-        
-        
-        
-        
-        
-        
-    ]
+"isHost" : true},
+]}
+  ]
 }
-
