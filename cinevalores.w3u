@@ -1528,80 +1528,106 @@ Cuando el joven profesor Jesse vuelve a la universidad, no puede evitar enamorar
 "stations" : 
 	[
 {
-"name" : " Te Quiero, Madre",
-"image" : "https://img2.rtve.es/a/5545915?w=400&preview=1585212994812.jpg",
-"url" : "https://listeamed.net/v/eL2157dakMbxrw4",
-"isHost" : true
-},	
-{
-"name" : " IMPULSO",
-"image" : "https://img2.rtve.es/a/5545915?w=400&preview=1585212994812.jpg",
-"url" : "https://listeamed.net/v/27BaOn1opMpEMDX",
-"isHost" : true
-},	
-{
-"name" : " Entre la vida y la culpa",
-"image" : "https://img2.rtve.es/a/5545915?w=400&preview=1585212994812.jpg",
-"url" : "https://listeamed.net/v/KNWlEDN3QWR5kbp",
-"isHost" : true
-},	
-{
-"name" : " Ajo Lúcido",
-"image" : "https://img2.rtve.es/a/5545915?w=400&preview=1585212994812.jpg",
+"name" : "Ajo lúcido 2021",
+"info" : " 💬 Sinopsis: 
+ Vive con miedo, padeciendo la secuela emocional del maltrato. Pero Camila tratará de salir de su situación, buscando una alternativa para superar su miedo",
+"image" : "https://www.fescila.com/wp-content/uploads//portadas-cortos/2022/ajo-lucido.jpg",
 "url" : "https://listeamed.net/v/8lKQxYV8JjgEDGY",
 "isHost" : true
-},	
+},
 {
-"name" : "Diez razones para dejarte ",
-"image" : "https://img2.rtve.es/a/5545915?w=400&preview=1585212994812.jpg",
-"url" : "https://listeamed.net/v/04rQxWW0KdZxb2N",
-"isHost" : true
-},	
-{
-"name" : " Interconectado",
-"image" : "https://img2.rtve.es/a/5545915?w=400&preview=1585212994812.jpg",
-"url" : "https://listeamed.net/v/k3gG5q3a2LyE1N2",
-"isHost" : true
-},	
-{
-"name" : " Números",
-"image" : "https://img2.rtve.es/a/5545915?w=400&preview=1585212994812.jpg",
-"url" : "https://listeamed.net/v/mMq75L8946Y5XPB",
-"isHost" : true
-},	
-{
-"name" : "GOLONDRINA ",
-"image" : "https://img2.rtve.es/a/5545915?w=400&preview=1585212994812.jpg",
-"url" : "https://listeamed.net/v/QNB7xA21B64E0WG",
-"isHost" : true
-},	
-{
-"name" : " GOLONDRINA",
-"image" : "https://img2.rtve.es/a/5545915?w=400&preview=1585212994812.jpg",
-"url" : "https://listeamed.net/v/g9Vd5JWeLGpxqQj",
-"isHost" : true
-},	
-{
-"name" : " TU MADRE ES UNA FLOR",
-"image" : "https://img2.rtve.es/a/5545915?w=400&preview=1585212994812.jpg",
-"url" : "https://listeamed.net/v/qL0YEyP7JYKxDRX",
-"isHost" : true
-},	
-{
-"name" : " El Libro Rojo; El Tiempo",
-"image" : "https://img2.rtve.es/a/5545915?w=400&preview=1585212994812.jpg",
+"name" : "De menos 2021",
+"info" : " 💬 Sinopsis: 
+ despertar conciencias visibilizando la violencia de género menos visible",
+"image" : "https://pics.filmaffinity.com/de_menos-166322122-mmed.jpg",
 "url" : "https://listeamed.net/v/KNWlEDN3Qov5kbp",
 "isHost" : true
-},	
+},
 {
-"name" : " EL NOVIO DE TINA La unión hace la fuerza",
-"image" : "https://img2.rtve.es/a/5545915?w=400&preview=1585212994812.jpg",
+"name" : "Diez razones para dejarte 2019",
+"info" : " 💬 Sinopsis: 
+ Silvia está enamorada y no se da cuenta de que Raúl la controla. Esta escalada de control le lleva al último escalón en la violencia de género",
+"image" : "https://archivodelcortometraje.es/wp-content/uploads/2020/05/63-poster_Diez-razones-para-dejarte-1086x1536.jpg",
+"url" : "https://listeamed.net/v/04rQxWW0KdZxb2N",
+"isHost" : true
+},
+{
+"name" : "El Libro Rojo: El Tiempo",
+"info" : " 💬 Sinopsis: 
+ ficción que cuenta la historia de cuatro jóvenes que van a pasar un fin de semana juntos a una casa en las montañas",
+"image" : "https://dg9aaz8jl1ktt.cloudfront.net/the_files/93286/std.jpg",
+"url" : "https://listeamed.net/v/qL0YEyP7JYKxDRX",
+"isHost" : true
+},
+{
+"name" : "El novio de Tina 2023",
+"info" : " 💬 Sinopsis: 
+ Tina, una chica adolescente,se comporta de forma extraña y Su hermano,está preocupado porque ha visto cómo su novio le agarraba con fuerza",
+"image" : "https://cdn.pixabay.com/photo/2023/06/15/16/34/wedding-8065958_1280.png",
 "url" : "https://listeamed.net/v/pVa4E8MJ2k7OkzM",
 "isHost" : true
 },	
 {
-"name" : "ABRAZOS QUE DUELEN ",
-"image" : "https://img2.rtve.es/a/5545915?w=400&preview=1585212994812.jpg",
+"name" : "Entre la vida y la culpa 2022",
+"info" : " 💬 Sinopsis: 
+ Una mujer casada y católica. Inesperadamente, se queda embarazada de otro hombre que no es su marido",
+"image" : "https://i.ytimg.com/vi/kE0XVkAJfjA/maxresdefault.jpg",
+"url" : "https://listeamed.net/v/KNWlEDN3QWR5kbp",
+"isHost" : true
+},	
+{
+"name" : "Golondrina de madera",
+"info" : " 💬 Sinopsis: 
+ Enara, debido a un problema que no se atreve a contar, ingiere una cantidad muy elevada de pastillas",
+"image" : "https://filmfreeway-production-storage-01-storage.filmfreeway.com/press_kits/posters/001/827/902/original/ec485b4cd4-poster.jpg",
+"url" : "https://listeamed.net/v/QNB7xA21B64E0WG",
+"isHost" : true
+},	
+{
+"name" : "Impulso 2014",
+"info" : " 💬 Sinopsis: 
+ Fran es un joven atormentado por sus pensamientos mas oscuros. Un suceso inesperado le pondrá contra las cuerdasy tendrá que demostrarse a sí mismo que es capaz de controlar sus impulso",
+"image" : "https://s3.ppllstatics.com/elcorreo/www/multimedia/202105/05/media/MM-ilune-diaz-cine/impul4so-yoana-miguel.jpg",
+"url" : "https://listeamed.net/v/27BaOn1opMpEMDX",
+"isHost" : true
+},
+{
+"name" : "Interconectado 2019",
+"info" : " 💬 Sinopsis: 
+ Cortometraje mexicano documental de Itzel Sarmientos sobre violencia de género en México",
+"image" : "https://www.cinecorto.org/_files/peliculas/screenshot1_300/6064.jpg",
+"url" : "https://listeamed.net/v/k3gG5q3a2LyE1N2",
+"isHost" : true
+},
+{
+"name" : "Números 2022",
+"info" : " 💬 Sinopsis: 
+ En un teléfono hay 10 Números, múltiples combinaciones y en algunos casos, solo una es la acertada",
+"image" : "https://photoshop-kopona.com/uploads/posts/2021-11/1636294284_001.jpg",
+"url" : "https://listeamed.net/v/mMq75L8946Y5XPB",
+"isHost" : true
+},
+{
+"name" : "Te Quiero, Madre",
+"info" : " 💬 Sinopsis: 
+ Maltrato de género visto desde los ojos de los hijos. Pasional y directo",
+"image" : "https://www.bbmundo.com/wp-content/uploads/2021/09/mother-el-corto-que-muestra-que-una-mama-no-puede-con-todo.jpeg",
+"url" : "https://listeamed.net/v/eL2157dakMbxrw4",
+"isHost" : true
+},
+{
+"name" : "Tu madre es una flor 2016",
+"info" : " 💬 Sinopsis: 
+ Adriana es una niña de siete años que vive en el campo con su padre. Éste siempre le contó que su madre es una flor",
+"image" : "https://pics.filmaffinity.com/tu_madre_es_una_flor-867731826-mmed.jpg",
+"url" : "https://listeamed.net/v/g9Vd5JWeLGpxqQj",
+"isHost" : true
+},
+{
+"name" : "Abrazos que duelen 2022",
+"info" : " 💬 Sinopsis: 
+ pareja en la que se presentan agresiones verbales, empujones, encierros, amenazas de golpes, entre otras acciones de violencia",
+"image" : "https://pilees.wordpress.com/wp-content/uploads/2014/12/hqdefault.jpg",
 "url" : "https://listeamed.net/v/qM1VOPNRDjMxo4k",
 "isHost" : true},
 ]},
