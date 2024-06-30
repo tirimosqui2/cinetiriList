@@ -1806,6 +1806,81 @@ Cuando el joven profesor Jesse vuelve a la universidad, no puede evitar enamorar
 ]},
 {
 "name" : "𝐜𝐨𝐫𝐭𝐨𝐬 
+𝐒𝐨𝐛𝐫𝐞 𝐄𝐧𝐬𝐞ñ𝐚𝐧𝐳𝐚",
+"image" : "https://www.erubrica.com/blog/wp-content/uploads/2020/11/ense%C3%B1anza-aprendizaje.jpg",
+"stations" : 
+	[
+{
+"name" : "Binta Y La Gran Idea",
+"image" : "https://pics.filmaffinity.com/binta_y_la_gran_idea-340670097-mmed.jpg",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+ 
+ un humilde pescador que, preocupado por el progreso de la humanidad, está empeñado en llevar a cabo algo que se le ha ocurrido",
+"url" : "https://ok.ru/videoembed/2882104199806",
+"isHost" : true
+},	
+{
+"name" : "Camino a la escuela 2013",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+ 
+ Documental que narra la historia real y extraordinaria de cuatro niños",
+"image" : "https://i.imgur.com/nmckstY.png",
+"url" : "https://www.youtube.com/embed/DvMt2bNRaB4",
+"isHost" : true
+},					
+{
+"name" : "Enseñame pero bonito 2015",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+ 
+ documental que muestra diferentes experiencias educativas alternativas al modelo tradicional de aprendizaje",
+"image" : "https://pics.filmaffinity.com/ensename_pero_bonito-411167387-mmed.jpg",
+"url" : "https://www.youtube.com/embed/bYZJD-aUN0A"
+},		
+{
+"name" : "La escuela olvidada 2010",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+ 
+ El Instituto Escuela y la modernización educativa en España. Este documental recoge el testimonio oral de pedagogos,historiadores y ex alumno",
+"image" : "https://www.valdeverdejanuestropueblo.es/sites/default/files/styles/medium/public/laescuelaolvidada1.jpg",
+"url" : "https://www.rtve.es/play/videos/somos-documentales/la-escuela-olvidada/6224141/",
+"isHost" : true
+},		
+{
+"name" : "Las maestras de la República 2013",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+ 
+ mujeres que participaron en la conquista de los derechos de las mujeres y en la modernización de la educación",
+"image" : "https://m.media-amazon.com/images/I/71ppYPZnFKL._SL1209_.jpg",
+"url" : "https://archive.org/download/LasMaestrasDeLaRepublicaPilarPerezSolano2013/Las%20Maestras%20de%20la%20Rep%C3%BAblica%20%20%20Pilar%20P%C3%A9rez%20Solano%20%20%202013.mp4"
+},				
+{
+"name" : "Entre maestros 2012",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+ 
+ Un grupo de adolescentes, desmotivados por la educación que han recibido en la escuela, asisten durante doce días a unas clases especiales",
+"image" : "https://pics.filmaffinity.com/entre_maestros-305216235-mmed.jpg",
+"url" : "https://www.youtube.com/embed/BtH0HwWA6Yc"
+},
+{
+"name" : "La educación prohibida 2012",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+ 
+ Documental realizado por estudiantes que cuestiona las formas de educación moderna",
+"image" : "https://hastalanuna.files.wordpress.com/2016/09/tapa-dvd-sub.png",
+"url" : "https://www.youtube.com/embed/1Y9OqSJKCc&t=2s",
+"isHost" : true
+},
+{
+"name" : "El pequeño salvaje 1970",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+ 
+ Un niño incapaz de hablar, caminar, leer o escribir se encuentra desnudo en un bosque de Francia	",	
+"image" : "https://1.bp.blogspot.com/-Tgsz7FcbZEo/T3s75oEZ-UI/AAAAAAAABlg/vTdCGjvEIqM/s320/El_Pequeno_Salvaje-Caratula.jpg",
+"url" : "https://ok.ru/videoembed/2521010801223",
+"isHost" : true},
+]},
+{
+"name" : "𝐜𝐨𝐫𝐭𝐨𝐬 
 𝐒𝐨𝐛𝐫𝐞 𝐯𝐚𝐫𝐢𝐨𝐬",
 "image" : "https://bioeticaparatodos.com/wp-content/uploads/2021/01/bioetica-para-todos-declaracion-universal-de-los-derechos-humanos.jpg",
 "stations" : 
@@ -1821,9 +1896,9 @@ Entrevistas sobre los efectos del alcohol en menores y explicación sobre la nec
 "isHost" : true
 },
 {
-"name" : "Campaña #FakeNurses #EsaNoSoyYo",
+"name" : "Campaña EsaNoSoyYo",
 "image" : "https://static.wikia.nocookie.net/logopedia/images/0/0c/Esa_no_soy_yo.jpg/revision/latest/scale-to-width-down/125?cb=20230118032409&path-prefix=es",
-"info" : " ⌛️ /Educativo/Campaña/Feminismo
+"info" : " ⌛️ /Educativo/Campaña/enfermeria
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Queremos ser reconocidas de una manera justa. Queremos dejar a un lado esas terribles narrativas que nos persiguen",
@@ -1848,16 +1923,6 @@ Blanca, Marcos y Nico se reúnen una vez al mes para ver a su madre, semidependi
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Collé Ardo vive en un pueblo africano. Hace siete años no permitió que su hija fuera sometida a la ablación, una práctica que le parece una barbarie",
 "url" : "https://archive.org/download/MOOLAADE/MOOLAADE.avi",
-"isHost" : true
-},
-{
-"name" : "Binta Y La Gran Idea",
-"image" : "https://pics.filmaffinity.com/binta_y_la_gran_idea-340670097-mmed.jpg",
-"info" : " ⌛️ Drama |/Educativo/África/Enseñanza/Feminismo
-
-💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
-un humilde pescador que, preocupado por el progreso de la humanidad, está empeñado en llevar a cabo algo que se le ha ocurrido",
-"url" : "https://ok.ru/videoembed/2882104199806",
 "isHost" : true
 },
 {
@@ -1889,16 +1954,6 @@ Tras ser captados en Mali por un ojeador de fútbol, los jóvenes Amadou y Mouss
 Este cortometraje nos educa en  la importancia de ir buscando estrategias para superar nuestros miedos para seguir creciendo",
 "url" : "https://www.dailymotion.com/embed/video/x594994",
 "isHost" : true
-},
-{
-"name" : "El pequeño salvaje 1970",
-"info" : " ⌛️ Documental/Drama/Enseñanza/Infancia
-				
-💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
-Un niño incapaz de hablar, caminar, leer o escribir se encuentra desnudo en un bosque de Francia	",	
-"image" : "https://1.bp.blogspot.com/-Tgsz7FcbZEo/T3s75oEZ-UI/AAAAAAAABlg/vTdCGjvEIqM/s320/El_Pequeno_Salvaje-Caratula.jpg",
-"url" : "https://ok.ru/videoembed/2521010801223",
-"isHost" : true
 },	
 {
 "name" : "Cuerdas 2013",
@@ -1919,63 +1974,6 @@ Documental sobre el autismo",
 "image" : "http://payload303.cargocollective.com/1/16/533492/8365663/Captura-de-pantalla-2014-08-08-a-las-14.05.46.png",
 "url" : "https://www.youtube.com/embed/FvM6xvfINEI"
 },	
-{
-"name" : "Camino a la escuela 2013",
-"info" : " ⌛️ Documental/Infancia/Enseñanza
-
-💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
-Documental que narra la historia real y extraordinaria de cuatro niños",
-"image" : "https://i.imgur.com/nmckstY.png",
-"url" : "https://www.youtube.com/embed/DvMt2bNRaB4",
-"isHost" : true
-},					
-{
-"name" : "Enseñame pero bonito 2015",
-"info" : " ⌛️ Documental/Mediometraje/Enseñanza
-
-💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
-documental que muestra diferentes experiencias educativas alternativas al modelo tradicional de aprendizaje",
-"image" : "https://pics.filmaffinity.com/ensename_pero_bonito-411167387-mmed.jpg",
-"url" : "https://www.youtube.com/embed/bYZJD-aUN0A"
-},		
-{
-"name" : "La escuela olvidada 2010",
-"info" : " ⌛️ Documental/Mediometraje/Enseñanza/Cole
-
-💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
-El Instituto Escuela y la modernización educativa en España. Este documental recoge el testimonio oral de pedagogos,historiadores y ex alumno",
-"image" : "https://www.valdeverdejanuestropueblo.es/sites/default/files/styles/medium/public/laescuelaolvidada1.jpg",
-"url" : "https://www.rtve.es/play/videos/somos-documentales/la-escuela-olvidada/6224141/",
-"isHost" : true
-},		
-{
-"name" : "Las maestras de la República 2013",
-"info" : " ⌛️ Documental/Enseñanza/Feminismo
- 
-💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
-mujeres que participaron en la conquista de los derechos de las mujeres y en la modernización de la educación",
-"image" : "https://m.media-amazon.com/images/I/71ppYPZnFKL._SL1209_.jpg",
-"url" : "https://archive.org/download/LasMaestrasDeLaRepublicaPilarPerezSolano2013/Las%20Maestras%20de%20la%20Rep%C3%BAblica%20%20%20Pilar%20P%C3%A9rez%20Solano%20%20%202013.mp4"
-},	
-			
-{
-"name" : "Entre maestros 2012",
-"info" : " ⌛️ Documental/Enseñanza/Cole&Uni
-
-💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
-Un grupo de adolescentes, desmotivados por la educación que han recibido en la escuela, asisten durante doce días a unas clases especiales",
-"image" : "https://pics.filmaffinity.com/entre_maestros-305216235-mmed.jpg",
-"url" : "https://www.youtube.com/embed/BtH0HwWA6Yc"
-},
-{
-"name" : "La educación prohibida 2012",
-"info" : " ⌛️ Documental/Enseñanza/estudiantes
-
-💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
-Documental realizado por estudiantes que cuestiona las formas de educación moderna",
-"image" : "https://hastalanuna.files.wordpress.com/2016/09/tapa-dvd-sub.png",
-"url" : "https://www.youtube.com/embed/1Y9OqSJKCc&t=2s",
-"isHost" : true},
 ]}
   ]
 }
