@@ -52,16 +52,6 @@
 "isHost" : true
 }, 
 {
-"name" : "El destino de los pobres 2012",
-"image" : "https://pics.filmaffinity.com/el_destino_de_los_pobres-264503952-mmed.jpg",
-"info" : " ⌛️ Drama/Vida rural/Pobreza
-
-💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
- Película peruana basada en la realidad que se vivió en los años 80 donde las fuerzas subversivas y las fuerzas militares hicieron grandes estragos en las regiones de Ayacucho",
-"url" : "https://ok.ru/videoembed/6507469605387",
-"isHost" : true
-}, 
-{
 "name" : "Pajarico 1997",
 "image" : "https://pics.filmaffinity.com/pajarico-475057380-mmed.jpg",
 "info" : " ⌛️ Drama/Romance/Infancia/Vejez/Madurez/Familia
@@ -1825,6 +1815,30 @@ Cuando el joven profesor Jesse vuelve a la universidad, no puede evitar enamorar
 "image" : "https://www.educaciontrespuntocero.com/wp-content/uploads/2019/12/colorida-ilustracion-manos-llegando-mapa-mundial.jpg",
 "stations" : 
 	[
+{
+"name" : "Los Derechos de los Niños-1 La convención 1998",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ Derechos de los niños Cumbre Mundial en Favor de la Infancia",	
+"image" : "https://pics.filmaffinity.com/human-397519235-mmed.jpg",
+"url" : "https://archive.org/download/derechos-ninios/derechos-_1.mpg"},
+{
+"name" : "Los Derechos de los Niños-2 la niñez 1998",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ Derechos de los niños Cumbre Mundial en Favor de la Infancia",	
+"image" : "https://pics.filmaffinity.com/human-397519235-mmed.jpg",
+"url" : "https://archive.org/download/derechos-ninios/derechos-_2.mpg"},
+{
+"name" : "Los Derechos de los Niños-3 niños y niñas 1998",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ Derechos de los niños Cumbre Mundial en Favor de la Infancia",	
+"image" : "https://pics.filmaffinity.com/human-397519235-mmed.jpg",
+"url" : "https://archive.org/download/derechos-ninios/derechos-_3.mpg"},
+{
+"name" : "Los Derechos de los Niños-4 Un niño como tú 1998",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ Derechos de los niños Cumbre Mundial en Favor de la Infancia",	
+"image" : "https://pics.filmaffinity.com/human-397519235-mmed.jpg",
+"url" : "https://archive.org/download/derechos-ninios/derechos-_4.mpg"},
 {
 "name" : "HUMAN 2015 I",
 "info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
