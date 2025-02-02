@@ -1,20 +1,120 @@
 {
 "name": "👪 𝐂𝐎𝐍 𝐕𝐀𝐋𝐎𝐑𝐄𝐒 👪",
-"author": "ʙʏ Tiri©️",
+"author": "𝓑𝓨 𝐓𝐈𝐑𝐈™",
 "image": "https://edea.juntadeandalucia.es/bancorecursos/file/1b4085aa-65f0-4de6-8934-a32dafe81f06/1/es-an_2021061812_9124836.zip/transmision-actitudes-valores.jpg",
-"info": "peliculas y cortos para la enseñanza/educacion con muchos valores",
+"info": "peliculas y cortos para la educacion con muchos valores",
 "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cinevalores.w3u",
 "groups": [
 
-{"name": "🎞️ 𝙋𝙀𝙇𝙄𝘾𝙐𝙇𝘼𝙎 
-𝙘𝙞𝙣𝙚 𝙘𝙤𝙣 𝙑𝙖𝙡𝙤𝙧",
+{"name": " ▃ ▅ 📽️ 𝑪𝑰𝑵𝑬 ▅ ▃ 
+           ℙ𝕖𝕝𝕚𝕔𝕦𝕝𝕒𝕤 𝕔𝕠𝕟 𝕍𝕒𝕝𝕠𝕣",
 "image" : "https://es.tiching.com/uploads/contents/2013/11/05/111172_1383666274_m.png",
 "stations" : 
 	[
+{	
+"name": "Mediterráneo (2021)",
+"image": "https://pics.filmaffinity.com/mediterraneo-182012182-mmed.jpg",
+"info" : " 📚 Drama/hechos reales/Inmigración/Supervivencia
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+ Otoño de 2015 Dos socorristas,Óscar y Gerard, viajan hasta la isla de Lesbos, en Grecia, impactados por la fotografía de un niño ahogado en las aguas del Mediterráneo",
+"url": "https://ok.ru/videoembed/8252122532363?nochat=1&autoplay=1",
+"isHost" : true
+},
+{
+"name": "Libertad (2021)",
+"image" : "https://pics.filmaffinity.com/libertad-434878048-mmed.jpgg",
+"info" : " 📚 Drama/ Adolescencia/Familia
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+   La familia Vidal pasa en su casa de verano las últimas vacaciones de la abuela Ángela, que sufre Alzheimer avanzado",
+"url" : "https://ok.ru/videoembed/3147141679677?nochat=1&autoplay=1",
+"isHost" : true
+},
+{
+"name": "Hotel Rwanda (2004)",
+"image" : "https://pics.filmaffinity.com/hotel_rwanda-396734172-mmed.jpgg",
+"info" : " 📚 Drama/África/hechos reales/racismo
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+   1994, guerra civil de Ruanda Los odios ancestrales entre los hutu (la etnia dominante) y los tutsi provocan el asesinato del presidente del país",
+"url" : "https://ok.ru/videoembed/2289389079164?nochat=1&autoplay=1",
+"isHost" : true
+},
+{
+"name": "Caída libre (2024)",
+"image" : "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9EdGBz7SWudhGMlvucVebiczLrq.jpgg",
+"info" : " 📚 Thriller. Drama | Deporte Gimnasia
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+   Marisol es la entrenadora nacional de gimnasia rítmica, metódica, exigente y autoritaria",
+"url" : "https://ok.ru/videoembed/8022289746479?nochat=1&autoplay=1",
+"isHost" : true
+},
+{
+"name": "Solo queda la danza (2022)",
+"image" : "https://pics.filmaffinity.com/piece_of_my_heart-574649784-mmed.jpgg",
+"info" : " 📚 Dramal/Balletl/Amistad
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+   Mientras las jóvenes bailarinas Irma y Olga intentan mantenerse firmes en el exigente mundo del ballet de Ámsterdam en la década de 1970",
+"url" : "https://ok.ru/videoembed/6889849817765?nochat=1&autoplay=1",
+"isHost" : true
+},
+{
+"name": "Academia de Estrellas (2019)",
+"image" : "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/il0V8x5BP99FREXWuJhBl0IBtKN.jpgg",
+"info" : " 📚 Infantil/Danza
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+   Los adolescentes compiten por el mejor intérprete del verano en Next Level, un programa especializado en artes escénicas de danza / hip-hop / composición de canciones",
+"url" : "https://ok.ru/videoembed/7373589449456?nochat=1&autoplay=1",
+"isHost" : true
+},
+{
+"name": "Un sueño para Holly (2004)",
+"image" : "https://pics.filmaffinity.com/brave_new_girl_tv-217440155-mmed.jpgg",
+"info" : " 📚 Drama/familiar/Música/Adolescencia
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+   Holly Lovell (Lindsey Haun) es una joven de Texas que sueña con ser cantante",
+"url" : "https://ok.ru/videoembed/4472241326682?nochat=1&autoplay=1",
+"isHost" : true
+},
+{
+"name": "As Neves (2024)",
+"image" : "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/23zwte7xCAPHFPZGoUsZ8WxybR4.jpgg",
+"info" : " 📚 Drama | Drogas. Amistad. Vida rural. Adolescencia. Secuestros / Desapariciones
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+   As Neves es un pueblo gallego de montaña donde todos se conocen. La noche de carnaval un grupo de adolescentes celebran una fiesta y se drogan con setas por primera vez",
+"url" : "https://ok.ru/videoembed/7302248925758?nochat=1&autoplay=1",
+"isHost" : true
+},
+{
+"name": "Disobedience 2017",
+"image" : "https://pics.filmaffinity.com/disobedience-810659578-mmed.jpgg",
+"info" : " 📚 Drama romántico/Homosexualidad/Religión
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+   Una mujer que se crió en una familia ortodoxa judía regresa a su hogar con motivo de la muerte de su padre, un rabino",
+"url" : "https://ok.ru/videoembed/4387826436796?nochat=1&autoplay=1",
+"isHost" : true
+},
+{
+"name": "Megan Is Missing 2011",
+"image" : "https://pics.filmaffinity.com/megan_is_missing-845440699-mmed.jpgg",
+"info" : " 📚 Terror/Drama/hechos reales/Internet/Secuestros/Desapariciones
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+   Megan Stewart es la clásica adolescente muy popular en su instituto que paga un alto precio para poder ser la más admirada",
+"url" : "https://ok.ru/videoembed/6814310075079?nochat=1&autoplay=1",
+"isHost" : true
+},	
 {
 "name": "Todas las Pecas del Mundo 2019",
 "image": "https://pics.filmaffinity.com/todas_las_pecas_del_mundo-297484545-mmed.jpg",
-"info" : " ⌛️ Comedia/Romance/Adolescencia/Amistad/Cole&Uni/Fútbol
+"info" : " 📚 Comedia/Romance/Adolescencia/Amistad/Cole&Uni/Fútbol
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
  José Miguel Mota de 13 años, se ha enamorado de la chica más guapa del colegio",
@@ -24,7 +124,7 @@
 {
 "name": "Una flor en el barro 2023",
 "image": "https://pics.filmaffinity.com/una_flor_en_el_barro-849173567-mmed.jpg",
-"info" : " ⌛️ Drama/Adolescencia/talento perdido
+"info" : " 📚 Drama/Adolescencia/talento perdido
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
  Un maestro llega a un humilde colegio del conurbano bonaerense para ejercer una suplencia. Allí conoce a Sofía, una niña superdotada de 7 años",
@@ -34,7 +134,7 @@
 {
 "name": "Conducta 2014",
 "image": "https://pics.filmaffinity.com/conducta-510225907-mmed.jpg",
-"info" : " ⌛️ Infancia/Cole&Uni/Enseñanza/Drama social
+"info" : " 📚 Infancia/Cole&Uni/Enseñanza/Drama social
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
  Cuenta la historia de Chala un niño de once años cuya vida transcurre en un ambiente de violencia, con una madre adicta a las drogas y al alcohol, y perros de pelea que entrena para sostener su hogar",
@@ -44,7 +144,7 @@
 {
 "name": "Diamantes Negros 2013",
 "image": "https://pics.filmaffinity.com/diamantes_negros-196123385-mmed.jpg",
-"info" : " ⌛️ Drama social/África/Fútbol
+"info" : " 📚 Drama social/África/Fútbol
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
  Tras ser captados en Mali por un ojeador de fútbol, los jóvenes Amadou y Moussa abandonan su país, escapando de la pobreza",
@@ -54,7 +154,7 @@
 {
 "name": "Fanfik 2023",
 "image": "https://pics.filmaffinity.com/fanfik-735677672-mmed.jpg",
-"info" : " ⌛️ Drama/Adolescencia/Homosexualidad
+"info" : " 📚 Drama/Adolescencia/Homosexualidad
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
  Dos estudiantes de secundaria forman una conexión intensa mientras se enfrentan a los desafíos de descubrir y expresar su verdadero yo",
@@ -64,7 +164,7 @@
 {
 "name": "Perfume de violetas 2000",
 "image": "https://pics.filmaffinity.com/perfume_de_violetas-871105306-mmed.jpg",
-"info" : " ⌛️ Drama social/Adolescencia/Cole&Uni/Abusos sexuales/hechos reales
+"info" : " 📚 Drama social/Adolescencia/Cole&Uni/Abusos sexuales/hechos reales
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
  Yessica y Miriam, dos adolescentes de la ciudad de México que empiezan una amistad profunda en la secundaria el barrio de Santo Domingo",
@@ -74,7 +174,7 @@
 {
 "name": "El país de las maravillas 2014",
 "image": "https://pics.filmaffinity.com/le_meraviglie_the_wonders-770367493-large.jpg",
-"info" : " ⌛️ Drama/Adolescencia/Familia
+"info" : " 📚 Drama/Adolescencia/Familia
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
  Se termina el verano en un pueblo en Umbria, Italia. Gelsomina vive con sus padres y sus tres hermanas pequeñas en una granja destartalada, donde producen miel",
@@ -84,7 +184,7 @@
 {
 "name": "princesita 2017",
 "image": "https://pics.filmaffinity.com/princesita-157612143-mmed.jpg",
-"info" : " ⌛️ Drama/Sectas/Abusos sexuales/hechos reales
+"info" : " 📚 Drama/Sectas/Abusos sexuales/hechos reales
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
  Tamara, de once años, vive en una secta que está regida por las reglas y creencias de Miguel, su líder",
@@ -94,7 +194,7 @@
 {
 "name": "Paisaje 2018",
 "image": "https://pics.filmaffinity.com/paisaje-571056471-mmed.jpg",
-"info" : " ⌛️ Drama/ amistad/Adolescencia
+"info" : " 📚 Drama/ amistad/Adolescencia
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
  Un concierto de rock, la irrupción de la policía, cuatro amigas obligadas a huir con rapidez y que olvidan allí su mochila",
@@ -104,7 +204,7 @@
 {
 "name": "Ixcanul 2015",
 "image": "https://pics.filmaffinity.com/ixcanul_ixcanul_volcano-718026979-mmed.jpg",
-"info" : " ⌛️ Drama/Vida rural/Adolescencia
+"info" : " 📚 Drama/Vida rural/Adolescencia
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
  María joven maya cakchiquel de 17 años, vive con sus padres en una finca cafetalera, en las faldas de un volcán activo de Guatemala Le espera un matrimonio concertado, proyecto que no quiere aceptar, pero del que no puede huir",
@@ -113,7 +213,7 @@
 {
 "name": "Rara 2016",
 "image": "https://pics.filmaffinity.com/rara-586823923-mmed.jpg",
-"info" : " ⌛️ Drama/hechos reales/Homosexualidad/Familia/Adolescencia
+"info" : " 📚 Drama/hechos reales/Homosexualidad/Familia/Adolescencia
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
  Que te gusten los chicos, o quizá encontrar que son estúpidos; ser supercercana con tu mejor amiga, y aun así no contarle tus secretos",
@@ -123,7 +223,7 @@
 {
 "name": "Hada 2023",
 "image": "https://pics.filmaffinity.com/hada-214969386-mmed.jpg",
-"info" : " ⌛️ Drama/hechos reales/Amistad/Adolescencia
+"info" : " 📚 Drama/hechos reales/Amistad/Adolescencia
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
  narra el reencuentro de las ex compañeras de un equipo de baloncesto tras el suicidio de una de ellas. Con un simple mensaje de Whatsapp, las antiguas amigas de Hada, de 23 años, reciben la trágica noticia",
@@ -133,7 +233,7 @@
 {
 "name": "Paradise is Burning 2023",
 "image": "https://pics.filmaffinity.com/paradiset_brinner_paradise_is_burning-663980807-mmed.jpg",
-"info" : " ⌛️ Drama/Homosexualidad/Familia/Adolescencia
+"info" : " 📚 Drama/Homosexualidad/Familia/Adolescencia
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
  Tres hermanas de entre 7 y 15 años viven solas después de que su madre desapareciera durante largos periodos de tiempo",
@@ -143,7 +243,7 @@
 {
 "name": "Tori y Lokita 2022",
 "image": "https://pics.filmaffinity.com/tori_et_lokita-418493923-mmed.jpg",
-"info" : " ⌛️ Drama/Familia/Inmigración/Amistad
+"info" : " 📚 Drama/Familia/Inmigración/Amistad
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
    Un niño y una chica adolescente que llegaron solos de África enfrentan su invencible amistad contra las difíciles condiciones de su exilio",
@@ -153,7 +253,7 @@
 {
 "name" : "La bicicleta verde 2012",
 "image" : "https://pics.filmaffinity.com/wadjda-198857857-mmed.jpg",
-"info" : " ⌛️ B hechos reales/Infancia/drama social
+"info" : " 📚 B hechos reales/Infancia/drama social
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
  Wadjda tiene diez años y vive en una sociedad tan tradicional que ciertas cosas como ir en bicicleta le están totalmente prohibidas",
@@ -163,7 +263,7 @@
 {
 "name": "Libertad 2021",
 "image": "https://pics.filmaffinity.com/Libertad-822762849-large.jpg",
-"info" : " ⌛️ Drama psicológico/Adolescencia/Familia
+"info" : " 📚 Drama psicológico/Adolescencia/Familia
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
  La familia Vidal pasa en su casa de verano las últimas vacaciones de la abuela Ángela, que sufre Alzheimer avanzado",
@@ -173,7 +273,7 @@
 {
 "name": "El sustituto 2021",
 "image": "https://pics.filmaffinity.com/El_sustituto-275955967-large.jpg",
-"info" : " ⌛️ Hechos reales/Nazismo/Policíaco
+"info" : " 📚 Hechos reales/Nazismo/Policíaco
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
  Un joven policía curtido en los barrios más duros de Madrid acepta un destino en un pueblo de mar con la esperanza de curar a su hija y, de paso, ganar algo de tranquilidad",
@@ -183,7 +283,7 @@
 {
 "name": "La Ballena 2022",
 "image": "https://pics.filmaffinity.com/the_whale-293958603-large.jpg",
-"info" : " ⌛️ Familia/Enfermedad/Homosexualidad
+"info" : " 📚 Familia/Enfermedad/Homosexualidad
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
  Un solitario profesor de inglés con obesidad severa intenta reconectar con su hija adolescente en una última oportunidad de redención",
@@ -193,7 +293,7 @@
 {
 "name" : "las tortugas también vuelan 2004",
 "image" : "https://pics.filmaffinity.com/lakposhtha_ham_parvaz_mikonand_turtles_can_fly-835940653-mmed.jpg",
-"info" : " ⌛️ Pobreza/Discapacidad/Drama social/Infancia
+"info" : " 📚 Pobreza/Discapacidad/Drama social/Infancia
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
  Los habitantes de un campo de refugiados del Kurdistán iraquí buscan desesperadamente una antena parabólica para poder estar informados del inminente ataque americano contra Irak",
@@ -203,7 +303,7 @@
 {
 "name" : "Carrie 1976",
 "image" : "https://pics.filmaffinity.com/carrie-272592030-mmed.jpg",
-"info" : " ⌛️ Terror/Drama psicológico/Adolescencia/Cole&Uni/Acoso escolar/Bullying
+"info" : " 📚 Terror/Drama psicológico/Adolescencia/Cole&Uni/Acoso escolar/Bullying
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
  una tímida adolescente que vive con su madre una fanática religiosa es objeto de las burlas constantes de sus compañeros de instituto",
@@ -213,7 +313,7 @@
 {
 "name" : "El destino de los pobres 2012",
 "image" : "https://pics.filmaffinity.com/el_destino_de_los_pobres-264503952-mmed.jpg",
-"info" : " ⌛️ Drama/Vida rural/Pobreza
+"info" : " 📚 Drama/Vida rural/Pobreza
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
  Película peruana basada en la realidad que se vivió en los años 80 donde las fuerzas subversivas y las fuerzas militares hicieron grandes estragos en las regiones de Ayacucho",
@@ -223,7 +323,7 @@
 {
 "name" : "Pajarico 1997",
 "image" : "https://pics.filmaffinity.com/pajarico-475057380-mmed.jpg",
-"info" : " ⌛️ Drama/Romance/Infancia/Vejez/Madurez/Familia
+"info" : " 📚 Drama/Romance/Infancia/Vejez/Madurez/Familia
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
  Película peruana basada en la realidad que se vivió en los años 80 donde las fuerzas subversivas y las fuerzas militares hicieron grandes estragos en las regiones de Ayacucho",
@@ -231,7 +331,7 @@
 {
 "name" : "Una bolsa de canicas 2017",
 "image" : "https://pics.filmaffinity.com/un_sac_de_billes-936891141-mmed.jpg",
-"info" : " ⌛️ Drama/Guerra/Nazismo/Holocausto/Familia
+"info" : " 📚 Drama/Guerra/Nazismo/Holocausto/Familia
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
  Maurice y Joseph son dos jóvenes hermanos judíos que viven en la Francia ocupada por los nazis",
@@ -241,7 +341,7 @@
 {
 "name" : "Viva Cuba 2005",
 "image" : "https://pics.filmaffinity.com/viva_cuba-148859721-mmed.jpg",
-"info" : " ⌛️ Drama/Infancia/Amistad
+"info" : " 📚 Drama/Infancia/Amistad
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
  Malú y Jorgito son dos niños que se han prometido amistad para toda la vida",
@@ -251,7 +351,7 @@
 {
 "name" : "Acoso En Las Aulas 2009",
 "image" : "https://pics.filmaffinity.com/an_american_girl_chrissa_stands_strong-224527688-mmed.jpg",
-"info" : " ⌛️ Drama/Cole&Uni/Cine familiar/Acoso escolar/Bullying
+"info" : " 📚 Drama/Cole&Uni/Cine familiar/Acoso escolar/Bullying
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
  A mitad de curso una niña de once años se muda con su familia a Minnesota",
@@ -261,7 +361,7 @@
 {
 "name" : "El lago azul 1980",
 "image" : "https://pics.filmaffinity.com/the_blue_lagoon-177384327-mmed.jpg",
-"info" : " ⌛️ Romance/Aventuras/Supervivencia/Adolescencia/despertar
+"info" : " 📚 Romance/Aventuras/Supervivencia/Adolescencia/despertar
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
  Dos niños,únicos supervivientes de un naufragio son arrastrados por el mar hasta una isla desierta",
@@ -271,7 +371,7 @@
 {
 "name" : "Perras 2011",
 "image" : "https://pics.filmaffinity.com/perras-735767772-mmed.jpg",
-"info" : " ⌛️ Drama/Acoso escolar/Bullying/Adolescencia/Cole&Uni/psicológico
+"info" : " 📚 Drama/Acoso escolar/Bullying/Adolescencia/Cole&Uni/psicológico
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
  Diez alumnas han de permanecer en su clase, esperando a que llegue la policía y las interroguen",
@@ -281,14 +381,14 @@
 {
 "name" : "skate kitchen 2018",
 "image" : "https://pics.filmaffinity.com/skate_kitchen-341077160-mmed.jpg",
-"info" : " ⌛️ Drama/Adolescencia/Skateboarding
+"info" : " 📚 Drama/Adolescencia/Skateboarding
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
  La vida de Camille una adolescente de los suburbios cambia repentinamente cuando conoce a un grupo de chicas que hacen skate",
 "url" : "https://fastream.to/embed-czt7thr0jlq0.html"
 }, 
 {"name" : "Barrio 1998",
-"info" : " ⌛️ Drama/Adolescencia/Drama social/Amistad	
+"info" : " 📚 Drama/Adolescencia/Drama social/Amistad	
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
    En uno de esos barrios situados al sur de las grandes ciudades, a los que no llega ni el metro ni el dinero",
@@ -296,7 +396,7 @@
 "url" : "https://rtvehlsvodlote7modo2.rtve.es/resources/TE_NGVA/mp4/8/6/1631114426568.mp4"
 },				
 {"name" : "El bola 2000",
-"info" : " ⌛️ Drama social/Adolescencia/Amistad/Familia
+"info" : " 📚 Drama social/Adolescencia/Amistad/Familia
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
    El Bola es un chaval de 12 años que vive en una atmósfera violenta y sórdida",
@@ -304,7 +404,7 @@
 "url" : "https://rtvehlsvodlote7modo2.rtve.es/resources/TE_NGVA/mp4/1/9/1604651866691.mp4"
 },			
 {"name" : "El país del miedo 2015",
-"info" : " ⌛️ Drama/Thriller/ Acoso escolar/Adolescencia 
+"info" : " 📚 Drama/Thriller/ Acoso escolar/Adolescencia 
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
    hombre pacífico, ve alterada su vida cuando Marta, una niña de 13 años, se cruza en el camino de su hijo Pablo y los comienza a extorsionar",
@@ -313,7 +413,7 @@
 },				
 {"name" : "Un pequeño mundo 2021",
 "image" : "https://pics.filmaffinity.com/un_monde-568215981-mmed.jpg",
-"info" : " ⌛️ Drama/Acoso escolar/Bullying Cole&Uni
+"info" : " 📚 Drama/Acoso escolar/Bullying Cole&Uni
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
    Nora entra en primaria y poco después descubre el acoso que sufre su hermano mayor, Abel",
@@ -322,7 +422,7 @@
 },						
 {"name" : "Rocca cambia el mundo 2019",
 "image" : "https://pics.filmaffinity.com/rocca_verandert_die_welt-952448407-mmed.jpg",
-"info" : " ⌛️ Drama/Comedia Infantil/Cole&Uni/ Acoso escolar/Bullying 
+"info" : " 📚 Drama/Comedia Infantil/Cole&Uni/ Acoso escolar/Bullying 
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
    una inusual amiga en Gerald y se convierte en la matona de la clase el primer día en su nueva escuela",
@@ -330,7 +430,7 @@
 },		
 {"name" : "La Soledad De Los Números Primos 2010",
 "image" : "https://pics.filmaffinity.com/La_soledad_de_los_n_meros_primos-380808297-large.jpg",
-"info" : " ⌛️ Drama/Adolescencia/Discapacidad/Acoso escolar
+"info" : " 📚 Drama/Adolescencia/Discapacidad/Acoso escolar
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
    En la escuela, Mattia había estudiado que entre los números primos (los que sólo son divisibles por sí mismos o por la unidad) hay algunos muy especiales",
@@ -339,7 +439,7 @@
 },		
 {"name" : "En un mundo mejor 2010", 
 "image" : "https://pics.filmaffinity.com/haevnen_civilization_in_a_better_world-457640519-mmed.jpg",
-"info" : " ⌛️ Drama/África/Adolescencia/Acoso escolar 
+"info" : " 📚 Drama/África/Adolescencia/Acoso escolar 
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
    un médico que divide su tiempo entre una idílica ciudad danesa y un campo de refugiados en África",
@@ -347,7 +447,7 @@
 "isHost": true 
 },
 {"name" : "Moxie 2021",
-"info" : " ⌛️ comedia/Drama/Música/Feminismo/Cole&Uni
+"info" : " 📚 comedia/Drama/Música/Feminismo/Cole&Uni
 	
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
   Harta del ambiente sexista y tóxico de su instituto, una tímida joven de 16 años encuentra la inspiración en el pasado rebelde de su madre ",
@@ -356,7 +456,7 @@
 "isHost" : true
 },
 {"name" : "Moxie 2021 op2",
-"info" : " ⌛️ comedia/Drama/Música/Feminismo/Cole&Uni
+"info" : " 📚 comedia/Drama/Música/Feminismo/Cole&Uni
 	
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
   Harta del ambiente sexista y tóxico de su instituto, una tímida joven de 16 años encuentra la inspiración en el pasado rebelde de su madre ",
@@ -365,7 +465,7 @@
 "isHost" : true
 },
 {"name" : "Los chicos del coro 2004",
-"info" : " ⌛️ comedia/Drama/Música//Infancia/Cole&Uni
+"info" : " 📚 comedia/Drama/Música//Infancia/Cole&Uni
 	
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
   Clément Mathieu, profesor de música desempleado, acepta un puesto como profesor vigilante en un internado de reeducación de menores ",
@@ -375,7 +475,7 @@
 },
 {"name": "El Color Púrpura 2023",
 "image": "https://pics.filmaffinity.com/the_color_purple-845473475-mmed.jpg",
-"info" : " ⌛️ Drama/Musical/Feminismo/Racismo
+"info" : " 📚 Drama/Musical/Feminismo/Racismo
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
    Ambientada a comienzos del siglo XX, la historia sigue a Celie, una joven mujer negra que está creciendo en el difícil contexto del Sur de los Estados Unidos",
@@ -383,7 +483,7 @@
 "isHost": true 
 },
 {"name" : "Estación central de Brasil 1998",
-"info" : " ⌛️ Road Movie/Pobreza/Drama social
+"info" : " 📚 Road Movie/Pobreza/Drama social
 		
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
   En los asfixiantes pasillos de la Estación Central, en Río de Janeiro, una antigua maestra se gana la vida escribiendo las cartas que le dictan los analfabetos",
@@ -391,7 +491,7 @@
 "url" : "https://ok.ru/videoembed/4888487791193"
 },
 {"name" : "Tú y yo 2012 ",
-"info" : " ⌛️ Drama/Adolescencia/Drogas
+"info" : " 📚 Drama/Adolescencia/Drogas
 		
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
   Un adolescente de catorce años que engaña a sus padres con la coartada de que se va a esquiar a una estación con unos amigos ",	
@@ -402,7 +502,7 @@
 {
 "name" : "La sociedad de la nieve 2023",
 "image" : "https://pics.filmaffinity.com/la_sociedad_de_la_nieve-826551508-mmed.jpg",
-"info" : " ⌛️ Drama/Aventuras/hechos reales/Supervivencia
+"info" : " 📚 Drama/Aventuras/hechos reales/Supervivencia
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
    En 1972, el vuelo 571 de la Fuerza Aérea Uruguaya, fletado para llevar a un equipo de rugby a Chile, se estrella en un glaciar en el corazón de los Andes",
@@ -412,7 +512,7 @@
 {
 "name" : "Llenos de gracia (2022)",
 "image" : "https://pics.filmaffinity.com/llenos_de_gracia-921162938-mmed.jpg",
-"info" : " ⌛️ Comedia/hechos reales/Col&Uni/Fútbol
+"info" : " 📚 Comedia/hechos reales/Col&Uni/Fútbol
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
    La hermana Marina es enviada a principios de los años noventa a El Parral, un orfanato amenazado de cierre,pero una idea que cambiará para siempre El Parral: formar un equipo de fútbol",
@@ -421,7 +521,7 @@
 },
 {"name": "Mi hermano pequeño 2022",
 "image": "https://pics.filmaffinity.com/un_petit_frere-189415760-mmed.jpg",
-"info" : " ⌛️ Drama/Familia/Inmigración
+"info" : " 📚 Drama/Familia/Inmigración
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
    Rose, oriunda de Costa de Marfil, llega a Francia y se instala en los suburbios parisinos con sus dos hijos",
@@ -431,7 +531,7 @@
 {
 "name" : "3096 días 2013",
 "image" : "https://pics.filmaffinity.com/3096_tage_kampusch-143101249-mmed.jpg",
-"info" : " ⌛️ Drama/hechos reales/Secuestros/Desapariciones
+"info" : " 📚 Drama/hechos reales/Secuestros/Desapariciones
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
    Basado en el caso de la vida real de Natascha Kampusch, la niña austriaca que fue secuestrada y mantenida en cautiverio durante ocho años",
@@ -441,7 +541,7 @@
 {
 "name" : "Enjambre (2021)",
 "image" : "https://pics.filmaffinity.com/erlauntza_enjambre-492208339-large.jpg",
-"info" : " ⌛️ Comedia/valores de Amistad
+"info" : " 📚 Comedia/valores de Amistad
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
    Un grupo de amigas de la infancia acude a una casa rural para celebrar la despedida de soltera de una de ellas",
@@ -451,7 +551,7 @@
 {
 "name" : "Dancing Queen (2023)",
 "image" : "https://pics.filmaffinity.com/dancing_queen-817038707-mmed.jpg",
-"info" : " ⌛️ Drama/Adolescencia/Baile/superar miedos
+"info" : " 📚 Drama/Adolescencia/Baile/superar miedos
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
    Al comienzo de un nuevo curso escolar, Mina, una adolescente un tanto empollona, está deseando encajar",
@@ -461,7 +561,7 @@
 {
 "name" : "Súper bailarina 2022 ",
 "image" : "https://pics.filmaffinity.com/neneh_superstar-735663276-mmed.jpg",
-"info" : " ⌛️ Drama/Comedia/Baile/racismo/superacion
+"info" : " 📚 Drama/Comedia/Baile/racismo/superacion
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Nacida para la danza, Neneh es una niña negra de 12 años que sueña con ingresar en la Escuela de Ballet de Opera de París",
@@ -471,7 +571,7 @@ Nacida para la danza, Neneh es una niña negra de 12 años que sueña con ingres
 {
 "name" : "Las niñas 2020",
 "image" : "https://pics.filmaffinity.com/las_ninas-622349595-mmed.jpg",
-"info" : " ⌛️ Drama/Infancia/Adolescencia/Cole&Uni
+"info" : " 📚 Drama/Infancia/Adolescencia/Cole&Uni
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
    Celia, una niña de 11 años, vive con su madre y estudia en un colegio de monjas en Zaragoza. Brisa, una nueva compañera recién llegada de Barcelona, la empuja hacia una nueva etapa en su vida",
@@ -481,7 +581,7 @@ Nacida para la danza, Neneh es una niña negra de 12 años que sueña con ingres
 {
 "name" : "contagio 2011",
 "image" : "https://pics.filmaffinity.com/contagion-952852460-mmed.jpg",
-"info" : " ⌛️ Thriller/Enfermedad/Pandemias
+"info" : " 📚 Thriller/Enfermedad/Pandemias
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 De repente, sin saber cuál es su origen,un virus mortal comienza a propagarse por todo el mundo",
@@ -491,7 +591,7 @@ De repente, sin saber cuál es su origen,un virus mortal comienza a propagarse p
 {
 "name" : "Quiero ser como Beckham 2002",
 "image" : "https://pics.filmaffinity.com/bend_it_like_beckham-369107003-mmed.jpg",
-"info" : " ⌛️ Comedia/Romance/Fútbol/Adolescencia
+"info" : " 📚 Comedia/Romance/Fútbol/Adolescencia
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
  Los padres de Jess quieren que sea una convencional chica india, pero ella sólo quiere jugar al fútbol",
@@ -501,7 +601,7 @@ De repente, sin saber cuál es su origen,un virus mortal comienza a propagarse p
 {
 "name" : "La teniente O'Neil 1997",
 "image" : "https://pics.filmaffinity.com/g_i_jane-996146541-mmed.jpg",
-"info" : " ⌛️ Drama/Bélico/Ejército/machismo/superacion
+"info" : " 📚 Drama/Bélico/Ejército/machismo/superacion
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
    Las presiones de una senadora del Congreso de los EE.UU. convierten a la teniente Jordan O'Neil en la primera mujer que forma parte de una unidad de élite del ejército",
@@ -511,7 +611,7 @@ De repente, sin saber cuál es su origen,un virus mortal comienza a propagarse p
 {
 "name" : "gorrión rojo 2018",
 "image" : "https://pics.filmaffinity.com/red_sparrow-474735775-mmed.jpg",
-"info" : " ⌛️ Thriller psicológico/machismo/Espionaje
+"info" : " 📚 Thriller psicológico/machismo/Espionaje
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
    reclutada contra su voluntad para ser un “gorrión”, una seductora adiestrada del servicio de seguridad ruso",
@@ -521,7 +621,7 @@ De repente, sin saber cuál es su origen,un virus mortal comienza a propagarse p
 {
 "name" : "El Método Williams 2021",
 "image" : "https://pics.filmaffinity.com/king_richard-212327278-mmed.jpg",
-"info" : " ⌛️ Drama/Biográfico/Deporte/Tenis/Familia
+"info" : " 📚 Drama/Biográfico/Deporte/Tenis/Familia
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
  Richard Williams, un padre inasequible que ayudó a formar a dos de las deportistas más extraordinarias de todos los tiempos",
@@ -531,7 +631,7 @@ De repente, sin saber cuál es su origen,un virus mortal comienza a propagarse p
 {
 "name" : "Siempre a tu lado, Hachiko 2009",
 "image" : "https://pics.filmaffinity.com/hachi_a_dog_s_tale_hachiko_a_dog_s_story-386676685-mmed.jpg",
-"info" : " ⌛️ Melodrama/familiar/Amistad/Animales/hechos reales
+"info" : " 📚 Melodrama/familiar/Amistad/Animales/hechos reales
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
  un profesor universitario que da clases de música, recoge un día a un perro de origen japonés y raza Akita, al que encuentra abandonado en una estación",
@@ -541,7 +641,7 @@ De repente, sin saber cuál es su origen,un virus mortal comienza a propagarse p
 {
 "name" : "Soul Surfer 2011",
 "image" : "https://pics.filmaffinity.com/soul_surfer-926280967-mmed.jpg",
-"info" : " ⌛️ Drama/Acción/Surf/hechos reales/superacion
+"info" : " 📚 Drama/Acción/Surf/hechos reales/superacion
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 A una joven y famosa surfista australiana, Un día, un tiburón le arrebata un brazo, pero ella es una joven muy fuerte",
@@ -551,7 +651,7 @@ A una joven y famosa surfista australiana, Un día, un tiburón le arrebata un b
 {
 "name" : "los ninos del cielo",
 "image" : "https://pics.filmaffinity.com/bacheha_ye_aseman-359299562-mmed.jpg",
-"info" : " ⌛️ Drama/Infancia/Pobreza/Familia
+"info" : " 📚 Drama/Infancia/Pobreza/Familia
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Ali pierde los zapatos de su hermana pequeña Zhore. Como sus padres no pueden permitirse comprar unos zapatos nuevos, deciden ocultarles lo ocurrido",
@@ -561,7 +661,7 @@ Ali pierde los zapatos de su hermana pequeña Zhore. Como sus padres no pueden p
 {
 "name" : "El Niño con el Pijama de Rayas 2008",
 "image" : "https://pics.filmaffinity.com/the_boy_in_the_striped_pajamas-898809978-mmed.jpg",
-"info" : " ⌛️ Drama/Holocausto/Infancia/Amistad/Guerra/Nazismo
+"info" : " 📚 Drama/Holocausto/Infancia/Amistad/Guerra/Nazismo
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Bruno tiene ocho años y desconoce el significado de la Solución Final y del Holocausto",
@@ -571,7 +671,7 @@ Bruno tiene ocho años y desconoce el significado de la Solución Final y del Ho
 {
 "name" : "Rise, Superacion 2022",
 "image" : "https://pics.filmaffinity.com/rise-831485862-mmed.jpg",
-"info" : " ⌛️ Drama/Inmigración/Familia/Baloncesto
+"info" : " 📚 Drama/Inmigración/Familia/Baloncesto
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Sigue a la familia Antetokounmpo mientras confían en la fe, la determinación y su vínculo inquebrantable para salir de una vida de pobreza",
@@ -581,7 +681,7 @@ Sigue a la familia Antetokounmpo mientras confían en la fe, la determinación y
 {
 "name" : "To Leslie 2022",
 "image" : "https://pics.filmaffinity.com/to_leslie-378627344-mmed.jpg",
-"info" : " ⌛️  Drama/hechos reales/Alcoholismo
+"info" : " 📚  Drama/hechos reales/Alcoholismo
 
 💬 Sinopsis
 la historia de Leslie, una madre soltera del oeste de Texas, que hace seis años ganó la lotería pero rápidamente despilfarró el premio, gastándolo todo en fiestas y alcohol",
@@ -591,7 +691,7 @@ la historia de Leslie, una madre soltera del oeste de Texas, que hace seis años
 {
 "name" : "Burden 2018",
 "image" : "https://pics.filmaffinity.com/Burden-762486424-large.jpg",
-"info" : " ⌛️  Drama/hechos reales/Racismo
+"info" : " 📚  Drama/hechos reales/Racismo
 
 💬 Sinopsis
 Un miembro del Klu Klux Klan, Mike Burden, abre una tienda-museo del KKK en Laurens",
@@ -601,7 +701,7 @@ Un miembro del Klu Klux Klan, Mike Burden, abre una tienda-museo del KKK en Laur
 {
 "name" : "La isla de los pingüinos 2017",
 "image" : "https://pics.filmaffinity.com/la_isla_de_los_pinguinos-376095974-mmed.jpg",
-"info" : " ⌛️  Adolescencia/Drama social/Cole&Uni	
+"info" : " 📚  Adolescencia/Drama social/Cole&Uni	
 
 💬 Sinopsis
 Un grupo de estudiantes adolescentes decide tomar su colegio, convirtiéndose en el primer establecimiento privado en sumarse al estallido de las protestas estudiantiles",	
@@ -611,7 +711,7 @@ Un grupo de estudiantes adolescentes decide tomar su colegio, convirtiéndose en
 {
 "name" : "Amar te Duele 2002",
 "image" : "https://pics.filmaffinity.com/amar_te_duele_amarte_duele-543681936-mmed.jpg",
-"info" : " ⌛️  Adolescencia/Comedia romántica/Inmigración/Racismo
+"info" : " 📚  Adolescencia/Comedia romántica/Inmigración/Racismo
 
 💬 Sinopsis
 Renata pertenece a una familia de la alta sociedad mexicana.Ulises es pobre, y trabaja con su padre en el mercado",
@@ -620,7 +720,7 @@ Renata pertenece a una familia de la alta sociedad mexicana.Ulises es pobre, y t
 },
 {
 "name" : "Loco Love 2013",
-"info" : " ⌛️  Drama/Comedia romántica/Inmigración/Racismo
+"info" : " 📚  Drama/Comedia romántica/Inmigración/Racismo
 
 💬 Sinopsis
 (remaque Amar te duele)En un mundo en donde las diferencias raciales nos siguen dividiendo,una pareja se encuentran en una romántica situación",
@@ -631,7 +731,7 @@ Renata pertenece a una familia de la alta sociedad mexicana.Ulises es pobre, y t
 {
 "name" : "Erin Brockovich 2000",
 "image" : "https://pics.filmaffinity.com/erin_brockovich-332274406-mmed.jpg",
-"info" : " ⌛️ Drama / hechos reales/judicial/Abogados/as
+"info" : " 📚 Drama / hechos reales/judicial/Abogados/as
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
  una madre soltera que consigue un puesto de trabajo en un pequeño despacho de abogados. Su personalidad poco convencional hará que sus comienzos no sean demasiado alentadores",
@@ -641,7 +741,7 @@ Renata pertenece a una familia de la alta sociedad mexicana.Ulises es pobre, y t
 {
 "name" : "Guapis 2020",
 "image" : "https://pics.filmaffinity.com/mignonnes-161862793-mmed.jpg",
-"info" : " ⌛️ Drama/Infancia/Adolescencia/Baile
+"info" : " 📚 Drama/Infancia/Adolescencia/Baile
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Amy tiene 11 años y se queda alucinada con un grupo de baile de chicas",
@@ -651,7 +751,7 @@ Amy tiene 11 años y se queda alucinada con un grupo de baile de chicas",
 {
 "name" : "Thirteen 2003",
 "image" : "https://pics.filmaffinity.com/thirteen-175215912-mmed.jpg",
-"info" : " ⌛️ Drogas/Adolescencia/Amistad/Drama psicológico
+"info" : " 📚 Drogas/Adolescencia/Amistad/Drama psicológico
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Tracy, una joven de 13 años de Los Ángeles, queda fascinada por Evie, la chica más popular del instituto",
@@ -661,7 +761,7 @@ Tracy, una joven de 13 años de Los Ángeles, queda fascinada por Evie, la chica
 {
 "name" : "Kids vidas perdidas 1995",
 "image" : "https://pics.filmaffinity.com/kids-652351690-mmed.jpg",
-"info" : " ⌛️ Drama/Adolescencia/Drogas/SIDA
+"info" : " 📚 Drama/Adolescencia/Drogas/SIDA
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Las correrías de un grupo de adolescentes de Nueva York que consumen drogas y mantienen relaciones sexuales",
@@ -671,7 +771,7 @@ Las correrías de un grupo de adolescentes de Nueva York que consumen drogas y m
 {
 "name" : "Los muchachos no lloran 1999",
 "image" : "https://pics.filmaffinity.com/boys_don_t_cry-414140623-mmed.jpg",
-"info" : " ⌛️ Drama/Romance/hechos reales/transgénero
+"info" : " 📚 Drama/Romance/hechos reales/transgénero
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse el pelo",
@@ -681,7 +781,7 @@ Teena Brandon siempre ha deseado ser un chico. Así que un día decide cortarse 
 {
 "name" : "Las nadadoras 2023",
 "image" : "https://pics.filmaffinity.com/the_swimmers-319132424-mmed.jpg",
-"info" : " ⌛️ Drama/Natación/superacion/Inmigración/Guerra/olímpicos/hechos reales
+"info" : " 📚 Drama/Natación/superacion/Inmigración/Guerra/olímpicos/hechos reales
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Una historia del viaje milagroso realizado por las hermanas nadadoras Yusra y Sarah Mardini que huyeron como refugiadas de la Siria",
@@ -691,7 +791,7 @@ Una historia del viaje milagroso realizado por las hermanas nadadoras Yusra y Sa
 {
 "name" : "La skater 2021",
 "image" : "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l4clsLFTodLinpcLtAxwHTF1zn1.jpg",
-"info" : " ⌛️ Drama/Skateboarding/superacion/machismo
+"info" : " 📚 Drama/Skateboarding/superacion/machismo
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 una adolescente de la India rural, alcanza la mayoría de edad cuando se inicia en el skateboard",
@@ -701,7 +801,7 @@ una adolescente de la India rural, alcanza la mayoría de edad cuando se inicia 
 {
 "name" : "Como Dios manda 2023",
 "image" : "https://pics.filmaffinity.com/como_dios_manda-396503421-mmed.jpg",
-"info" : " ⌛️ comedia/igualdadad/machismo
+"info" : " 📚 comedia/igualdadad/machismo
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 un estricto funcionario del Ministerio de Hacienda,Tras un desafortunado enfrentamiento con una compañera de trabajo, es sancionado y trasladado a Igualdad",
@@ -711,7 +811,7 @@ un estricto funcionario del Ministerio de Hacienda,Tras un desafortunado enfrent
 {
 "name" : "Campeones 2018",
 "image" : "https://pics.filmaffinity.com/campeones-981723931-mmed.jpg",
-"info" : " ⌛️ Comedia/Discapacidad/Deporte/Baloncesto
+"info" : " 📚 Comedia/Discapacidad/Deporte/Baloncesto
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 un entrenador profesional de baloncesto, se encuentra un día, en medio de una crisis personal, entrenando a un equipo compuesto por personas con discapacidad intelectual",
@@ -721,7 +821,7 @@ un entrenador profesional de baloncesto, se encuentra un día, en medio de una c
 {
 "name" : "Campeonex 2023",
 "image" : "https://pics.filmaffinity.com/campeonex-966482082-mmed.jpg",
-"info" : " ⌛️ Comedia/Discapacidad/Deporte/Baloncesto
+"info" : " 📚 Comedia/Discapacidad/Deporte/Baloncesto
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 equipo de campeones abandona el baloncesto para adentrarse por error en el fascinante mundo del atletismo de la mano de una entrenadora novata",
@@ -731,7 +831,7 @@ equipo de campeones abandona el baloncesto para adentrarse por error en el fasci
  {
 "name" : "12 años de esclavitud 2013",
 "image" : "https://pics.filmaffinity.com/12_years_a_slave_twelve_years_a_slave-305655779-mmed.jpg",
-"info" : " ⌛️ Drama/hechos reales/Esclavitud/Racismo/Histórico
+"info" : " 📚 Drama/hechos reales/Esclavitud/Racismo/Histórico
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 la historia de Solomon Northup, un culto músico negro que vivía con su familia en Nueva York. Tras tomar una copa con dos hombres, Solomon descubre que ha sido drogado y secuestrado para ser vendido",
@@ -741,7 +841,7 @@ la historia de Solomon Northup, un culto músico negro que vivía con su familia
 {
 "name" : "Garra 2022",
 "image" : "https://imgs1.e-droid.net/srv/imgs/cards/o858778_10011572.png",
-"info" : " ⌛️ superación/Comedia/Baloncesto/perseverancia
+"info" : " 📚 superación/Comedia/Baloncesto/perseverancia
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 un cazatalentos de baloncestistas en horas bajas que, estando en el extranjero, descubre un jugador con enorme talento pero con un pasado difícil",
@@ -751,7 +851,7 @@ un cazatalentos de baloncestistas en horas bajas que, estando en el extranjero, 
 {
 "name" : "La Ola 2008",
 "image" : "https://pics.filmaffinity.com/die_welle-831812097-mmed.jpg",
-"info" : " ⌛️ Drama/hechos reales/Enseñanza/Cole&Uni/Adolescencia/Sectas
+"info" : " 📚 Drama/hechos reales/Enseñanza/Cole&Uni/Adolescencia/Sectas
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 un profesor de instituto en Alemania que plantea a su clase un experimento para que entiendan cómo funcionan los gobiernos totalitarios",
@@ -761,7 +861,7 @@ un profesor de instituto en Alemania que plantea a su clase un experimento para 
 {
 "name" : "Arde Mississippi 1988",
 "image" : "https://pics.filmaffinity.com/mississippi_burning-915266764-mmed.jpg",
-"info" : " ⌛️ Intriga/Crimen/Racismo/Policíaco/Drama social/hechos reales
+"info" : " 📚 Intriga/Crimen/Racismo/Policíaco/Drama social/hechos reales
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 En 1964, en un pueblo sureño, donde el racismo está profundamente arraigado y el Ku Klux Klan reivindica violentamente la supremacía blanca",
@@ -771,7 +871,7 @@ En 1964, en un pueblo sureño, donde el racismo está profundamente arraigado y 
 {
 "name" : "Ya soy mujer 1975",
 "image" : "https://pics.filmaffinity.com/ya_soy_mujer-757656632-mmed.jpg",
-"info" : " ⌛️ Comedia/Drama/Adolescencia/miedos
+"info" : " 📚 Comedia/Drama/Adolescencia/miedos
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 La protagonista es Celia, una niña que está a punto de convertirse en mujer",
@@ -781,7 +881,7 @@ La protagonista es Celia, una niña que está a punto de convertirse en mujer",
 {
 "name" : "Planta 4ª 2003",
 "image" : "https://pics.filmaffinity.com/planta_4a-877143595-mmed.jpg",
-"info" : " ⌛️ Comediadramática/Discapacidad/Enfermedad/Adolescencia/lucha
+"info" : " 📚 Comediadramática/Discapacidad/Enfermedad/Adolescencia/lucha
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Miguel Ángel, Izan, Dani y Jorge, son un grupo de chicos que logran con su alegría desafiar el desprecio del destino y hacer soportable su convalecencia en la planta de traumatología de un hospital",
@@ -791,7 +891,7 @@ Miguel Ángel, Izan, Dani y Jorge, son un grupo de chicos que logran con su aleg
 {
 "name" : "Adiós cigüeña adiós (1971)",
 "image" : "https://pics.filmaffinity.com/adios_ciguena_adios-586408393-mmed.jpg",
-"info" : " ⌛️ Adolescencia/Comedia dramática
+"info" : " 📚 Adolescencia/Comedia dramática
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Durante una excursión que hacen juntos los dos colegios, los dos chicos pueden verse a solas, y ella se queda embarazada",
@@ -801,7 +901,7 @@ Durante una excursión que hacen juntos los dos colegios, los dos chicos pueden 
 {
 "name" : "El niño es nuestro (1973)",
 "image" : "https://pics.filmaffinity.com/el_nino_es_nuestro-629300425-mmed.jpg",
-"info" : " ⌛️ Comedia/Adolescencia/Secuela
+"info" : " 📚 Comedia/Adolescencia/Secuela
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Secuela de Adiós cigüeña adiós como la chica no puede mantener a su hijo, se lo quitan y le envían a un orfanato regido por monjas",
@@ -811,7 +911,7 @@ Secuela de Adiós cigüeña adiós como la chica no puede mantener a su hijo, se
 {
 "name" : "Tesis 1996",
 "image" : "https://pics.filmaffinity.com/tesis-722806709-mmed.jpg",
-"info" : " ⌛️ Thriller/Cole&Uni/Asesinos Secuestros /Desapariciones
+"info" : " 📚 Thriller/Cole&Uni/Asesinos Secuestros /Desapariciones
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Ángela,estudiante de Imagen,está preparando una tesis sobre la violencia audiovisual",
@@ -821,7 +921,7 @@ Secuela de Adiós cigüeña adiós como la chica no puede mantener a su hijo, se
 {
 "name" : "Cambio de sexo 1977",
 "image" : "https://pics.filmaffinity.com/cambio_de_sexo-194603467-mmed.jpg",
-"info" : " ⌛️ Drama/hechos reales/Adolescencia/transgénero
+"info" : " 📚 Drama/hechos reales/Adolescencia/transgénero
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Basada en una historia real, cuenta la vida de José María, un joven de 16 años que se siente mujer en un cuerpo de hombre",
@@ -831,7 +931,7 @@ Basada en una historia real, cuenta la vida de José María, un joven de 16 año
 {
 "name" : "Marsella 2014",
 "image" : "https://pics.filmaffinity.com/marsella-269244202-mmed.jpg",
-"info" : " ⌛️ Drama/Road Movie/Adopción/Maternidad
+"info" : " 📚 Drama/Road Movie/Adopción/Maternidad
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Una madre biológica, Sara, y una madre de acogida, Virginia, comparten a una niña de nueve años",
@@ -841,7 +941,7 @@ Una madre biológica, Sara, y una madre de acogida, Virginia, comparten a una ni
 {
 "name" : "Princesas 2005",
 "image" : "https://pics.filmaffinity.com/princesas-480393116-mmed.jpg",
-"info" : " ⌛️ Drama social/Prostitución/Amistad/Inmigración
+"info" : " 📚 Drama social/Prostitución/Amistad/Inmigración
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Ésta es la historia de dos prostitutas: Caye, madrileña de casi treinta años y con un atractivo más bien barriobajero",
@@ -851,7 +951,7 @@ Una madre biológica, Sara, y una madre de acogida, Virginia, comparten a una ni
 {
 "name" : "La teta i la lluna 1994",
 "image" : "https://pics.filmaffinity.com/la_teta_i_la_lluna-888889574-mmed.jpg",
-"info" : " ⌛️ Comedia/Drama/Infancia/Celos
+"info" : " 📚 Comedia/Drama/Infancia/Celos
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Tete es un niño enigmático que se siente desplazado con la llegada de su hermano y no puede ver como el bebé se alimenta de la leche de su madre",
@@ -861,7 +961,7 @@ Tete es un niño enigmático que se siente desplazado con la llegada de su herma
 {
 "name" : "Gordos 2009",
 "image" : "https://pics.filmaffinity.com/gordos-550477232-mmed.jpg",
-"info" : " ⌛️ Comedia dramática/Homosexualidad/miedos
+"info" : " 📚 Comedia dramática/Homosexualidad/miedos
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Comedia dramática sobre los excesos y las carencias de la vida. Los complejos",
@@ -871,7 +971,7 @@ Comedia dramática sobre los excesos y las carencias de la vida. Los complejos",
 {
 "name" : "Katmandú, un espejo en el cielo 2011",
 "image" : "https://pics.filmaffinity.com/katmandu_un_espejo_en_el_cielo-594597333-mmed.jpg",
-"info" : " ⌛️ Drama/Romance/hechos reales/ Enseñanza
+"info" : " 📚 Drama/Romance/hechos reales/ Enseñanza
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Laia, una joven maestra catalana, se traslada a Katmandú para trabajar en una escuela",
@@ -881,7 +981,7 @@ Laia, una joven maestra catalana, se traslada a Katmandú para trabajar en una e
  {
 "name" : "Ama 2021",
 "image" : "https://pics.filmaffinity.com/ama-699071113-mmed.jpg",
-"info" : " ⌛️ Drama/ Maternidad/Drama social
+"info" : " 📚 Drama/ Maternidad/Drama social
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Cuenta la historia de muchas mujeres expuestas en soledad a la mitificada maternidad",
@@ -891,7 +991,7 @@ Cuenta la historia de muchas mujeres expuestas en soledad a la mitificada matern
 {
 "name" : "En la puta calle 1997",
 "image" : "https://pics.filmaffinity.com/en_la_puta_calle-400310091-mmed.jpg",
-"info" : " ⌛️ Drama social/Trabajo/empleo/Inmigración
+"info" : " 📚 Drama social/Trabajo/empleo/Inmigración
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Juan es un electricista que, tras quedarse en paro, abandona a su familia y pone rumbo a Madrid en busca de alguna oportunidad",
@@ -901,7 +1001,7 @@ Juan es un electricista que, tras quedarse en paro, abandona a su familia y pone
 {
 "name" : "Monica 2022",
 "image" : "https://pics.filmaffinity.com/monica-313668763-mmed.jpg",
-"info" : " ⌛️ Drama/Familia/Transexualidad/Transgénero
+"info" : " 📚 Drama/Familia/Transexualidad/Transgénero
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Monica es una mujer trans que se encuentra en una encrucijada vital",
@@ -911,7 +1011,7 @@ Monica es una mujer trans que se encuentra en una encrucijada vital",
 {
 "name" : "Pink Floyd (El Muro) 1982",
 "image" : "https://i0.wp.com/netmusicvideo.com/wp-content/uploads/2021/03/Pink-Floyd-The-Wall-D.jpg",
-"info" : " ⌛️ Musical/Drama/Fantástico/surrealismo/Documental
+"info" : " 📚 Musical/Drama/Fantástico/surrealismo/Documental
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Pink, el cantante de un grupo musical, arrastra desde su infancia una serie de traumas debido a la dura educación que recibió",
@@ -921,7 +1021,7 @@ Pink, el cantante de un grupo musical, arrastra desde su infancia una serie de t
 {
 "name" : "La lengua de las mariposas (1999)",
 "image" : "https://pics.filmaffinity.com/la_lengua_de_las_mariposas-220234225-mmed.jpg",
-"info" : " ⌛️ Drama/Años 30/Infancia/Enseñanza/Cole&Uni
+"info" : " 📚 Drama/Años 30/Infancia/Enseñanza/Cole&Uni
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Don Gregorio enseñará a Moncho con dedicación y paciencia toda su sabiduría en cuanto a los conocimientos, la literatura, la naturaleza, y hasta las mujeres",
@@ -931,7 +1031,7 @@ Don Gregorio enseñará a Moncho con dedicación y paciencia toda su sabiduría 
 {
 "name" : "El bola(2000)",
 "image" : "https://pics.filmaffinity.com/el_bola-706926535-mmed.jpg",
-"info" : " ⌛️ Drama social/Adolescencia/Amistad/Familia
+"info" : " 📚 Drama social/Adolescencia/Amistad/Familia
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 El Bola es un chaval de 12 años que vive en una atmósfera violenta y sórdida. Su situación familiar, que oculta avergonzado",
@@ -941,7 +1041,7 @@ El Bola es un chaval de 12 años que vive en una atmósfera violenta y sórdida.
 {
 "name" : "Las bicicletas son para el verano (1984)",
 "image" : "https://pics.filmaffinity.com/las_bicicletas_son_para_el_verano-456958937-mmed.jpg",
-"info" : " ⌛️ Drama/Guerra Civil Española/Años 30
+"info" : " 📚 Drama/Guerra Civil Española/Años 30
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 una familia formada por un matrimonio y dos hijos comparte los avatares de la guerra con la criada y los vecinos",
@@ -951,7 +1051,7 @@ una familia formada por un matrimonio y dos hijos comparte los avatares de la gu
 {
 "name" : "Chicas malas 2004",
 "image" : "https://pics.filmaffinity.com/mean_girls-442432205-mmed.jpg",
-"info" : " ⌛️ Adolescencia/Cole&Uni/Comedia juvenil/Acoso escolar/Bullying
+"info" : " 📚 Adolescencia/Cole&Uni/Comedia juvenil/Acoso escolar/Bullying
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 una adolescente entabla amistad con tres populares, pero también manipuladoras estudiantes",
@@ -961,7 +1061,7 @@ una adolescente entabla amistad con tres populares, pero también manipuladoras 
 {
 "name" : "Chavalas (2021)",
 "image" : "https://pics.filmaffinity.com/chavalas-268818966-mmed.jpg",
-"info" : " ⌛️ Fotografía/Amistad/Comedia/
+"info" : " 📚 Fotografía/Amistad/Comedia/
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 amigas inseparables en la adolescencia, vuelven a encontrarse en el barrio para revivir una auténtica y tragicómica amistad",
@@ -971,7 +1071,7 @@ amigas inseparables en la adolescencia, vuelven a encontrarse en el barrio para 
 {
 "name" : "Amélie 2001",
 "image" : "https://pics.filmaffinity.com/le_fabuleux_destin_d_amelie_poulain-848337470-mmed.jpg",
-"info" : " ⌛️ Comedia dramática/Realismo mágico
+"info" : " 📚 Comedia dramática/Realismo mágico
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Amelie no es una chica como las demás.Ha visto a su pez de colores deslizarse hacia las alcantarillas municipales",
@@ -982,7 +1082,7 @@ Amelie no es una chica como las demás.Ha visto a su pez de colores deslizarse h
 {
 "name" : "El Dia SÍ 2021",
 "image" : "https://pics.filmaffinity.com/yes_day-234577345-mmed.jpg",
-"info" : " ⌛️ Comedia/Adolescencia/union familiar/valores
+"info" : " 📚 Comedia/Adolescencia/union familiar/valores
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 siempre dicen NO a sus hijos y compañeros de trabajo, deciden dar a sus tres hijos un YES DAY,en el que durante 24 horas los niños mandarán",
@@ -992,7 +1092,7 @@ siempre dicen NO a sus hijos y compañeros de trabajo, deciden dar a sus tres hi
 {
 "name" : "Despues de lucia 2012",
 "image" : "https://pics.filmaffinity.com/despues_de_lucia-255178360-mmed.jpg",
-"info" : " ⌛️ Drama/Familia/Acoso escolar/Bullying/Cole
+"info" : " 📚 Drama/Familia/Acoso escolar/Bullying/Cole
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Tras perder a su madre Lucía, la joven Alejandra se muda junto con su padre Roberto
@@ -1003,7 +1103,7 @@ Una película centrada en el problema del bullying para mostrar a los menores la
 {
 "name" : "En busca de la felicidad 2006",
 "image" : "https://pics.filmaffinity.com/the_pursuit_of_happyness-660040804-mmed.jpg",
-"info" : " ⌛️ Drama/hechos reales/Negocios/empleo
+"info" : " 📚 Drama/hechos reales/Negocios/empleo
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Chris Gardner es un vendedor brillante y con talento, pero su empleo no le permite cubrir sus necesidades más básicas",
@@ -1013,7 +1113,7 @@ Chris Gardner es un vendedor brillante y con talento, pero su empleo no le permi
 {
 "name" : "Patch Adams 1998",
 "image" : "https://pics.filmaffinity.com/patch_adams-522377257-mmed.jpg",
-"info" : " ⌛️ Comedia/hechos reales/Medicina
+"info" : " 📚 Comedia/hechos reales/Medicina
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Un héroe con bata blanca, se gana el apodo de ‘Patch’ por ayudar al resto de pacientes del hospital a no perder nunca el ánimo",
@@ -1023,7 +1123,7 @@ Un héroe con bata blanca, se gana el apodo de ‘Patch’ por ayudar al resto d
 {
 "name" : "Siete Almas 2008",
 "image" : "https://pics.filmaffinity.com/seven_pounds-470111904-mmed.jpg",
-"info" : " ⌛️ Drama romántico/Enfermedad/Thriller psicológico
+"info" : " 📚 Drama romántico/Enfermedad/Thriller psicológico
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 un inspector de Hacienda de Los Ángeles, se pone en contacto con algunas personas para ayudarlas, pero las razones que lo mueven a actuar así son un misterio",
@@ -1033,7 +1133,7 @@ un inspector de Hacienda de Los Ángeles, se pone en contacto con algunas person
 {
 "name" : "La ciudad de la alegría 1992",
 "image" : "https://pics.filmaffinity.com/city_of_joy-412848895-mmed.jpg",
-"info" : " ⌛️ Pobreza/Drama/miedos
+"info" : " 📚 Pobreza/Drama/miedos
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 historia de un cirujano norteamericano que decide viajar hasta India, en busca de la paz espiritual que tanto necesita tras perder a un paciente",
@@ -1043,7 +1143,7 @@ historia de un cirujano norteamericano que decide viajar hasta India, en busca d
 {
 "name" : "Wonder 2017",
 "image" : "https://pics.filmaffinity.com/wonder-294892482-mmed.jpg",
-"info" : " ⌛️ Drama/Comedia/Amistad/Familia/Acoso escolar/Bullying
+"info" : " 📚 Drama/Comedia/Amistad/Familia/Acoso escolar/Bullying
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 un niño con una deformación facial, teme ir al colegio por miedo a las burlas de sus compañeros",
@@ -1052,7 +1152,7 @@ un niño con una deformación facial, teme ir al colegio por miedo a las burlas 
 {
 "name" : "El niño que domó el viento 2019",
 "image" : "https://pics.filmaffinity.com/the_boy_who_harnessed_the_wind-913526359-mmed.jpg",
-"info" : " ⌛️ Drama social/África/Adolescencia/Basado en hechos reales
+"info" : " 📚 Drama social/África/Adolescencia/Basado en hechos reales
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Un chico de la República de Malaui decide ayudar a las personas de su pueblo construyendo una turbina después de leer un libro",
@@ -1062,7 +1162,7 @@ Un chico de la República de Malaui decide ayudar a las personas de su pueblo co
 {
 "name" : "Cadena de favores 2000",
 "image" : "https://pics.filmaffinity.com/pay_it_forward-693981184-mmed.jpg",
-"info" : " ⌛️ Comedia/Amistad/Familia/
+"info" : " 📚 Comedia/Amistad/Familia/
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Un niño imagina un curioso sistema para mejorar el mundo; hacer favores desinteresadamente",
@@ -1072,7 +1172,7 @@ Un niño imagina un curioso sistema para mejorar el mundo; hacer favores desinte
 {
 "name" : "Una mente maravillosa 2001",
 "image" : "https://pics.filmaffinity.com/a_beautiful_mind-636974393-mmed.jpg",
-"info" : " ⌛️ Drama/Discapacidad/Matemáticas
+"info" : " 📚 Drama/Discapacidad/Matemáticas
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 La historia del genial matemático John Forbes Nash Jr., que a pesar de sufrir esquizofrenia, logró desarrollar su carrera y obtener el Premio Nobel.",
@@ -1080,7 +1180,7 @@ La historia del genial matemático John Forbes Nash Jr., que a pesar de sufrir e
 },			
 {
 "name" : "El club de los cinco 1985",
-"info" : " ⌛️ Comedia/Drama/Adolescencia/Amistad/Cole
+"info" : " 📚 Comedia/Drama/Adolescencia/Amistad/Cole
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Cinco adolescentes aprenden sobre respeto y entendimiento mutuo cuando tienen que pasar un sábado en detención",	   	  
@@ -1089,7 +1189,7 @@ Cinco adolescentes aprenden sobre respeto y entendimiento mutuo cuando tienen qu
 },						
 {
 "name" : "El primer grado 2010 vose",
-"info" : " ⌛️ Drama/Enseñanza/Vejez/Madurez 
+"info" : " 📚 Drama/Enseñanza/Vejez/Madurez 
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 la historia real de un anciano de 84 años que,quiere tener la oportunidad de ir a la escuela y recibir una educación a la que nunca pudo acceder",
@@ -1098,7 +1198,7 @@ la historia real de un anciano de 84 años que,quiere tener la oportunidad de ir
 },		
 {
 "name" : "Bendita ignorancia 2017",
-"info" : " ⌛️ Comedia/Informática/Enseñanza/Cole&Uni
+"info" : " 📚 Comedia/Informática/Enseñanza/Cole&Uni
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Rivalidad entre dos profesores que son polos opuestos: un instructor estricto y anticuado por un lado, y su alegre y joven compañera interesada en las redes sociales por el otro",		
@@ -1108,7 +1208,7 @@ Rivalidad entre dos profesores que son polos opuestos: un instructor estricto y 
 },												
 {
 "name" : "Veinticuatro ojos 1954",
-"info" : " ⌛️ Drama/Enseñanza/Infancia
+"info" : " 📚 Drama/Enseñanza/Infancia
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Un maestro se acerca a una docena de niños que viven en una pequeña isla durante la guerra",	
@@ -1118,7 +1218,7 @@ Un maestro se acerca a una docena de niños que viven en una pequeña isla duran
 },																	
 {
 "name" : "Detrás de la Pizarra 2011",
-"info" : " ⌛️ Drama/Pobreza/Infancia/Matemáticas
+"info" : " 📚 Drama/Pobreza/Infancia/Matemáticas
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 la historia de una maestra de primaria que se enfrenta a su primer trabajo  en una escuela sin nombre, un proyecto para las  personas indigentes, sin hogar,socio económicos",
@@ -1128,7 +1228,7 @@ la historia de una maestra de primaria que se enfrenta a su primer trabajo  en u
 },
 {
  "name" : "La Pizarra  2000 Vose",
-"info" : " ⌛️ Drama/Pobreza/Infancia/Matemáticas
+"info" : " 📚 Drama/Pobreza/Infancia/Matemáticas
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Durante la guerra entre Irán e Irak, un grupo de maestros kurdos itinerantes viajan a través de las montañas",
@@ -1137,7 +1237,7 @@ Durante la guerra entre Irán e Irak, un grupo de maestros kurdos itinerantes vi
 },					
 {
 "name" : "El canto de los gorriones 2008",
-"info" : " ⌛️ Drama/Comedia
+"info" : " 📚 Drama/Comedia
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Karim trabaja en una granja de avestruces en las afueras de Teherán. Lleva una vida sencilla y feliz junto a su familia en su modesta casa, hasta que un día una de las avestruces se escapa y Karim es despedido",
@@ -1147,7 +1247,7 @@ Karim trabaja en una granja de avestruces en las afueras de Teherán. Lleva una 
 },				
 {
 "name" : "Titanes, hicieron historia 2000",
-"info" : " ⌛️ Drama/Fútbol americano/Racismo
+"info" : " 📚 Drama/Fútbol americano/Racismo
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 en la ciudad de Alexandria, Virginia, se tomó la polémica decisión de integrar en el Secundario T.C. Williams a los estudiantes de raza negra con los de raza blanca",	
@@ -1157,7 +1257,7 @@ en la ciudad de Alexandria, Virginia, se tomó la polémica decisión de integra
 },	
 {
 "name" : "El club de los poetas muertos 1989",
-"info" : " ⌛️  Drama/Adolescencia/Cole&Unive
+"info" : " 📚  Drama/Adolescencia/Cole&Unive
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 En un elitista y estricto colegio privado de Nueva Inglaterra, un grupo de alumnos descubrirá la poesía, el significado del carpe diem",
@@ -1166,7 +1266,7 @@ En un elitista y estricto colegio privado de Nueva Inglaterra, un grupo de alumn
 },														
 {
 "name" : "Hijos de un dios menor 1986",
-"info" : " ⌛️  Melodrama/Discapacidad auditiva/Cole&Uni
+"info" : " 📚  Melodrama/Discapacidad auditiva/Cole&Uni
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 En un colegio para sordos, los problemas habituales de cualquier centro docente",		
@@ -1176,7 +1276,7 @@ En un colegio para sordos, los problemas habituales de cualquier centro docente"
 },
 {
 "name" : "La ladrona de libros 2013",
-"info" : " ⌛️ Drama/Nazis/G Mundial/Infancia/Literatura
+"info" : " 📚 Drama/Nazis/G Mundial/Infancia/Literatura
 		
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Narra la historia de una animosa y valerosa jovencita llamada Liesel, que transforma las vidas de todas las personas de su entorno",
@@ -1186,7 +1286,7 @@ Narra la historia de una animosa y valerosa jovencita llamada Liesel, que transf
 },																
 {
 "name" : "La profesora de historia 2014 ",
-"info" : " ⌛️ Drama/Cole&Uni/Adolescencia/Holocausto	
+"info" : " 📚 Drama/Cole&Uni/Adolescencia/Holocausto	
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Anne es una profesora de instituto que este año se enfrenta a una clase difícil",
@@ -1196,7 +1296,7 @@ Anne es una profesora de instituto que este año se enfrenta a una clase difíci
 },	
 {
  "name" : "Al frente de la clase 2008",
-"info" : " ⌛️ Drama/Comedia/Superacion
+"info" : " 📚 Drama/Comedia/Superacion
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Brad Cohen (Jimmy Wolk) se sobrepone al reto de sufrir el síndrome de Tourette para convertirse en un maestro modelo.",
@@ -1206,7 +1306,7 @@ Brad Cohen (Jimmy Wolk) se sobrepone al reto de sufrir el síndrome de Tourette 
 },	
 {
 "name" : "Rebelión en las aulas 1967 ",
-"info" : " ⌛️ Drama/Cole&Uni/Enseñanza
+"info" : " 📚 Drama/Cole&Uni/Enseñanza
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 un ingeniero negro sin trabajo, acepta un empleo como profesor de un grupo de estudiantes bastante conflictivos en una escuela de la periferia de Londres",		
@@ -1216,7 +1316,7 @@ un ingeniero negro sin trabajo, acepta un empleo como profesor de un grupo de es
 },			
 {
 "name" : "Rebelión en las aulas 2 1996 ",
-"info" : " ⌛️ Drama/Cole&Uni/Enseñanza
+"info" : " 📚 Drama/Cole&Uni/Enseñanza
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Mark Thackeray regresa a Chicago, tras pasar 30 años en Londres dando clases en uno de los colegios británicos de mayor prestigio",			
@@ -1226,7 +1326,7 @@ Mark Thackeray regresa a Chicago, tras pasar 30 años en Londres dando clases en
 },												
 {
 "name" : "Curso 1984  (1982)",
-"info" : " ⌛️  Acción/Cole&Uni/Bandas/pandillas
+"info" : " 📚  Acción/Cole&Uni/Bandas/pandillas
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Un profesor en la escuela secundaria tiene que salvar a su esposa de un a banda de estudiantes sadícos",
@@ -1236,7 +1336,7 @@ Un profesor en la escuela secundaria tiene que salvar a su esposa de un a banda 
 },
 {
 "name" : "Curso 1999  (1990)",
-"info" : " ⌛️  Sci-fi/Acción/Cyberpunk/Distopía/Robots Asesinos
+"info" : " 📚  Sci-fi/Acción/Cyberpunk/Distopía/Robots Asesinos
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 En el año 1999, las bandas se han convertido en un problema tan grave que algunas ciudades viven en la anarquía, sin control",
@@ -1246,7 +1346,7 @@ En el año 1999, las bandas se han convertido en un problema tan grave que algun
 },
 {
 "name" : "Curso 1999 II El sustituto(1994)",
-"info" : " ⌛️  Sci-fi/Acción/Cyberpunk/Robots Asesinos
+"info" : " 📚  Sci-fi/Acción/Cyberpunk/Robots Asesinos
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Un robot escapado de la destrucción 2 años atrás, usurpa el lugar de un profesor sustituto y comienza a poner su propia ley en un instituto",
@@ -1257,7 +1357,7 @@ Un robot escapado de la destrucción 2 años atrás, usurpa el lugar de un profe
 {
 "name" : "Yaaba 1989 sub",
 "image" : "https://pics.filmaffinity.com/yaaba-626337002-mmed.jpg",
-"info" : " ⌛️ Drama/superacion/
+"info" : " 📚 Drama/superacion/
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Yaaba (que significa abuela) es una historia que examina el aspecto de la relación entre ancianos, jóvenes y la sociedad",
@@ -1266,7 +1366,7 @@ Yaaba (que significa abuela) es una historia que examina el aspecto de la relaci
 },
 {
 "name" : "El profesor 2011",
-"info" : " ⌛️ Drama/Cole&Uni/Adolescencia/Prostitución
+"info" : " 📚 Drama/Cole&Uni/Adolescencia/Prostitución
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 A un instituto lleno de alumnos problemáticos y con unos resultados académicos muy bajos, llega Henry Bathes, un profesor sustituto que posee un auténtico don para conectar con los alumnos",
@@ -1276,7 +1376,7 @@ A un instituto lleno de alumnos problemáticos y con unos resultados académicos
 },
 {
 "name" : "Entrenador Carter 2005",
-"info" : " ⌛️  Drama/Deporte/Baloncesto/Enseñanza
+"info" : " 📚  Drama/Deporte/Baloncesto/Enseñanza
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Biografía del entrenador de baloncesto Ken Carter. En 1999, era entrenador en el Instituto Richmond de California",
@@ -1286,7 +1386,7 @@ Biografía del entrenador de baloncesto Ken Carter. En 1999, era entrenador en e
 },
 {
 "name" : "Mentes Peligrosas 1995",
-"info" : " ⌛️ Drama/Adolescencia/Cole&Uni/Enseñanza
+"info" : " 📚 Drama/Adolescencia/Cole&Uni/Enseñanza
  		
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Una profesora sin experiencia consigue un puesto de trabajo en una escuela en la que los jóvenes sufren muchos problemas sociales",			
@@ -1296,7 +1396,7 @@ Una profesora sin experiencia consigue un puesto de trabajo en una escuela en la
 },
 {
 "name" : "187,Muchas mentes peligrosas 1997",
-"info" : " ⌛️ Drama/Cole&Uni/Enseñar/Bandas/pandillas 
+"info" : " 📚 Drama/Cole&Uni/Enseñar/Bandas/pandillas 
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Trevor regresa a las aulas con la misión de educar a un grupo de jóvenes de un barrio marginal e intentar que tengan un futuro alejado de la violencia que les rodea",
@@ -1306,7 +1406,7 @@ Trevor regresa a las aulas con la misión de educar a un grupo de jóvenes de un
 },
 {
 "name" : "El gran debate 2007",
-"info" : " ⌛️ Drama/Cole&Uni/Enseñanza
+"info" : " 📚 Drama/Cole&Uni/Enseñanza
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Mel Tolson inspira a los estudiantes de una universidad predominantemente de negros a formar parte de un equipo de debate y competir por el campeonato nacional",
@@ -1316,7 +1416,7 @@ Mel Tolson inspira a los estudiantes de una universidad predominantemente de neg
 },
 {
 "name" : "La clase 2008",
-"info" : " ⌛️ Drama/Enseñanza/Cole&Uni/Adolescencia
+"info" : " 📚 Drama/Enseñanza/Cole&Uni/Adolescencia
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 profesor de lengua francesa en un instituto conflictivo, situado en un barrio marginal. Sus alumnos tienen entre 14 y 15 años",
@@ -1326,7 +1426,7 @@ profesor de lengua francesa en un instituto conflictivo, situado en un barrio ma
 },
 {
 "name" : "La Vida Escolar 2019",
-"info" : " ⌛️ Comedia dramática/Adolescencia/Enseñanza/Cole&Uni
+"info" : " 📚 Comedia dramática/Adolescencia/Enseñanza/Cole&Uni
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 una joven treintañera que llega a una escuela de complicada reputación en un suburbio de París para ser la directora",
@@ -1336,7 +1436,7 @@ una joven treintañera que llega a una escuela de complicada reputación en un s
 },
 {
 "name" : "Todo es posible (2022)",
-"info" : " ⌛️ Adolescencia/Romance/transgénero
+"info" : " 📚 Adolescencia/Romance/transgénero
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Una historia para la Generación Z que nos presenta a Kelsa, una chica trans segura de sí misma en su último curso de instituto",
@@ -1346,7 +1446,7 @@ Una historia para la Generación Z que nos presenta a Kelsa, una chica trans seg
 },
 {
 "name" : "Mi Vida en Rosa 1997",
-"info" : " ⌛️ Infancia/Familia/transgénero/Comediadrama
+"info" : " 📚 Infancia/Familia/transgénero/Comediadrama
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 el hijo menor de una familia de clase media,el cual Su máxima ilusión es ser una niña",
@@ -1356,7 +1456,7 @@ el hijo menor de una familia de clase media,el cual Su máxima ilusión es ser u
 },
 {
 "name" : "Billy Elliot (Quiero bailar) 2000",
-"info" : " ⌛️  Drama/Comedia/Ballet/Homosexualidad
+"info" : " 📚  Drama/Comedia/Ballet/Homosexualidad
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 En el gimnasio,Billy observa la clase de ballet, una mujer de carácter severo que lo anima a participar. A partir de ese momento, Billy se dedicará apasionadamente a la danza",
@@ -1366,7 +1466,7 @@ En el gimnasio,Billy observa la clase de ballet, una mujer de carácter severo q
 },								
 {
 "name" : "La guerra de los botones 2011",
-"info" : " ⌛️ Aventuras/Comedia/Drama/Infancia
+"info" : " 📚 Aventuras/Comedia/Drama/Infancia
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Mientras tiene lugar la Segunda Guerra Mundia,dos bandas de chicos de dos aldeas próximas luchan por el dominio de su territorio",
@@ -1376,7 +1476,7 @@ Mientras tiene lugar la Segunda Guerra Mundia,dos bandas de chicos de dos aldeas
 }, 			 													
 {
 "name" : "El Indomable Will Hunting 1997",
-"info" : " ⌛️ Drama/Romance/Enseñanza/Amistad/Matemáticas
+"info" : " 📚 Drama/Romance/Enseñanza/Amistad/Matemáticas
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Will es un joven rebelde con una inteligencia asombrosa, especialmente para las matemáticas. El descubrimiento de su talento por parte",
@@ -1386,7 +1486,7 @@ Will es un joven rebelde con una inteligencia asombrosa, especialmente para las 
 },													
 {
 "name" : "La ola 2008",
-"info" : " ⌛️ Drama/reales/Cole&Univ/Adolescencia/Sectas/Nazis
+"info" : " 📚 Drama/reales/Cole&Univ/Adolescencia/Sectas/Nazis
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 En Alemania, durante la semana de proyectos, al profesor de instituto Rainer Wenger (Jürgen Vogel) se le ocurre hacer un experimento",
@@ -1395,7 +1495,7 @@ En Alemania, durante la semana de proyectos, al profesor de instituto Rainer Wen
 },
 {
 "name" : "John Q 2002",
-"info" : " ⌛️ Drama/hechos reales/Enfermedad/
+"info" : " 📚 Drama/hechos reales/Enfermedad/
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Un padre recurre a medidas desesperadas en pos de obtener un corazón para su hijo después de que el seguro médico se lo niegue",
@@ -1405,7 +1505,7 @@ Un padre recurre a medidas desesperadas en pos de obtener un corazón para su hi
 },																			
 {
 "name" : "Elefante 2003",
-"info" : " ⌛️  Drama/Uni/Adolescencia/cruzadas/psicológico
+"info" : " 📚  Drama/Uni/Adolescencia/cruzadas/psicológico
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Recreación de la matanza perpetrada por dos adolescentes en el instituto Columbine",
@@ -1415,7 +1515,7 @@ Recreación de la matanza perpetrada por dos adolescentes en el instituto Columb
 },
 {
 "name" : "El club de los emperadores 2002",
-"info" : " ⌛️  Drama/Cole&Uni/Enseñanza
+"info" : " 📚  Drama/Cole&Uni/Enseñanza
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 En 1976, la apacible vida de William Hundert, profesor en el elitista colegio masculino de St. Benedict",
@@ -1425,7 +1525,7 @@ En 1976, la apacible vida de William Hundert, profesor en el elitista colegio ma
 },													
 {
 "name" : "Full Monty 1997",
-"info" : " ⌛️  Comedia dramática/Trabajo/empleo
+"info" : " 📚  Comedia dramática/Trabajo/empleo
 	
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 El cierre de la fábrica de acero de Yorkshire deja sin trabajo a casi toda la población masculina",	
@@ -1435,7 +1535,7 @@ El cierre de la fábrica de acero de Yorkshire deja sin trabajo a casi toda la p
 },
 {
 "name" : "El hombre sin rostro 1993",
-"info" : " ⌛️ Drama/Infancia/Familia
+"info" : " 📚 Drama/Infancia/Familia
 		
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Un hombre desfigurado es el tutor de un joven muchacho que aspira a entrar en la misma academia militar que su padre",		
@@ -1445,7 +1545,7 @@ Un hombre desfigurado es el tutor de un joven muchacho que aspira a entrar en la
 },				
 {
 "name" : "Enseñanza de vida 2009",
-"info" : " ⌛️ Drama/Enseñanza/Romance
+"info" : " 📚 Drama/Enseñanza/Romance
 				
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 A pesar de su educación en un albergue, Jenny es una adolescente con un futuro brillante",		
@@ -1455,7 +1555,7 @@ A pesar de su educación en un albergue, Jenny es una adolescente con un futuro 
 },				
 {
 "name" : "Amor y letras	2012",
-"info" : " ⌛️ Drama/Enseñanza/Comedia/Cole&Uni
+"info" : " 📚 Drama/Enseñanza/Comedia/Cole&Uni
 				
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Cuando el joven profesor Jesse vuelve a la universidad, no puede evitar enamorarse de Zibby",		
@@ -1464,7 +1564,7 @@ Cuando el joven profesor Jesse vuelve a la universidad, no puede evitar enamorar
 "isHost" : true},
 ]},		
 {
-"name" : "𝐜𝐨𝐫𝐭𝐨𝐬
+"name" : "📜𝐜𝐨𝐫𝐭𝐨𝐬
 𝐒𝐨𝐛𝐫𝐞 𝐛𝐮𝐥𝐥𝐲𝐢𝐧𝐠",
 "image" : "https://www.gaceta.unam.mx/wp-content/uploads/2024/05/240502-aca8-des-f1-bullying.jpg",
 "stations" : 
@@ -1711,7 +1811,7 @@ Cuando el joven profesor Jesse vuelve a la universidad, no puede evitar enamorar
 "isHost" : true},
 ]},
 {
-"name" : "𝐜𝐨𝐫𝐭𝐨𝐬
+"name" : "📜𝐜𝐨𝐫𝐭𝐨𝐬
 𝐒𝐨𝐛𝐫𝐞 𝐫𝐞𝐟𝐮𝐠𝐢𝐚𝐝𝐨𝐬",
 "image" : "https://img.freepik.com/fotos-premium/diseno-inmigracion-refugiados-aldea-gente-campo-pobre-busca-vida-mejor-construyendo-horizonte_599862-6992.jpg",
 "stations" : 
@@ -1720,7 +1820,7 @@ Cuando el joven profesor Jesse vuelve a la universidad, no puede evitar enamorar
 "name" : "Malak un viaje desde Siria (real)",
 "image" : "https://www.researchgate.net/profile/Julide-Etem/publication/342458131/figure/fig2/AS:906485299150848@1593134345962/UNICEF-Malak-at-the-end-of-the-animation-Screenshot-May-10-2019-UNICEF-Malak-at_Q320.jpg",
 "info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
- UNICEF,Malak, una niña siria de 7 años de edad, relata su viaje desde Siria a Grecia. Echa de menos a sus amigos y perdió todas sus pertenencias",
+ UNICEF ,Malak una niña siria de 7 años de edad, relata su viaje desde Siria a Grecia. Echa de menos a sus amigos y perdió todas sus pertenencias",
 "url" : "https://listeamed.net/v/Ro7kOVVXMYqOZWB",
 "isHost" : true
 },
@@ -1728,14 +1828,14 @@ Cuando el joven profesor Jesse vuelve a la universidad, no puede evitar enamorar
 "name" : "Malak y el barco (animado)",
 "image" : "https://desinformemonos.org/wp-content/uploads/2016/04/maxresdefault.jpg",
 "info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
- UNICEF,Hay historias que nunca estuvieron pensadas para los niños. La de Malak es una de ellas",
+ UNICEF ,Hay historias que nunca estuvieron pensadas para los niños. La de Malak es una de ellas",
 "url" : "https://listeamed.net/v/P0poO10vN9XEz17",
 "isHost" : true
 },
 {
 "name" : "La historia de Ivine y Almohada",
 "info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
- UNICEF, nos cuenta la historia real de Ivine, una niña de 14 años, y su amiga imaginaria Almohada",
+ UNICEF nos cuenta la historia real de Ivine, una niña de 14 años, y su amiga imaginaria Almohada",
 "image" : "https://cortosdemetraje.com/wp-content/uploads/2017/04/maxresdefault1-8.jpg",
 "url" : "https://listeamed.net/v/NMRLEprwyVY5XaG",
 "isHost" : true
@@ -1861,7 +1961,7 @@ Cuando el joven profesor Jesse vuelve a la universidad, no puede evitar enamorar
 "isHost" : true},
 ]},
 {
-"name" : "𝐜𝐨𝐫𝐭𝐨𝐬 
+"name" : "📜𝐜𝐨𝐫𝐭𝐨𝐬 
 𝐒𝐨𝐛𝐫𝐞 𝐕𝐢𝐨𝐥𝐞𝐧𝐜𝐢𝐚 𝐲 𝐆𝐞𝐧𝐞𝐫𝐨",
 "image" : "https://img2.rtve.es/a/5545915?w=400&preview=1585212994812.jpg",
 "stations" : 
@@ -1979,7 +2079,7 @@ Cuando el joven profesor Jesse vuelve a la universidad, no puede evitar enamorar
 "isHost" : true},
 ]},
 {
-"name" : "𝐜𝐨𝐫𝐭𝐨𝐬 
+"name" : "📜𝐜𝐨𝐫𝐭𝐨𝐬 
 𝐒𝐨𝐛𝐫𝐞 𝐃𝐞𝐫𝐞𝐜𝐡𝐨𝐬 𝐇𝐮𝐦𝐚𝐧𝐨𝐬",
 "image" : "https://www.educaciontrespuntocero.com/wp-content/uploads/2019/12/colorida-ilustracion-manos-llegando-mapa-mundial.jpg",
 "stations" : 
@@ -2089,8 +2189,8 @@ Cuando el joven profesor Jesse vuelve a la universidad, no puede evitar enamorar
 "isHost" : true},
 ]},
 {
-"name" : "𝐜𝐨𝐫𝐭𝐨𝐬 
-𝐒𝐨𝐛𝐫𝐞 𝐀𝐬𝐨𝐜 𝐏𝐇 𝐚𝐝𝐢𝐜𝐜𝐢𝐨𝐧𝐞𝐬",
+"name" : "📜𝐜𝐨𝐫𝐭𝐨𝐬 
+𝐀𝐬𝐨𝐜 𝐏𝐇 𝐚𝐝𝐢𝐜𝐜𝐢𝐨𝐧𝐞𝐬",
 "image" : "https://proyectohombre.es/wp-content/themes/proyectohombre/assets/images/logo_top.png",
 "stations" : 
 	[
@@ -2134,7 +2234,7 @@ Cuando el joven profesor Jesse vuelve a la universidad, no puede evitar enamorar
 "isHost" : true},
 ]},
 {
-"name" : "𝐜𝐨𝐫𝐭𝐨𝐬 
+"name" : "📜𝐜𝐨𝐫𝐭𝐨𝐬 
 𝐒𝐨𝐛𝐫𝐞 𝐄𝐧𝐬𝐞ñ𝐚𝐧𝐳𝐚",
 "image" : "https://www.erubrica.com/blog/wp-content/uploads/2020/11/ense%C3%B1anza-aprendizaje.jpg",
 "stations" : 
@@ -2188,7 +2288,8 @@ Cuando el joven profesor Jesse vuelve a la universidad, no puede evitar enamorar
  
  Un grupo de adolescentes, desmotivados por la educación que han recibido en la escuela, asisten durante doce días a unas clases especiales",
 "image" : "https://pics.filmaffinity.com/entre_maestros-305216235-mmed.jpg",
-"url" : "https://torronf.alwaysdata.net/root/youtube/youtube_play.php?https://www.youtube.com/watch?v=BtH0HwWA6Yc"
+"url" : "https://www.youtube.com/watch?v=BtH0HwWA6Yc",
+"isHost" : true
 },
 {
 "name" : "La educación prohibida 2012",
@@ -2209,15 +2310,14 @@ Cuando el joven profesor Jesse vuelve a la universidad, no puede evitar enamorar
 "isHost" : true},
 ]},
 {
-"name" : "𝐜𝐨𝐫𝐭𝐨𝐬 
-𝐒𝐨𝐛𝐫𝐞 𝐯𝐚𝐫𝐢𝐨𝐬",
+"name" : "📜𝐜𝐨𝐫𝐭𝐨𝐬 𝐯𝐚𝐫𝐢𝐨𝐬",
 "image" : "https://bioeticaparatodos.com/wp-content/uploads/2021/01/bioetica-para-todos-declaracion-universal-de-los-derechos-humanos.jpg",
 "stations" : 
 	[
 {
 "name" : "Consumo cero de alcohol en menores",
 "image" : "https://www.alcoholysociedad.org/FILES/imagenes/Noticias/curso-escolar-prevencion.jpg",
-"info" : " ⌛️ consumo/Educativo/Enseñanza/
+"info" : " 📚 consumo/Educativo/Enseñanza/
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Entrevistas sobre los efectos del alcohol en menores y explicación sobre la necesidad del consumo",
@@ -2227,7 +2327,7 @@ Entrevistas sobre los efectos del alcohol en menores y explicación sobre la nec
 {
 "name" : "Campaña EsaNoSoyYo",
 "image" : "https://static.wikia.nocookie.net/logopedia/images/0/0c/Esa_no_soy_yo.jpg/revision/latest/scale-to-width-down/125?cb=20230118032409&path-prefix=es",
-"info" : " ⌛️ /Educativo/Campaña/enfermeria
+"info" : " 📚 /Educativo/Campaña/enfermeria
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Queremos ser reconocidas de una manera justa. Queremos dejar a un lado esas terribles narrativas que nos persiguen",
@@ -2237,7 +2337,7 @@ Queremos ser reconocidas de una manera justa. Queremos dejar a un lado esas terr
 {
 "name" : "Lo que somos",
 "image" : "https://cortosdemetraje.com/wp-content/uploads/2023/08/Lo-que-somos.webp",
-"info" : " ⌛️ /Educativo/cortosdemetraje/drama-social
+"info" : " 📚 /Educativo/cortosdemetraje/drama-social
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Blanca, Marcos y Nico se reúnen una vez al mes para ver a su madre, semidependiente desde hace un año y de quien cuida Blanca",
@@ -2247,7 +2347,7 @@ Blanca, Marcos y Nico se reúnen una vez al mes para ver a su madre, semidependi
 {
 "name" : "Moolaadé 2004 sub",
 "image" : "https://pics.filmaffinity.com/moolaade-553452472-large.jpg",
-"info" : " ⌛️ Drama | Drama social
+"info" : " 📚 Drama | Drama social
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Collé Ardo vive en un pueblo africano. Hace siete años no permitió que su hija fuera sometida a la ablación, una práctica que le parece una barbarie",
@@ -2257,7 +2357,7 @@ Collé Ardo vive en un pueblo africano. Hace siete años no permitió que su hij
 {
 "name" : "Quién lo impide 2021",
 "image" : "https://pics.filmaffinity.com/quien_lo_impide-525096254-mmed.jpg",
-"info" : " ⌛️ Documental/Adolescencia
+"info" : " 📚 Documental/Adolescencia
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Quién lo impide es una llamada a transformar la percepción que tenemos sobre la adolescencia y la juventud",
@@ -2267,7 +2367,7 @@ Quién lo impide es una llamada a transformar la percepción que tenemos sobre l
 {
 "name" : "Diamantes negros 2013",
 "image" : "https://pics.filmaffinity.com/diamantes_negros-196123385-mmed.jpg",
-"info" : " ⌛️ Documental/Drama social/África/Fútbol
+"info" : " 📚 Documental/Drama social/África/Fútbol
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Tras ser captados en Mali por un ojeador de fútbol, los jóvenes Amadou y Moussa abandonan su país, escapando de la pobreza",
@@ -2277,7 +2377,7 @@ Tras ser captados en Mali por un ojeador de fútbol, los jóvenes Amadou y Mouss
 {
 "name" : "Piper 2016",
 "image" : "https://pics.filmaffinity.com/piper-545075640-mmed.jpg",
-"info" : " ⌛️ Animación/Documentalcorto/comedia/miedos
+"info" : " 📚 Animación/Documentalcorto/comedia/miedos
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Este cortometraje nos educa en  la importancia de ir buscando estrategias para superar nuestros miedos para seguir creciendo",
@@ -2286,7 +2386,7 @@ Este cortometraje nos educa en  la importancia de ir buscando estrategias para s
 },	
 {
 "name" : "Cuerdas 2013",
-"info" : " ⌛️ Animación Drama/Discapacidad/Amistad Infancia/Cole/Corto
+"info" : " 📚 Animación Drama/Discapacidad/Amistad Infancia/Cole/Corto
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 La rutina en el colegio se verá alterada por la llegada de un niño muy especial.se convertirán en amigos inseparables",
@@ -2296,7 +2396,7 @@ La rutina en el colegio se verá alterada por la llegada de un niño muy especia
 },	
 {
 "name" : "Maria y yo 2007",
-"info" : " ⌛️ Documental/Biografía/DramaFamiliar
+"info" : " 📚 Documental/Biografía/DramaFamiliar
 		
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
 Documental sobre el autismo",		
@@ -2306,3 +2406,9 @@ Documental sobre el autismo",
 ]}
   ]
 }
+
+
+
+
+
+
