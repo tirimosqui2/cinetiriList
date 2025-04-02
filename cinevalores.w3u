@@ -2583,17 +2583,17 @@ Documental sobre el autismo",
 {
 "name": "☎️Teléfonos info y Ayuda☎️",
 "image" : "https://www.autolesion.com/wp-content/uploads/2011/07/Telefono-300x300.gif",
-"groups": [
+"author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™", 
+"stations": [
 {
 "name": "Teléfonos",
 "image": "https://www.autolesion.com/wp-content/uploads/2011/07/Telefono-300x300.gif",
 "info" : " 📚 Ayuda/Discapacidad/info/genero
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
-   telefonos para una emergencia e info Manten pulsado el numero y te dara la opcion de llamaro copia el tlf y pegalo en el marcador telefonico",
-"author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",   
+   telefonos para una emergencia e info Manten pulsado el numero y te dara la opcion de llamaro copia el tlf y pegalo en el marcador telefonico",  
 "url" : "https://raw.githubusercontent.com/tirimosqui2/mlpla/refs/heads/main/TLF-Valores-EMERG.txt",
-"import":"false"
+"embed": "true"
 },	
 ]}
   ]
