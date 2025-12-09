@@ -2422,17 +2422,17 @@ la historia real de un anciano de 84 años que,quiere tener la oportunidad de ir
 "isHost" : true
 },
 {
-"name" : "El peligro de las redes sociales en la infancia",
+"name" : "Malas influencias: El lado oscuro de las redes en la infancia",
 "info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
  Tiffany Smith convierte a su hija preadolescente en una estrella de YouTube junto a un grupo de influencers infantiles llamado el Escuadrón ¿Pero cuál es el precio de la fama viral?",	
-"image" : "https://cdn-images-3.listennotes.com/podcasts/impacto-de-las-redes-sociales-e-internet-en-r2QfEcpYyI4-T9syvOaS0VF.300x300.jpg",
+"image" : "https://www.area-documental.com/iconos/Bad.Influence.The.Dark.Side.of.Kidfluencing.jpg",
 "url" : "https://www.documaniatv.com/social/el-peligro-de-las-redes-sociales-en-la-infancia-video_921f15bb3.html",
 "isHost" : true
 },
 {
 "name" : "Redes sociales quiero ser tu amigo",
 "info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
- Los adolescentes que pasan más de cinco horas al día conectados a su smartphone tienen un 66 % más de probabilidades de sufrir síntomas suicidas que quienes lo usan solo una hora 44 estados de EE. UU. están demandando a Meta, culpándola del malestar de toda una generación",	
+ Las redes sociales se han convertido en el fenómeno más "caliente" en la red. Las cifras lo confirman. En España, hay 13 millones de usuarios de redes sociales",	
 "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8gI3MNiFdGWCYNIhNjXzsqqgCDuUUB7YxgrkXOPA_hr4mWHP62auZM5ZkXhzc0GF0V_9swCgC6onmmhX_YvV_OUFL2uc-1QUYJ-zFua2sVs7vKFayY530weW6qZo8izOAoA-_kNHDVhJS/s1600/adolescentes-y-redes-sociales.jpg",
 "url" : "https://www.documaniatv.com/social/redes-sociales-quiero-ser-tu-amigo-video_08849b9d6.html",
 "isHost" : true},
@@ -2674,26 +2674,47 @@ Documental sobre el autismo",
 },
 ]},
 {
+"name": "📚 BULLYING-ACOSO",
+"image" : "https://securekids.es/wp-content/uploads/2020/10/4013780.png",
+"author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™", 
+"stations": [
+{
+"name": "INFO QUE ES EL BULLYING ?",
+"image": "https://securekids.es/wp-content/uploads/2020/10/4013780.png",
+"info" : " 📚 Ayuda/info
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+   El bullying o acoso escolar es una agresión física, verbal o psicológica intencional y repetida entre escolares",  
+"url" : "https://raw.githubusercontent.com/tirimosqui2/mlpla/refs/heads/main/BULLYING-ACOSO.txt",
+"embed": "true"
+},
+{
+"name": "ACTIVIDADES",
+"image": "https://www3.gobiernodecanarias.org/medusa/ecoblog/meperper/files/2013/01/20090226103405-actividades-285x300.jpg",
+"info" : " 📚 Ayuda/info
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+   actividades y dinamicas para profesionales y docentes",  
+"url" : "https://raw.githubusercontent.com/tirimosqui2/mlpla/refs/heads/main/ACTIVIDADES.txt",
+"embed": "true"},
+]},
+{
 "name": "☎ 𝐓𝐋𝐅 𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐈𝐀𝐒",
 "image" : "https://www.autolesion.com/wp-content/uploads/2011/07/Telefono-300x300.gif",
-"author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™", 
+"author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
 "stations": [
 {
 "name": "Teléfonos",
 "image": "https://www.autolesion.com/wp-content/uploads/2011/07/Telefono-300x300.gif",
 "info" : " 📚 Ayuda/info
-
-
-
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
-   telefonos para una emergencia e info Manten pulsado el numero y te dara la opcion de llamaro copia el tlf y pegalo en el marcador telefonico",  
+telefonos para una emergencia e info Manten pulsado el numero y te dara la opcion de llamaro copia el tlf y pegalo en el marcador telefonico",
 "url" : "https://raw.githubusercontent.com/tirimosqui2/mlpla/refs/heads/main/TLF-Valores-EMERG.txt",
 "embed": "true"
-},	
+},
 ]}
-  ]
+]
 }
-
 
 
 
