@@ -2416,7 +2416,7 @@ la historia real de un anciano de 84 años que,quiere tener la oportunidad de ir
 {
 "name" : "La trampa de las redes sociales",
 "info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
- Los adolescentes que pasan más de cinco horas al día conectados a su smartphone tienen un 66 % más de probabilidades de sufrir síntomas suicidas que quienes lo usan solo una hora 44 estados de EE. UU. están demandando a Meta, culpándola del malestar de toda una generación",	
+ Los adolescentes que pasan más de cinco horas al día conectados a su smartphone tienen un 66 % más de probabilidades de sufrir síntomas suicidas que quienes lo usan solo una hora 44 estados de EE. UU. están demandando a Meta culpándola del malestar de toda una generación",	
 "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8gI3MNiFdGWCYNIhNjXzsqqgCDuUUB7YxgrkXOPA_hr4mWHP62auZM5ZkXhzc0GF0V_9swCgC6onmmhX_YvV_OUFL2uc-1QUYJ-zFua2sVs7vKFayY530weW6qZo8izOAoA-_kNHDVhJS/s1600/adolescentes-y-redes-sociales.jpg",
 "url" : "https://www.documaniatv.com/social/la-trampa-de-las-redes-sociales-video_14e9e7fbf.html",
 "isHost" : true
@@ -2432,7 +2432,7 @@ la historia real de un anciano de 84 años que,quiere tener la oportunidad de ir
 {
 "name" : "Redes sociales quiero ser tu amigo",
 "info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
- Las redes sociales se han convertido en el fenómeno más "caliente" en la red. Las cifras lo confirman. En España, hay 13 millones de usuarios de redes sociales",	
+ Las redes sociales se han convertido en el fenómeno más caliente en la red Las cifras lo confirman En España hay 13 millones de usuarios de redes sociales",	
 "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8gI3MNiFdGWCYNIhNjXzsqqgCDuUUB7YxgrkXOPA_hr4mWHP62auZM5ZkXhzc0GF0V_9swCgC6onmmhX_YvV_OUFL2uc-1QUYJ-zFua2sVs7vKFayY530weW6qZo8izOAoA-_kNHDVhJS/s1600/adolescentes-y-redes-sociales.jpg",
 "url" : "https://www.documaniatv.com/social/redes-sociales-quiero-ser-tu-amigo-video_08849b9d6.html",
 "isHost" : true},
@@ -2686,7 +2686,7 @@ Documental sobre el autismo",
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
    El bullying o acoso escolar es una agresión física verbal o psicológica intencional y repetida entre escolares",  
 "url" : "https://raw.githubusercontent.com/tirimosqui2/mlpla/refs/heads/main/BULLYING-ACOSO.txt",
-"embed": "true"
+"embed" : true
 },
 {
 "name": "ACTIVIDADES",
@@ -2696,7 +2696,7 @@ Documental sobre el autismo",
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
    actividades y dinamicas para profesionales y docentes",  
 "url" : "https://raw.githubusercontent.com/tirimosqui2/mlpla/refs/heads/main/ACTIVIDADES.txt",
-"embed": "true"
+"embed" : true
 },
 ]},
 {
