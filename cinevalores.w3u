@@ -2295,14 +2295,7 @@ la historia real de un anciano de 84 años que,quiere tener la oportunidad de ir
 "url" : "https://listeamed.net/v/KNWlEDWl7Xnxkbp",
 "isHost" : true
 },	
-{
-"name" : "Dime 2020",
-"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
- La vida de un niño cambia tras ser víctima de los abusos sexuales de su tío",
-"image" : "https://cortosdemetraje.com/wp-content/uploads/2024/06/dime.jpg",
-"url" : "https://ok.ru/video/7688724154891",
-"isHost" : true
-},
+
 {
 "name" : "Ajo lúcido 2021",
 "info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
@@ -2439,6 +2432,38 @@ la historia real de un anciano de 84 años que,quiere tener la oportunidad de ir
 ]},
 {
 "name" : "📜𝐜𝐨𝐫𝐭𝐨𝐬 
+𝐒𝐨𝐛𝐫𝐞 Abuso infantil",
+"image" : "https://cortosdemetraje.com/wp-content/uploads/2024/06/dime.jpg",
+"stations" : 
+	[
+{
+"name" : "Dime 2020",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ La vida de un niño cambia tras ser víctima de los abusos sexuales de su tío",
+"image" : "https://cortosdemetraje.com/wp-content/uploads/2024/06/dime.jpg",
+"url" : "https://ok.ru/videoembed/7688724154891",
+"isHost" : true
+},
+{
+"name" : "La culpa",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ 
+ Diego es un niño que es humillado y maltratado por su padre cuando le cuenta algo que le ha pasado",
+"image" : "https://cortosdemetraje.com/wp-content/uploads/2024/06/La-culpa.webp",
+"url" : "https://player.vimeo.com/video/355906417?h=2a9d340927",
+"isHost" : true
+},
+{
+"name" : "Los monstruos no existen",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ 
+ Nai es un niño que vive en Phonm Penh, Camboya Últimamente está teniendo pesadillas con el «Yeak",
+"image" : "https://cortosdemetraje.com/wp-content/uploads/2024/06/los-monstruos-no-existen-1.jpg",
+"url" : "https://player.vimeo.com/video/57144532?h=0c9c81d507",
+"isHost" : true},
+]},
+{
+"name" : "📜𝐜𝐨𝐫𝐭𝐨𝐬 
 𝐒𝐨𝐛𝐫𝐞 𝐃𝐞𝐫𝐞𝐜𝐡𝐨𝐬 𝐇𝐮𝐦𝐚𝐧𝐨𝐬",
 "image" : "https://www.educaciontrespuntocero.com/wp-content/uploads/2019/12/colorida-ilustracion-manos-llegando-mapa-mundial.jpg",
 "stations" : 
@@ -2468,6 +2493,14 @@ la historia real de un anciano de 84 años que,quiere tener la oportunidad de ir
 "image" : "https://www.defensordelpuebloandaluz.es/sites/default/files/tusderechos/derecho03.jpg",
 "url" : "https://archive.org/download/derechos-ninios/derechos-_4.mpg"},
 {
+"name" : "HUMAN 2025",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ documental recorre 300.000 años de evolución humana, revelando descubrimientos revolucionarios que están transformando todo lo que creíamos saber sobre nuestros orígenes",	
+"image" : "https://www.area-documental.com/iconos/Human.jpg",
+"url" : "https://www.area-documental.com/video/Human/",
+"isHost" : true
+},
+{
 "name" : "HUMAN 2015",
 "info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
  Rodada en 60 paises durante más de 2 años, las 2.000 personas entrevistadas entregan testimonios auténticos y profundos, abarcando temas universales como la lucha contra la pobreza, la guerra, la homofobia pero también el amor, la familia y el futuro de nuestro planeta",	
@@ -2480,24 +2513,24 @@ la historia real de un anciano de 84 años que,quiere tener la oportunidad de ir
 "info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
  humanidad de hoy en día vol 1 amor, mujeres, trabajo y pobreza",	
 "image" : "https://pics.filmaffinity.com/human-397519235-mmed.jpg",
-"url" : "https://youtu.be/N1WdfVWo1pQ",
-"embed" : true
+"url" : "https://www.youtube.com/watch?v=N1WdfVWo1pQ",
+"isHost" : true
 },
 {
 "name" : "HUMAN 2015 II",
 "info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
  humanidad de hoy en día vol 2 guerra, perdón, homosexualidad, familia y vida después de la muerte",	
 "image" : "https://pics.filmaffinity.com/human-397519235-mmed.jpg",
-"url" : "https://youtu.be/9eWu6l8vnuc",
-"embed" : true
+"url" : "https://www.youtube.com/watch?v=9eWu6l8vnuc",
+"isHost" : true
 },
 {
 "name" : "HUMAN 2015 III",
 "info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
  humanidad de hoy en día vol 3 felicidad| educación| discapacidad| inmigración| corrupción y significado de la vida",	
 "image" : "https://pics.filmaffinity.com/human-397519235-mmed.jpg",
-"url" : "https://youtu.be/gh7MfEey4J8",
-"embed" : true
+"url" : "https://www.youtube.com/watch?v=gh7MfEey4J8",
+"isHost" : true
 },		
 {
 "name" : "ADA 2015",
