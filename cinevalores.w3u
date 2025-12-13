@@ -11,6 +11,36 @@
 "stations" : 
 	[
 {
+"name" : "El sueño de ivan 2011",
+"info" : " 📚 Comedia/ Deporte/ Fútbol/ Infancia
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+ Iván es un niño de once años que va a jugar contra los campeones del mundo de fútbol y a vivir su primera gran historia de amor",	
+"image" : "https://pics.filmaffinity.com/el_sueno_de_ivan-162099283-mmed.jpg",
+"url" : "https://ok.ru/videoembed/7745759611439",
+"isHost" : true
+},
+{
+"name" : "Ben X (2007)",
+"info" : " 📚  Asperger/Discapacidad/ Acoso escolar/Bullying/Informática/Adolescencia/ Thriller psicológico
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+ Ben carga con la cruz de ser el raro de su clase el favorito para las bromas y crueldades de los matones del instituto La inteligencia de Ben es superior a la del resto de sus compañeros, pero también es retraído",	
+"image" : "https://pics.filmaffinity.com/ben_x-589832899-mmed.jpg",
+"url" : "https://ok.ru/videoembed/8159366679087",
+"isHost" : true
+},
+{
+"name" : "La voz de la igualdad - Una cuestión de género (2018)",
+"info" : " 📚 B hechos reales/Biográfico/Feminismo/judicial/Abogados/as
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+ Ruth Bader Ginsburg es una abogada luchadora y madre que enfrenta adversidades y numerosos obstáculos en su lucha por la igualdad de derechos",	
+"image" : "https://pics.filmaffinity.com/on_the_basis_of_sex-845910728-mmed.jpg",
+"url" : "https://ok.ru/videoembed/1189918411395",
+"isHost" : true
+},
+{
 "name": "Una mujer Normal (2025)",
 "image" : "https://pics.filmaffinity.com/a_normal_woman-658979656-mmed.jpg",
 "info" : " 📚 Drama social/Thriller psicológico/Enfermedad
@@ -2789,6 +2819,7 @@ telefonos para una emergencia e info Manten pulsado el numero y te dara la opcio
 ]}
 ]
 }
+
 
 
 
