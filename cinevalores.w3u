@@ -2852,8 +2852,9 @@ Documental sobre el autismo",
 },
 ]},
 {
-"name": "📚 BULLYING-ACOSO",
-"image" : "https://securekids.es/wp-content/uploads/2020/10/4013780.png",
+"name": "📚 Documentos y Ayudas",
+"image" : "https://blog.grupocfi.es/hubfs/Imported_Blog_Media/02_lopd_dia_dia_2015.jpg",
+"info": "documentos de ayuda y difusion para protejer a los mas peques",
 "author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™", 
 "stations": [
 {
@@ -2867,13 +2868,73 @@ Documental sobre el autismo",
 "embed" : true
 },
 {
-"name": "ACTIVIDADES",
+"name": "ACTIVIDAD Bullyng",
 "image": "https://www3.gobiernodecanarias.org/medusa/ecoblog/meperper/files/2013/01/20090226103405-actividades-285x300.jpg",
 "info" : " 📚 Ayuda/info
 
 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
    actividades y dinamicas para profesionales y docentes",  
 "url" : "https://raw.githubusercontent.com/tirimosqui2/mlpla/refs/heads/main/ACTIVIDADES.txt",
+"embed" : true
+},
+{
+"name": "REDES P2P",
+"image": "https://tecnologia-facil.com/wp-content/uploads/2015/07/que-es-p2p-2.jpg",
+"info" : " 📚 Ayuda/info Ares/Torrent/emule/BitTorrent
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+   Es seguro utilizar las redes P2P para descargar? analizamos los riesgos",  
+"url" : "https://raw.githubusercontent.com/tirimosqui2/mlpla/refs/heads/main/BULLYING-ACOSO.txt",
+"embed" : true
+},
+{
+"name": "ACTIVIDAD test!! Emule",
+"image": "https://www.hijosdigitales.es/wp-content/uploads/2016/11/carpetas_p2p_0.jpg",
+"info" : " 📚 Ayuda/info/emule/
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+   test en base app emule interpretación  del artículo 270 del CódigoPenal",  
+"url" : "https://raw.githubusercontent.com/tirimosqui2/mlpla/refs/heads/main/BULLYING-ACOSO.txt",
+"embed" : true
+},
+{
+"name": "CÓMO ACTUAR EN CASO DE ENCONTRAR PORNOGRAFÍA INF",
+"image": "https://pbs.twimg.com/media/GBAhWcPX0AAf9Y0?format=jpg&name=small",
+"info" : " 📚 Ayuda/info/proteccion al menor/
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+   ¿sabes cómo actuar en caso de encontrar pornografía infantil en redes sociales o en internet?",  
+"url" : "https://raw.githubusercontent.com/tirimosqui2/mlpla/refs/heads/main/BULLYING-ACOSO.txt",
+"embed" : true
+},
+{
+"name": "EL DELITO CódigoPenal",
+"image": "https://www.hijosdigitales.es/wp-content/uploads/2016/11/carpetas_p2p_0.jpg",
+"info" : " 📚 Ayuda/info/CódigoPenal/
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+   No cabe duda de que internet supone una vía privilegiada para la distribución de la porno inf CódigoPenal",  
+"url" : "https://raw.githubusercontent.com/tirimosqui2/mlpla/refs/heads/main/BULLYING-ACOSO.txt",
+"embed" : true
+},
+{
+"name": "M.E.S.I menores consumidores de Material Sex Inf",
+"image": "https://angelblau.com/wp-content/uploads/2024/05/AdobeStock_409484687-scaled-1-1024x675.jpeg",
+"info" : " 📚 Ayuda/info/menores/
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+   ¿Qué lleva a un niño del consumo de pornografía convencional al consumo de M.E.S.I y que repercusiones tiene?",  
+"url" : "https://raw.githubusercontent.com/tirimosqui2/mlpla/refs/heads/main/BULLYING-ACOSO.txt",
+"embed" : true
+},
+{
+"name": "LA PORNOG EN INTERNET RIESGO A LOS MENORES",
+"image": "https://static.dw.com/image/55271193_1004.webp",
+"info" : " 📚 Ayuda/info/menores/
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+   La pornografía en la web está prohibida para los niños. Pero acceder a ella es demasiado fácil, y puede tener consecuencias fatales.",  
+"url" : "https://raw.githubusercontent.com/tirimosqui2/mlpla/refs/heads/main/BULLYING-ACOSO.txt",
 "embed" : true
 },
 ]},
@@ -2894,6 +2955,7 @@ telefonos para una emergencia e info Manten pulsado el numero y te dara la opcio
 ]}
 ]
 }
+
 
 
 
