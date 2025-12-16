@@ -1,8 +1,9 @@
 {
-"name": "👪 𝑪𝑰𝑵𝑬 𝐂𝐎𝐍 𝐕𝐀𝐋𝐎𝐑𝐄𝐒 👪",
+"name": "👪 𝐂𝐎𝐍 𝐕𝐀𝐋𝐎𝐑𝐄𝐒 👪",
 "author": "𝓑𝓨 𝐓𝐈𝐑𝐈™",
 "image": "https://edea.juntadeandalucia.es/bancorecursos/file/1b4085aa-65f0-4de6-8934-a32dafe81f06/1/es-an_2021061812_9124836.zip/transmision-actitudes-valores.jpg",
-"info": "peliculas y cortos para la educacion con muchos valores",
+"info": "peliculas y cortos que promueven principios eticos y morales - 
+ esta lista es una Herramienta para fines educativos escolares e institutos y familias en formacion y valores",
 "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cinevalores.w3u",
 "groups": [
 
@@ -10,6 +11,56 @@
 "image" : "https://es.tiching.com/uploads/contents/2013/11/05/111172_1383666274_m.png",
 "stations" : 
 	[
+{
+"name" : "Sonido de Esperanza 2024",
+"info" : " 📚 Drama/echos reales/ Adopción/Familia/Religión
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+ 22 familias de una iglesia rural negra del pequeño pueblo de Possum Trot en el este de Texas, adoptan a 77 de los niños más difíciles de integrar en el sistema de acogida",	
+"image" : "https://pics.filmaffinity.com/sound_of_hope_the_story_of_possum_trot-286354413-mmed.jpg",
+"url" : "https://ok.ru/videoembed/9768854162036?nochat=1&autoplay=1",
+"isHost" : true
+},
+{
+"name" : "Sin instrucciones 2024",
+"info" : " 📚 Comedia dramática/Familia/Paternidad/Infancia
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+ un tipo soltero y mujeriego que vive al día Su cuando llega de Bilbao una de sus antiguas aventuras le deja en sus brazos a una bebé de pocos meses asegurando que es su hija",	
+"image" : "https://pics.filmaffinity.com/sin_instrucciones-345917238-mmed.jpg",
+"url" : "https://mirandaa.ezplayer.stream/#8nndp",
+"isHost" : true
+},
+{
+"name" : "Sala de profesores 2023",
+"info" : " 📚 Drama/Thriller/Cole & Univ/Enseñanza
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+ una idealista profesora de matemáticas y deportes comienza su primer trabajo en una escuela de secundaria",	
+"image" : "https://pics.filmaffinity.com/das_lehrerzimmer-488995644-mmed.jpg",
+"url" : "https://ok.ru/videoembed/6843915242046?nochat=1&autoplay=1",
+"isHost" : true
+},
+{
+"name" : "La niña de la cabra 2025",
+"info" : " 📚 Drama/Infancia/Amistad
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+ una niña de ocho años afronta la reciente pérdida de su abuela mientras se prepara para hacer la Primera Comunión",	
+"image" : "https://pics.filmaffinity.com/la_nina_de_la_cabra-663032284-mmed.jpg",
+"url" : "https://ok.ru/videoembed/9356260543038?nochat=1&autoplay=1",
+"isHost" : true
+},	
+{
+"name" : "Diamante en bruto 2024",
+"info" : " 📚 Drama/Redes sociales/tv
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+ Obsesionada por la belleza y la necesidad de ser «alguien», ve en los realities la oportunidad de ser amada",	
+"image" : "https://pics.filmaffinity.com/diamant_brut-867719315-mmed.jpg",
+"url" : "https://filemoon.sx/e/fd28yadjszqh",
+"isHost" : true
+},	
 {
 "name" : "Danyka Mar de fondo 2020",
 "info" : " 📚 Drama/adolescencia/adulterio
@@ -2193,6 +2244,17 @@ la historia real de un anciano de 84 años que,quiere tener la oportunidad de ir
 "image" : "https://www.educaciontrespuntocero.com/wp-content/uploads/2019/12/colorida-ilustracion-manos-llegando-mapa-mundial.jpg",
 "stations" : 
 	[
+{
+"name": "Masaka Kids
+        Una misión con ritmo 2025",
+"image" : "https://pics.filmaffinity.com/masaka_kids_a_rhythm_within-114462110-mmed.jpg",
+"info" : " 📚 Documental/África/Infancia/Baile/Mediometraje
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+   Los niños de un orfanato en Uganda hallan consuelo, inspiran esperanza y conquistan al mundo con sus vídeos de baile virales",
+"url" : "https://filemoon.sx/e/whk5w40hnojl",
+"isHost" : true
+},	
 {
 "name" : "Malak un viaje desde Siria (real)",
 "image" : "https://lascebrassalen.com/wp-content/uploads/2016/04/Malak-300x211.jpg",
