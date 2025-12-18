@@ -1868,6 +1868,58 @@ Un hombre desfigurado es el tutor de un joven muchacho que aspira a entrar en la
 },				
 ]},	
 {
+"name": "📁𝕊𝕖𝕣𝕚𝕖𝕤 ℂ𝕠𝕟 𝕍𝕒𝕝𝕠𝕣",
+"image": "https://raw.githubusercontent.com/tirimosqui2/tiri/main/2025-03-25--Series-Con-Valor.gif",
+"groups": [
+{
+"name": "𝕊𝕖𝕣𝕚𝕖 Erase... Una Vez",
+"image": "https://img2.rtve.es/i/?w=1600&i=1537347591136.jpg",
+"info" : "educacion/infancia/historia",
+"author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
+"url": "https://raw.githubusercontent.com/tirimosqui2/seriestiriList/main/erase.m3u#.m3u",
+"import":"false"},
+{
+"name": "𝕊𝕖𝕣𝕚𝕖 Adolescencia 2025",
+"image": "https://pics.filmaffinity.com/adolescence-497490057-large.jpg",
+"info" : "Thriller/Drama psicológico/Adolescencia/Policíaco/Crimen",
+"author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
+"url": "https://raw.githubusercontent.com/tirimosqui2/seriestiriList/refs/heads/main/s1.json",
+"import":"false"
+},
+{
+"name": "𝕊𝕖𝕣𝕚𝕖 Asesinato para principiantes 2024",
+"image": "https://pics.filmaffinity.com/a_good_girl_s_guide_to_murder-771291674-large.jpg",
+"info" : "Drama/Adolescencia/Intriga/Thriller/Crimen",
+"author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
+"url": "https://raw.githubusercontent.com/tirimosqui2/seriestiriList/refs/heads/main/s2.json",
+"import":"false"
+},
+{
+"name": "𝕊𝕖𝕣𝕚𝕖 Escuela para señoritas Al Rawabi 2021",
+"image": "https://pics.filmaffinity.com/alrawabi_school_for_girls-526455439-large.jpg",
+"info" : "Drama/Cole&Univ/Acoso escolar/BullyingBullying",
+"author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
+"url": "https://raw.githubusercontent.com/tirimosqui2/seriestiriList/refs/heads/main/s5.json",
+"import":"false"
+},
+{
+"name": "𝕊𝕖𝕣𝕚𝕖 Sky Rojo 2021",
+"image": "https://pics.filmaffinity.com/sky_rojo-722991651-large.jpg",
+"info" : "Thriller/Drama psicológico/Acción/Prostitución/Road Movie",
+"author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
+"url": "https://raw.githubusercontent.com/tirimosqui2/seriestiriList/refs/heads/main/s3.json",
+"import":"false"
+},
+{
+"name": "𝕊𝕖𝕣𝕚𝕖 Ni una más 2024",
+"image": "https://pics.filmaffinity.com/ni_una_mas-144753997-large.jpg",
+"info" : "Drama/Adolescencia/Acoso escolar/Bullying/Cole&Uni/Feminismo",
+"author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
+"url": "https://raw.githubusercontent.com/tirimosqui2/seriestiriList/refs/heads/main/s4.json",
+"import":"false"
+},
+]},
+{
 "name" : "📜𝐜𝐨𝐫𝐭𝐨𝐬 𝐩𝐚𝐫𝐚 𝐏𝐫𝐨𝐟𝐞𝐬𝐨𝐫𝐞𝐬",
 "image" : "https://bioeticaparatodos.com/wp-content/uploads/2021/01/bioetica-para-todos-declaracion-universal-de-los-derechos-humanos.jpg",
 "stations" : 
@@ -2012,58 +2064,6 @@ la historia real de un anciano de 84 años que,quiere tener la oportunidad de ir
 "url" : "https://ok.ru/videoembed/1056586402308",
 "isHost" : true
 },				
-]},
-{
-"name": "📁𝕊𝕖𝕣𝕚𝕖𝕤 ℂ𝕠𝕟 𝕍𝕒𝕝𝕠𝕣",
-"image": "https://raw.githubusercontent.com/tirimosqui2/tiri/main/2025-03-25--Series-Con-Valor.gif",
-"groups": [
-{
-"name": "𝕊𝕖𝕣𝕚𝕖 Erase... Una Vez",
-"image": "https://img2.rtve.es/i/?w=1600&i=1537347591136.jpg",
-"info" : "educacion/infancia/historia",
-"author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
-"url": "https://raw.githubusercontent.com/tirimosqui2/seriestiriList/main/erase.m3u#.m3u",
-"import":"false"},
-{
-"name": "𝕊𝕖𝕣𝕚𝕖 Adolescencia 2025",
-"image": "https://pics.filmaffinity.com/adolescence-497490057-large.jpg",
-"info" : "Thriller/Drama psicológico/Adolescencia/Policíaco/Crimen",
-"author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
-"url": "https://raw.githubusercontent.com/tirimosqui2/seriestiriList/refs/heads/main/s1.json",
-"import":"false"
-},
-{
-"name": "𝕊𝕖𝕣𝕚𝕖 Asesinato para principiantes 2024",
-"image": "https://pics.filmaffinity.com/a_good_girl_s_guide_to_murder-771291674-large.jpg",
-"info" : "Drama/Adolescencia/Intriga/Thriller/Crimen",
-"author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
-"url": "https://raw.githubusercontent.com/tirimosqui2/seriestiriList/refs/heads/main/s2.json",
-"import":"false"
-},
-{
-"name": "𝕊𝕖𝕣𝕚𝕖 Escuela para señoritas Al Rawabi 2021",
-"image": "https://pics.filmaffinity.com/alrawabi_school_for_girls-526455439-large.jpg",
-"info" : "Drama/Cole&Univ/Acoso escolar/BullyingBullying",
-"author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
-"url": "https://raw.githubusercontent.com/tirimosqui2/seriestiriList/refs/heads/main/s5.json",
-"import":"false"
-},
-{
-"name": "𝕊𝕖𝕣𝕚𝕖 Sky Rojo 2021",
-"image": "https://pics.filmaffinity.com/sky_rojo-722991651-large.jpg",
-"info" : "Thriller/Drama psicológico/Acción/Prostitución/Road Movie",
-"author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
-"url": "https://raw.githubusercontent.com/tirimosqui2/seriestiriList/refs/heads/main/s3.json",
-"import":"false"
-},
-{
-"name": "𝕊𝕖𝕣𝕚𝕖 Ni una más 2024",
-"image": "https://pics.filmaffinity.com/ni_una_mas-144753997-large.jpg",
-"info" : "Drama/Adolescencia/Acoso escolar/Bullying/Cole&Uni/Feminismo",
-"author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
-"url": "https://raw.githubusercontent.com/tirimosqui2/seriestiriList/refs/heads/main/s4.json",
-"import":"false"
-},
 ]},
 {
 "name" : "📜𝐜𝐨𝐫𝐭𝐨𝐬
