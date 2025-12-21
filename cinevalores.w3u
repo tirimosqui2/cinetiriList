@@ -11,6 +11,16 @@
 "image" : "https://es.tiching.com/uploads/contents/2013/11/05/111172_1383666274_m.png",
 "stations" : 
 	[
+{        
+"name" : "Los Muértimer 2025",
+"info" : " 📚 Aventuras/Terror/Cine familiar/ Acoso escolar/Bullying
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+   Nico es un chaval de quince años inteligente e introvertido que sufre acoso escolar porque sus padres son propietarios de la única funeraria del pueblo",
+"image" : "https://pics.filmaffinity.com/los_muertimer-721801579-mmed.jpg",
+"url" : "https://abstream.to/e/r48kcvgga5c1",        
+"isHost" : true
+},
 {
 "name": "Lirios de agua 2007 vso FR sub ESP",
 "image" : "https://pics.filmaffinity.com/naissance_des_pieuvres_water_lilies-706330240-mmed.jpg",
@@ -3009,6 +3019,7 @@ telefonos para una emergencia e info Manten pulsado el numero y te dara la opcio
 ]}
 ]
 }
+
 
 
 
