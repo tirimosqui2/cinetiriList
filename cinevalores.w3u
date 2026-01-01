@@ -11,6 +11,16 @@
 "image" : "https://es.tiching.com/uploads/contents/2013/11/05/111172_1383666274_m.png",
 "stations" : 
 	[
+{
+"name" : "Bad Teacher 2011",
+"info" : " 📚 comedia/Adolescencia/Cole & Univ/Enseñanza
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+ una profesora despiadada, grosera, malhablada y absolutamente irresponsable: bebe, se coloca y solo piensa en encontrar un buen partido para poder dejar de trabajar",	
+"image" : "https://pics.filmaffinity.com/bad_teacher-569182694-large.jpg",
+"url" : "https://ok.ru/videoembed/9116073921273?nochat=1&autoplay=1",
+"isHost" : true
+},
 {        
 "name" : "Los Muértimer 2025",
 "info" : " 📚 Aventuras/Terror/Cine familiar/ Acoso escolar/Bullying
@@ -3039,6 +3049,7 @@ telefonos para una emergencia e info Manten pulsado el numero y te dara la opcio
 ]}
 ]
 }
+
 
 
 
