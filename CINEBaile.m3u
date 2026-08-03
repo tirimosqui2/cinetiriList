@@ -1,5 +1,9 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/empire_records-578143713-mmed.jpg",Empire records 1995
+https://ok.ru/videoembed/2315865033356?nochat=1&autoplay=1
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/empire_records-578143713-mmed.jpg",Empire records 1995 op2
+https://ok.ru/videoembed/3698780605017?nochat=1&autoplay=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/gXQ4dJDl32ELytbmnz0V8sa7rQW.jpg",Fly 2021
 https://maxfinishseveral.com/e/v1n7n67o3cah
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/xoNkCaqnBmy6G6C6PhOGka9EDst.jpg",Stomp the Yard: Ritmo salvaje 2007
